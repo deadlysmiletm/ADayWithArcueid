@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137554949f0e9e044aed72dabaebd678, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  data:
+  - {fileID: 5064123124171149504}
+  - {fileID: 490804304614493735}
+  - {fileID: 5659291722204558346}
+  - {fileID: 5956529410322628147}
+--- !u!114 &490804304614493735
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65112fc6476c814bbaf47f0fdfc2dee, type: 3}
+  m_Name: Archetype
+  m_EditorClassIdentifier: 
+  _name: Archetype
+  _sprites:
+  - Item1: Normal
+    Item2: {fileID: 2020646742790877540, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Elegante
+    Item2: {fileID: -2782077050701484151, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Sorprendida
+    Item2: {fileID: 3411713503312823663, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Lateral
+    Item2: {fileID: -2364464294247156815, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Ataque Mystic
+    Item2: {fileID: -6776873746724674308, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  _animations: []
+  UseSprite: 0
+  UseAnimation: 0
+--- !u!114 &5064123124171149504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65112fc6476c814bbaf47f0fdfc2dee, type: 3}
+  m_Name: ???
+  m_EditorClassIdentifier: 
+  _name: ???
+  _sprites:
+  - Item1: None
+    Item2: {fileID: 21300000, guid: 090ef63b8f6b2554ebf5d7f3eb826ebd, type: 3}
+  _animations: []
+  UseSprite: 0
+  UseAnimation: 0
+--- !u!114 &5659291722204558346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65112fc6476c814bbaf47f0fdfc2dee, type: 3}
+  m_Name: Arcueid
+  m_EditorClassIdentifier: 
+  _name: Arcueid
+  _sprites:
+  - Item1: Normal
+    Item2: {fileID: 7576589302850246701, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Sorpresa
+    Item2: {fileID: -4681632962259542781, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Duda
+    Item2: {fileID: -4368188711211420897, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Molesta
+    Item2: {fileID: 5754364670247999689, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Happy
+    Item2: {fileID: 7741823560741794909, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Feliz
+    Item2: {fileID: 4683029767217502647, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Incomoda
+    Item2: {fileID: 2310977351994820099, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Confundida
+    Item2: {fileID: -1540387795957151522, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Nerviosa
+    Item2: {fileID: -6474066934599098536, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Enojada
+    Item2: {fileID: 4120241008384501670, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Desolada
+    Item2: {fileID: 953610780814590102, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Espalda
+    Item2: {fileID: -8366274479724374746, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Love
+    Item2: {fileID: 373658974625032776, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Arc Left
+    Item2: {fileID: 8236721117203581038, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Arc Right
+    Item2: {fileID: -4094412896367606049, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: SorpreNeko
+    Item2: {fileID: -2770876191554699615, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Neko
+    Item2: {fileID: -2789651176202745761, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Festival Normal
+    Item2: {fileID: 7385931447254825468, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Festival Happy
+    Item2: {fileID: -8086150406387157821, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Festival Sorprendida
+    Item2: {fileID: -4801137870739970439, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  - Item1: Sin control 1
+    Item2: {fileID: 1879459936498639392, guid: eed6d75ce8149b44fa99081b84f603ab, type: 3}
+  - Item1: Sin control 2
+    Item2: {fileID: -4266922479267330303, guid: eed6d75ce8149b44fa99081b84f603ab,
+      type: 3}
+  _animations: []
+  UseSprite: 0
+  UseAnimation: 0
+--- !u!114 &5956529410322628147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65112fc6476c814bbaf47f0fdfc2dee, type: 3}
+  m_Name: Sacchin
+  m_EditorClassIdentifier: 
+  _name: Sacchin
+  _sprites:
+  - Item1: Normal
+    Item2: {fileID: 21300000, guid: 15b8a1e41af38f24caa328199373de38, type: 3}
+  - Item1: Gore
+    Item2: {fileID: 21300000, guid: cdb3d2538da44694faedd277b2d9b504, type: 3}
+  _animations: []
+  UseSprite: 0
+  UseAnimation: 0

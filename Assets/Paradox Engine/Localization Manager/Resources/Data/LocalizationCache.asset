@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c06e1730c75cc24b9c1ff5de41abc3e, type: 3}
+  m_Name: LocalizationCache
+  m_EditorClassIdentifier: 
+  languageDataPacks:
+  - {fileID: 11400000, guid: d68ee9c2cb9a862469845481160871ff, type: 2}
+  - {fileID: 11400000, guid: b0c3882f63bcd1d4e89f4a54738a6326, type: 2}
+  - {fileID: 11400000, guid: 240362a1b3e82a944ab0a5abd79d82dd, type: 2}
+  - {fileID: 11400000, guid: fe58e949619ba7040810c15f265acac7, type: 2}
+  - {fileID: 11400000, guid: fe31a1de0fc2ab24db8043382526e46f, type: 2}
+  - {fileID: 11400000, guid: 731d02f908702a4408df1d7fa4bcdb57, type: 2}
+  currentLanguage: 
+  isLoaded: 0

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3042564428205127326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f94aca7bc3724469f4652eab0bcfb1, type: 3}
+  m_Name: Tsuki
+  m_EditorClassIdentifier: 
+  _name: Tsuki
+  _sounds:
+  - Item1: Track 1
+    Item2: {fileID: 8300000, guid: 5b25f1d10c948914e80a449272a90388, type: 3}
+  - Item1: Track 7
+    Item2: {fileID: 8300000, guid: e376d14d94176e24fb61f1c6798d4775, type: 3}
+  - Item1: Track 6
+    Item2: {fileID: 8300000, guid: 0a5679e0592f32645a8172b91a9039ea, type: 3}
+  - Item1: Track 8
+    Item2: {fileID: 8300000, guid: 0252b7df22142bc40a3eb7e3b5ae99c4, type: 3}
+  - Item1: Track 9
+    Item2: {fileID: 8300000, guid: 2530d8381abfafa4598ebc2f6bab6f85, type: 3}
+  - Item1: Track 2
+    Item2: {fileID: 8300000, guid: c4f4cbad9e78d5b4ca278be7edf5d67a, type: 3}
+  - Item1: Track 3
+    Item2: {fileID: 8300000, guid: d9680300ea0ecd046af4ad3def4fe6cd, type: 3}
+  - Item1: Track 10
+    Item2: {fileID: 8300000, guid: 5e2041d029c5e4d4d8ac691dca9fcc13, type: 3}
+  - Item1: End Battle
+    Item2: {fileID: 8300000, guid: 6097accac1e011e42b8f806e12d7dfd0, type: 3}
+  - Item1: Premonition
+    Item2: {fileID: 8300000, guid: 62b8825d45df7ca4c88b8bd337bc6d96, type: 3}
+  - Item1: Creditos
+    Item2: {fileID: 8300000, guid: e76a920cb1fa80f4e9a1bd56b1f12fc2, type: 3}
+  - Item1: Like a cat
+    Item2: {fileID: 8300000, guid: 93b73e8f34c150746bd4a62ea3fa8658, type: 3}
+  - Item1: Sacchin
+    Item2: {fileID: 8300000, guid: 66c51f846df906d4190dab3f0cc250a3, type: 3}
+  - Item1: Festival
+    Item2: {fileID: 8300000, guid: 922e8a221459a5f45ae61909e0510a50, type: 3}
+  Channel: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137554949f0e9e044aed72dabaebd678, type: 3}
+  m_Name: Soundtracks
+  m_EditorClassIdentifier: 
+  data:
+  - {fileID: 679629188314044506}
+  - {fileID: -3042564428205127326}
+  - {fileID: 203951669291381898}
+--- !u!114 &203951669291381898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f94aca7bc3724469f4652eab0bcfb1, type: 3}
+  m_Name: Tsuki test FX
+  m_EditorClassIdentifier: 
+  _name: Tsuki test FX
+  _sounds:
+  - Item1: Slash
+    Item2: {fileID: 8300000, guid: 96e521c089d5e134580e1d84f3e69ae0, type: 3}
+  - Item1: arbusto
+    Item2: {fileID: 8300000, guid: 8915e832b97d56d4cb2cb4ba609bc468, type: 3}
+  - Item1: Swipe
+    Item2: {fileID: 8300000, guid: 634d38dee01a96e47bfeec31addb51f4, type: 3}
+  - Item1: Heart
+    Item2: {fileID: 8300000, guid: 4498888b7371f444ea5e1e84f3529dba, type: 3}
+  - Item1: Puerta abrir
+    Item2: {fileID: 8300000, guid: 198455b31d070fe4f875eeb468e9887c, type: 3}
+  - Item1: Puerta crujir
+    Item2: {fileID: 8300000, guid: bd2a16be4c03d2a4087f50bb631230b5, type: 3}
+  - Item1: Puerta cerrar
+    Item2: {fileID: 8300000, guid: 432aba2ecc7fb5b4883fb8de5e1cade3, type: 3}
+  - Item1: Fireworks
+    Item2: {fileID: 8300000, guid: c1454a956b825ea449304c48ec790249, type: 3}
+  Channel: 1
+--- !u!114 &679629188314044506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f94aca7bc3724469f4652eab0bcfb1, type: 3}
+  m_Name: Arc voices
+  m_EditorClassIdentifier: 
+  _name: Arc voices
+  _sounds:
+  - Item1: Final Nya
+    Item2: {fileID: 8300000, guid: 64e6781f4aa038f49a1ed878db72a140, type: 3}
+  - Item1: Nya
+    Item2: {fileID: 8300000, guid: 0c8296cc90b72aa4c9db389e23f5005d, type: 3}
+  Channel: 2

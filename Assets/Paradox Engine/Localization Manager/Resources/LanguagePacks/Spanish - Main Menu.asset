@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2313680a30bd948a7c3ad2d4a26d38, type: 3}
+  m_Name: Spanish - Main Menu
+  m_EditorClassIdentifier: 
+  filterName: es
+  objectsName:
+  - Options
+  - Rastro de sangre
+  - Promesa
+  - Extra
+  - Cita en la ciudad
+  - Back
+  - FullscreenText
+  - "Adi\xF3s repentino"
+  - VoiceText
+  - "B\xFAsqueda eterna"
+  - GraphicText
+  - Text
+  - Graphic
+  - Desistir
+  - SoundFXText
+  - Infierno Brunestud
+  - Princesa de sangre
+  - "Feliz cumplea\xF1os, Arcueid"
+  - Back
+  - Title
+  - LanguageText
+  - "Cumplea\xF1os"
+  - Ok
+  - Play
+  - Arcueid Wars
+  - Audio
+  - Ends
+  - Verdadero despertar
+  - MusicText
+  - "Un a\xF1o juntos"
+  - A cat is fine too
+  - Quit
+  - Language
+  - ResolutionText
+  - LanguageDropdown
+  - GraphicDropdown
+  answerNodeData: []
+  textNodeData: []
+  textData:
+  - id: f69474de1f30b347aec89375915ff5db
+    filterType: 0
+    data: OPCIONES
+  - id: aa53f19d9f7ad14e9b1e35131038b849
+    filterType: 0
+    data: Rastro de sangre
+  - id: 777b4dff21ea15439ad58ddfe19ddcc2
+    filterType: 0
+    data: Promesa
+  - id: 617e5b998e43ac489a1e9e6f456810d8
+    filterType: 0
+    data: EXTRAS
+  - id: 60f42ec30794c447be7a3f9d846b2e86
+    filterType: 0
+    data: Cita en la ciudad
+  - id: 6f481b58172b96418ad5eaab0f542600
+    filterType: 0
+    data: "ATR\xC1S"
+  - id: 30a578e5c493984db7f8676aede30a62
+    filterType: 0
+    data: Pantalla completa
+  - id: 25424e800331964f9b8c96585a837153
+    filterType: 0
+    data: "Adi\xF3s repentino"
+  - id: 373c3818df41364386283969f4abd9cb
+    filterType: 0
+    data: Voces
+  - id: 189001d1f94c6b4a92c0b5f3576a14a8
+    filterType: 0
+    data: "B\xFAsqueda eterna"
+  - id: 8567c46b7193d540a23ee76fb9698b9d
+    filterType: 0
+    data: "Gr\xE1ficos"
+  - id: 0027b08503bd3047a193e9b6ff15539a
+    filterType: 0
+    data: CAMBIAR NOMBRE
+  - id: ea1ba9a438b28e48bb089c74599d810d
+    filterType: 0
+    data: "GR\xC1FICOS"
+  - id: 18432f316cda2f469b4f293d1e6f505a
+    filterType: 0
+    data: Desistir
+  - id: b338a60c5b560340a5df81d5cf801e37
+    filterType: 0
+    data: Efectos Sonido
+  - id: 99a8ce4305548b4ca5d1f7cd85b2279f
+    filterType: 0
+    data: Infierno Brunestud
+  - id: 42a57daacd6a5542b6245947640ee47d
+    filterType: 0
+    data: Princesa de sangre
+  - id: 64547c5dd566124c9593d46ad953c028
+    filterType: 0
+    data: "Feliz d\xEDa, Arcueid"
+  - id: fda8628c5f73a64ca317ec13c5be95ac
+    filterType: 0
+    data: "ATR\xC1S"
+  - id: 73657e45c2800544baf959ef4a2bff49
+    filterType: 0
+    data: 'A Day with
+
+      Arcueid'
+  - id: e5db6ca424568a4e9b23f10c13ab7ae2
+    filterType: 0
+    data: Idioma
+  - id: b1dfcef66701c24eb27e6bccd9f279d0
+    filterType: 0
+    data: "Cumplea\xF1os"
+  - id: bd79c1cf28704f4f9b31684bae85cbd2
+    filterType: 0
+    data: ACEPTAR
+  - id: c6dcaf28ffa9564abf4c762ded325725
+    filterType: 0
+    data: JUGAR
+  - id: 02de943edb9e994b8f3a1f697cc31344
+    filterType: 0
+    data: Arcueid Wars
+  - id: d1af4d669972ab44be99b1a46d7ee728
+    filterType: 0
+    data: AUDIO
+  - id: e06b6fe9437f4549bb2b867424fb0069
+    filterType: 0
+    data: Finales
+  - id: 25948ea34d4bb44db632094f649c4de4
+    filterType: 0
+    data: Verdadero despertar
+  - id: 6b56a5fa1d83124a8e7db0d4563a30e2
+    filterType: 0
+    data: "M\xFAsica"
+  - id: 8206ca9fd9f45e44b6096f6bcfd5dd03
+    filterType: 0
+    data: "Un a\xF1o juntos"
+  - id: 68637f3db8bc7243a5252052e64d7e82
+    filterType: 0
+    data: A cat is fine too
+  - id: 77bfd9ca4c7ade4b84b1d1251b69aefd
+    filterType: 0
+    data: SALIR
+  - id: 9ef21ffbf7363448b6cfd04f38b72753
+    filterType: 0
+    data: IDIOMA
+  - id: e2e045ad486965459348d885c59de0c9
+    filterType: 0
+    data: "Resoluci\xF3n"
+  dropdownData:
+  - id: ddeab1f9355c9d4f83e9bbb83a0bd4a2
+    filterType: 3
+    data:
+    - "Espa\xF1ol"
+    - Ingles
+  - id: 1b8b9c03676a8a47934222ae9452284b
+    filterType: 3
+    data:
+    - Bajos
+    - Medios
+    - Altos

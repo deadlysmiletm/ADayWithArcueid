@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1920a5c4eea5e74dae1ceda99f2f3a8, type: 3}
+  m_Name: Parameters
+  m_EditorClassIdentifier: 
+  referenceData:
+  - Name: PlayTimes
+    IndexInCollection: 0
+    Type: 1
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: Arcueid bond
+    IndexInCollection: 1
+    Type: 1
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: Random
+    IndexInCollection: 2
+    Type: 1
+    Accessibility: 1
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: Ended
+    IndexInCollection: 0
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: ArchetypeDefeated
+    IndexInCollection: 1
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: CatEnds
+    IndexInCollection: 3
+    Type: 1
+    Accessibility: 1
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: ArcDay
+    IndexInCollection: 2
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 24eee13d5b99145478a3e3ae8db98814, type: 2}
+    IsPersistent: 0
+  - Name: Name
+    IndexInCollection: 0
+    Type: 4
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: TrueAwaken
+    IndexInCollection: 3
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 0719596495e15304697bee27e920c7e0, type: 2}
+    IsPersistent: 0
+  - Name: BloodPath
+    IndexInCollection: 4
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 24eee13d5b99145478a3e3ae8db98814, type: 2}
+    IsPersistent: 0
+  - Name: Birthday
+    IndexInCollection: 5
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: CityDate
+    IndexInCollection: 6
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: AYearTogether
+    IndexInCollection: 7
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: Desist
+    IndexInCollection: 8
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: ArcueidWars
+    IndexInCollection: 9
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: SuddenGoodbye
+    IndexInCollection: 10
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: Promise
+    IndexInCollection: 11
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: EternalPersuit
+    IndexInCollection: 12
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: BloodPrincess
+    IndexInCollection: 13
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: BrunestudHell
+    IndexInCollection: 14
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: ACatIsFineToo
+    IndexInCollection: 15
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  - Name: HappyBirthdayArc
+    IndexInCollection: 16
+    Type: 3
+    Accessibility: 0
+    EngineGraph: {fileID: 11400000, guid: 51d0456219b0fb949a48868f95efa46a, type: 2}
+    IsPersistent: 0
+  intData:
+  - Name: PlayTimes
+    Value: 1
+  - Name: Arcueid bond
+    Value: 0
+  - Name: Random
+    Value: 0
+  - Name: CatEnds
+    Value: 0
+  floatData: []
+  boolData:
+  - Name: Ended
+    Value: 0
+  - Name: ArchetypeDefeated
+    Value: 0
+  - Name: ArcDay
+    Value: 1
+  - Name: TrueAwaken
+    Value: 1
+  - Name: BloodPath
+    Value: 0
+  - Name: Birthday
+    Value: 0
+  - Name: CityDate
+    Value: 0
+  - Name: AYearTogether
+    Value: 0
+  - Name: Desist
+    Value: 0
+  - Name: ArcueidWars
+    Value: 0
+  - Name: SuddenGoodbye
+    Value: 0
+  - Name: Promise
+    Value: 0
+  - Name: EternalPersuit
+    Value: 0
+  - Name: BloodPrincess
+    Value: 0
+  - Name: BrunestudHell
+    Value: 0
+  - Name: ACatIsFineToo
+    Value: 0
+  - Name: HappyBirthdayArc
+    Value: 0
+  stringData:
+  - Name: Name
+    Value: Lucas

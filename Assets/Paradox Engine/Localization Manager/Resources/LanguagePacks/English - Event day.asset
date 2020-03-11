@@ -1,0 +1,1821 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef2313680a30bd948a7c3ad2d4a26d38, type: 3}
+  m_Name: English - Event day
+  m_EditorClassIdentifier: 
+  filterName: en
+  objectsName:
+  - EventDay
+  answerNodeData:
+  - id: 87d4f444db2c374ca287ea7e1d70f775
+    filterType: 2
+    data: 2. Seguir buscando.
+    parentReference: 0
+  - id: 6133946c2e9b42408600017e0e859ede
+    filterType: 2
+    data: 1. Hide in the bathroom.
+    parentReference: 0
+  - id: bdf8982ac5e90b4abd622089dae2b441
+    filterType: 2
+    data: "2. Tuviste que ver tu expresi\xF3n, Arcueid."
+    parentReference: 0
+  - id: 421373f2f25c61428ba4e0201b4b7bef
+    filterType: 2
+    data: 1. Asustarla
+    parentReference: 0
+  - id: 872f09550d2bc54492f2296ce4ea5270
+    filterType: 2
+    data: 2. Seguir buscando.
+    parentReference: 0
+  - id: b4093a6f250bca4d80f4ea24c698ba06
+    filterType: 2
+    data: "1. Atr\xE1s de la puerta."
+    parentReference: 0
+  - id: 9315884a9e4eee48ba7f426ad05446ad
+    filterType: 2
+    data: "1. \xBFDesde cu\xE1ndo est\xE1s despierta?"
+    parentReference: 0
+  - id: 79c3ee8decbeaa4982d57df5b2954bf2
+    filterType: 2
+    data: "2. \xBFYa est\xE1s lista?"
+    parentReference: 0
+  - id: 5b49e0d578e185429dde48fd70f5e662
+    filterType: 2
+    data: "1. No s\xE9 de qu\xE9 hablas."
+    parentReference: 0
+  - id: c8e2bd180540294cb4604809f4834eaf
+    filterType: 2
+    data: 1. Te ves muy bien.
+    parentReference: 0
+  - id: 161c925073fccf458c8e674c05a0fd8a
+    filterType: 2
+    data: "1. \xA1\xA1FELIZ CUMPLEA\xD1OS, ARCUEID!!"
+    parentReference: 0
+  - id: bba6240ab1a5f34b869f557c957b851b
+    filterType: 2
+    data: "1. \xBFEst\xE1s bien, Arcueid?"
+    parentReference: 0
+  - id: 3b16d4c4f5fb8241b1c3b264047408a0
+    filterType: 2
+    data: 1. Mira arriba.
+    parentReference: 0
+  textNodeData:
+  - id: 4bf77ffc2d43994e8b6b0ffc133b34e0
+    filterType: 1
+    data:
+    - Text: "\xA1Es el momento!"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: e180569cda90f5478a20d9a017d13420
+    filterType: 1
+    data:
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "\xBFEh..?"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: ac33b5290071d844908d6287468cc90c
+    filterType: 1
+    data:
+    - Text: Desde que intentabas esconderte en mi canasto de ropa sucia.
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Parec\xEDas divertirte."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Sientes que quiz\xE1s era mejor no haber sabido eso..."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Notaci\xF3n mental."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Arcueid ve mejor que t\xFA en la obscuridad."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 403a0a0dc2ff654d9a66a82cf97e5c22
+    filterType: 1
+    data:
+    - Text: "S\xED, este es el mejor lugar para un buen susto. Quiz\xE1s demasiado
+        bueno."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Tienes raz\xF3n, parece un buen lugar para esconderse."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Pero, \xBFde qui\xE9n nos escondemos?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: cd5453d8be374b45a9e45a420bf6f9ae
+    filterType: 1
+    data:
+    - Text: "\xBFUmmm?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "No, a\xFAn no. Estaba buscando algo especial que ponerme."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9ddf3410f459dc479045777a47cf36ab
+    filterType: 1
+    data:
+    - Text: "Si quieres puedes ir adelant\xE1ndote."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "En cuanto est\xE9 lista ir\xE9."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 1e8efdc457261d4cb20cf924ae25882a
+    filterType: 1
+    data:
+    - Text: No, tiene que ser perfecto.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "A\xFAn tiene que haber un lugar en donde Arcueid no lo espere."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 252874908c045a42a6bf606cf510256e
+    filterType: 1
+    data:
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "\xBFEh..?"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 1c335e89569b73458948547301a7d150
+    filterType: 1
+    data:
+    - Text: "\xA1\xBFARCUEID?!"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 44637564717b3c49a88bb0a1bfa69a63
+    filterType: 1
+    data:
+    - Text: "\xBFPor qu\xE9 reaccionas as\xED?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Vi que te estabas divirtiendo y quise unirme.
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: d8e7468d66664243b2dd7b06078f59bd
+    filterType: 1
+    data:
+    - Text: "\xBFQu\xE9 sucede?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Escuch\xE9 que alguien est\xE1ba rondando fuera de mi habitaci\xF3n
+        y quise ver qu\xEDen era."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 81afbc1bc6b87349b5a76dca43392aa6
+    filterType: 1
+    data:
+    - Text: "A\xFAn no, pero ten\xEDa curiosidad en qu\xE9 estabas haciendo."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 294360f58766a6498a2693d67b513075
+    filterType: 1
+    data:
+    - Text: Tus instintos primarios se disparan.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Deseas correr...
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: escapar...
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "desaparecer de este lugar lo m\xE1s r\xE1pido posible..."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: Pero no puedes.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9556bacf383cf04d91b2d5baad0d65b9
+    filterType: 1
+    data:
+    - Text: "\xA1Espera!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xA1No te vayas, a\xFAn no estoy lista!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 68f963f680e751469762b108fb48f74e
+    filterType: 1
+    data:
+    - Text: "\xBFEehh..?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFNo estabas buscando algo en mi canasto de ropa?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "N E G A C I \xD3 N    A B S O L U T A"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 26d1beecf95c2142af9625f36c475b2b
+    filterType: 1
+    data:
+    - Text: "\xBFPor qu\xE9 me miras as\xED?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFAcaso dije algo malo?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "\xBFPor qu\xE9 no dices nada?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 5a737b2abce47e4188570b6a315cb000
+    filterType: 1
+    data:
+    - Text: Ignorando los pedidos de Arcueid y tu propia verguenza, te dirigues solo
+        hacia el lugar de la sorpresa.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "S\xF3lo esperas que Arcueid no se haya molestado, pero ya no puedes
+        voltear para atr\xE1s."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 7aaaf51d36d717469a262885e3cde9a3
+    filterType: 1
+    data:
+    - Text: "Adem\xE1s, as\xED tambi\xE9n tendr\xE9 una sorpresa para ti."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Con esa resplandeciente sonrisa, te despides de Arcueid.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9b07c22c511acd44b6aea0a46cac6532
+    filterType: 1
+    data:
+    - Text: "\xA1AAAAAHHH...!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 82d1dcb7af6cb14baeab386437e16c03
+    filterType: 1
+    data:
+    - Text: "Ser\xEDa en vano pensarlo demasiado, por lo que te decantas por esconderte
+        en el ba\xF1o."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Un lugar simple, pero efectivo.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 4d4d5bba28a73f4e90c9bb30a005d7f0
+    filterType: 1
+    data:
+    - Text: "Te adentras en el peque\xF1o ba\xF1o con las luces apagadas y entornas
+        la puerta."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Parece que Arcueid se ha despertado, puedes oirla moverse en su habitaci\xF3n."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Esperas con paciencia.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 0913390040059a4a9c88f762a78bad69
+    filterType: 1
+    data:
+    - Text: "Hoy va a ser un gran d\xEDa."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Puedes verla al otro lado de la apertura.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: No sospecha nada.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: Como todo debe ser.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 89d4a6235b414c489024aad87cb21abf
+    filterType: 1
+    data:
+    - Text: Ummm...
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFQu\xE9 se supone que deba usar en un evento como ese?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "S\xF3lo un poco m\xE1s."
+      IsDialogue: 0
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Creo que a\xFAn ten\xEDa eso por alg\xFAn lado."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 3ff0e19008449e41bcdf992ba1706f67
+    filterType: 1
+    data:
+    - Text: El ambiente repentinamente se tensa.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Algo va mal...
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Extremadamente mal.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: bac1d0b762b7bf4daa956b1eac4c6390
+    filterType: 1
+    data:
+    - Text: Arcueid se levanta. No parece ella misma.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Intentas disculparte, pero s\xF3lo se queda ah\xED, sin decir nada."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Observ\xE1ndote fijamente."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 69bcfd7b9208a842a420ade30b88c532
+    filterType: 1
+    data:
+    - Text: "Intentas hu\xEDr, pero tus piernas nos responden."
+      IsDialogue: 0
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Tu cuerpo parece...
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: imnotizado por su mirada.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: AHORA ES MI MOMENTO DE DIVERTIRME...
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: eb0014a5c393a5498f94fd2f8376e3c7
+    filterType: 1
+    data:
+    - Text: "Ca\xEDste."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9f8e4a3b9f6e9146ad80cf36e9913b48
+    filterType: 1
+    data:
+    - Text: "Se ve\xEDa divertido, as\xED que quise intentarlo tambi\xE9n."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Haces una notaci\xF3n mental..."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: No volver intentar a asustar a Arcuied si no deseas atenerte a las consecuencias.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 18054ca290d27e4f83c1d342390a986c
+    filterType: 1
+    data:
+    - Text: Al final deciden que te vas a adelantar mientras ella termina de prepararse.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Felizmente dijo que ser\xEDa bueno tambi\xE9n darte una sorpresa."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 1
+    - Text: "S\xF3lo esperas que no sea como la anterior..."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 74271adb8f1af74ba9618e3774591d41
+    filterType: 1
+    data:
+    - Text: "\xA1\xBFARCUEID?!"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 390bc6a41faec44a8ef34c930ef8f446
+    filterType: 1
+    data:
+    - Text: Ya se acerca la hora.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Detienes a Arcueid de su inacabable aventura antes de que sea el momento.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Si todo va como planeaste, deber\xEDa estar por ocurrir."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: b7dcd21f9d298a438ede73764a0d09fc
+    filterType: 1
+    data:
+    - Text: "\xBFUmmm?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFQu\xE9 sucede, {Name}?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9ee1b57412548c47a84e86c29aaed2c6
+    filterType: 1
+    data:
+    - Text: "\xA1Vayamos r\xE1pido, quiero ver!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Arcueid sube r\xE1pido por las escaleras, con algo de dificultad debido
+        al kimono, pero lo suficiente como para que no logres alcanzarla."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 1f1c8d10789bc04c9897f007c71c203d
+    filterType: 1
+    data:
+    - Text: "\xA1Wow! \xBFT\xFA hiciste todo esto? \xBFC\xF3mo?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 4491fd653a32e043a1fa4b73c2c0f4d4
+    filterType: 1
+    data:
+    - Text: "No importa. \xA1Vamos, hay que divertirnos!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Arcueid te toma del brazo y te arrastra consigo hacia la primera tienda
+        que se le pasa por la mirada.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "En un principio se mostr\xF3 sorprendida al ver que no hab\xEDa nadie
+        atendiendo, pero pareci\xF3 divertirse a\xFAn m\xE1s cuando tomaste el papel
+        de vendedor."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 296e5e7c3d944c41a4f706166de32c54
+    filterType: 1
+    data:
+    - Text: Umm...
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xA1Quiero uno de esos!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: No, ese no. El blanco.
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9f7a2d5b001dba469e696fa3bef4a99e
+    filterType: 1
+    data:
+    - Text: Un fuerte dolor te punza en la cabeza.
+      IsDialogue: 0
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Sientes nauceas.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 1
+    - Text: De forma instintiva, se te pone la piel de gallina.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: f24c2cbd996f0f428f78a2b454d81809
+    filterType: 1
+    data:
+    - Text: "Hey, {Name}, \xBFvan a durar todos los cr\xE9ditos?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 2
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFEeeh? \xBFPor qu\xE9 me miras as\xED?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 2
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFAcaso dije algo malo?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 2
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "\xA1No te vayas, espera! \xA1\xBFPor qu\xE9 no dices nada?!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 2
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 33fb36fb7f7f5040a3319714103b7f40
+    filterType: 1
+    data:
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 1
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: Ya has terminado de preparar todo.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: Te ha llevado su tiempo, pero te sientes orgulloso de la sorpresa que
+        has preparado por ella.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 539d2e899680a5489223ac944c32ecc8
+    filterType: 1
+    data:
+    - Text: Como esperabas, ella sigue descanzando.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Para ser una vampiro te resulta algo descuidada, \xBFqu\xE9 pasar\xEDa
+        si alguien m\xE1s aparte de ti entrara mientras duerme?"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: No quieres pensarlo.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Y por encima de todo, ella se qued\xF3 dormida en su d\xEDa."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Suspiras.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFQuiz\xE1s tambi\xE9n deber\xEDas aprovechar para divertirte un poco?"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 1
+    parentReference: 0
+  - id: 7e1bc50c5890bd4bbe701a01b58a0c38
+    filterType: 1
+    data:
+    - Text: "Abandonas la habitaci\xF3n en silencio y apagas la luz."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Aunque no puedas ver mucho, este te parece ser el \xFAnico modo para
+        no levantar sospechas."
+      IsDialogue: 0
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: f99b4e36255a8a439e452416ca58fae6
+    filterType: 1
+    data:
+    - Text: El tiempo pasa y se te dificulta encontrar un buen lugar para esconderte.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Quiz\xE1s uno obvio no lo sientes una mala idea."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: De todas formas, sabes que ella no lo espera.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 1
+    parentReference: 0
+  - id: 8d07126ab9822b4ea4ff4b09581c7c25
+    filterType: 1
+    data:
+    - Text: "Tienes raz\xF3n, no es lo suficientemente bueno."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Debe haber algo mejor por aqu\xED, te dices mientras sigues revolviendo
+        el lugar."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 9236fb150122a64bb0e6f7767d3e2402
+    filterType: 1
+    data:
+    - Text: "Sientes que est\xE1s desperdiciando mucho tiempo en algo in\xFAtil."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Tras descartar el \xFAltimo, no hay muchos lugares que te parezcan adecuados."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "No parece que tengas mucho tiempo de sobra, por lo que se te ocurre
+        s\xF3lo un lugar m\xE1s."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Un cl\xE1sico."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 242f5de56ac87d4499be0d85052c9b6c
+    filterType: 1
+    data:
+    - Text: Pierdes la cuenta del tiempo que llevas esperando.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFRealmente Arcueid recuerda d\xF3nde es?"
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 0f48d04724baab4eb3526327fa0cfda7
+    filterType: 1
+    data:
+    - Text: Hehe, gracias.
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: fcbe094cff457a4a986eecb165f24def
+    filterType: 1
+    data:
+    - Text: "\xBFQu\xE9 hay arriba?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 2acd3ce22c3c244bb6fb652ef1df6d75
+    filterType: 1
+    data:
+    - Text: "\xA1Woow! "
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xA1Es increible!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 7ac059c9762cf745bc68459471ffe605
+    filterType: 1
+    data:
+    - Text: "Quedas cautivado ante su imnotizada mirada, como una ni\xF1a que comtempla
+        por primera vez en su vida los fuegos artificiales. "
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "S\xF3lo permanece all\xED, cautivada, sin decir una palabra."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Y debido a esto, casi te olvidas de lo m\xE1s importante."
+      IsDialogue: 0
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 34e1f54a64c7084c83e7d98c74679e48
+    filterType: 1
+    data:
+    - Text: "\xA1Muchas gracias, {Name}!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xA1Este es el mejor regalo que me han hecho!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: c9c52a2185d94144b6c1bea66e8e63f0
+    filterType: 1
+    data:
+    - Text: "\xBFEeh? No veo nada."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Le indicas que s\xF3lo espere un momento."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Y entonces...
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 4c938387ad85c04eb98ba69e1a595cfc
+    filterType: 1
+    data:
+    - Text: "Ella se pasea por todos las tiendas, divirti\xE9ndose m\xE1s por c\xF3mo
+        ocupas el rol del due\xF1o que del juego en s\xED."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Y cuando sales de la n\xFAmero veinte, ya est\xE1s tan cansado que a
+        penas puedes caminar."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Notaci\xF3n mental: No colocar tantas tiendas para el pr\xF3ximo a\xF1o..."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: f8b7e53e452f554aaa0849612e18fd39
+    filterType: 1
+    data:
+    - Text: Al fin...
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Todo tu esfuerzo ha valido la pena.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Est\xE1s ante el escondite perfecto."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Se te escapa una l\xE1grima ante tal esplendor de perfecci\xF3n."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Es imposible de que Arcueid siquiera sospeche de que estuviste si te
+        escondes aqu\xED."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 1.2
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "Wow, s\xED que es un buen lugar. Ni siquiera sab\xEDa de que exist\xEDa."
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "Pero, \xBFpor qu\xE9 buscabamos esto?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  - id: 8f581f76c4b7b44687e0e554bedcbe47
+    filterType: 1
+    data:
+    - Text: "\xA1Gracias por esperarme!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xA1Ta-da!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "\xBFC\xF3mo me veo, {Name}?"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 0dd65edd47600f45ae5614d0673719be
+    filterType: 1
+    data:
+    - Text: A lo alto de las escaleras visulumbras las parpadeantes luces del templo.
+      IsDialogue: 0
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "S\xF3lo ustedes dos existen en este mundo."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "As\xED que quiz\xE1s te has excedido un poco en elaborar todo esto.
+        Y probablemente est\xE9s en lo correcto."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: Sin embargo, su sonrisa.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Su mera sonrisa te es un obsequio suficiente.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: "No hay nada m\xE1s en este mundo que puedas desear m\xE1s."
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: "\xA1{Name}!"
+      IsDialogue: 1
+      Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: Hablando del rey de roma.
+      IsDialogue: 0
+      Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    parentReference: 0
+  textData: []
+  dropdownData: []

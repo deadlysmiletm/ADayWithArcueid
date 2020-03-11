@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4999976271227244712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eefb452c3ab1942bc777b1fb1ec304, type: 3}
+  m_Name: HappyArcDay
+  m_EditorClassIdentifier: 
+  _name: HappyArcDay
+  _sprites:
+  - Item1: Cuarto Arc
+    Item2: {fileID: 21300000, guid: 5d73407e838263042a94ad250de27b87, type: 3}
+  - Item1: Escalera
+    Item2: {fileID: 21300000, guid: 60108df96e3aab348adb0307fdb85149, type: 3}
+  - Item1: Templo
+    Item2: {fileID: 21300000, guid: 2125acb79c47bc04a8192fb2f920fc71, type: 3}
+  - Item1: Pasillo Arc
+    Item2: {fileID: 21300000, guid: 72fa2fa76a4f9c64583a94f9a0f9e1a2, type: 3}
+  - Item1: Blood image
+    Item2: {fileID: 21300000, guid: 2893e559e7acd4d4d867d413102532d9, type: 3}
+  - Item1: Cuarto Luz Arc
+    Item2: {fileID: 21300000, guid: 7105fece527b5c7428e5c390a0c41bca, type: 3}
+  - Item1: Pasillo Luz Arc
+    Item2: {fileID: 21300000, guid: 4354ee7a91be7e54fbbe4323c7a6cd4d, type: 3}
+  - Item1: Nigth
+    Item2: {fileID: 21300000, guid: 5529b4509acf7d04f852c8a7442f2f6e, type: 3}
+--- !u!114 &-2887356471621691881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eefb452c3ab1942bc777b1fb1ec304, type: 3}
+  m_Name: Extra CG
+  m_EditorClassIdentifier: 
+  _name: Extra CG
+  _sprites:
+  - Item1: Brunestud Castle
+    Item2: {fileID: 21300000, guid: 709d0b8012e40294dbc15fe5826bbf4f, type: 3}
+  - Item1: Gore 1
+    Item2: {fileID: 21300000, guid: 6d8f04d52877c32498b2bce2ff0aa52d, type: 3}
+  - Item1: Gore 2
+    Item2: {fileID: 21300000, guid: f372236e80a9a4744af1e454ffeca23c, type: 3}
+  - Item1: "Oto\xF1o"
+    Item2: {fileID: 21300000, guid: 860e1343f9b5b2c4385a6c39486cc964, type: 3}
+  - Item1: Corte 1
+    Item2: {fileID: 21300000, guid: dcdc537b9baa1cf4dbd54afdc0b7d0db, type: 3}
+  - Item1: Corte 2
+    Item2: {fileID: 21300000, guid: 2360c56df74f843429473e5e48b3276e, type: 3}
+  - Item1: Death Cat
+    Item2: {fileID: 21300000, guid: 1e102e3c4356c7a4a83e7dce46276158, type: 3}
+  - Item1: Calle
+    Item2: {fileID: 21300000, guid: 7cbf7dd38b68b314e8dc1d7a8e10b7ad, type: 3}
+  - Item1: NEXT 10 YEARS
+    Item2: {fileID: 21300000, guid: e3deade4552637748a02f10b5be859c3, type: 3}
+  - Item1: Creditos
+    Item2: {fileID: 21300000, guid: a96b164aaade19f4d91ee8e9cc4c9f43, type: 3}
+  - Item1: CreditosColor
+    Item2: {fileID: 21300000, guid: 40fb0b24693cc0a4f8af636c40dcb95a, type: 3}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137554949f0e9e044aed72dabaebd678, type: 3}
+  m_Name: Locations
+  m_EditorClassIdentifier: 
+  data:
+  - {fileID: -2887356471621691881}
+  - {fileID: -4999976271227244712}
+  - {fileID: 6541838530655457971}
+--- !u!114 &6541838530655457971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eefb452c3ab1942bc777b1fb1ec304, type: 3}
+  m_Name: Tsukihime
+  m_EditorClassIdentifier: 
+  _name: Tsukihime
+  _sprites:
+  - Item1: Clase
+    Item2: {fileID: 21300000, guid: 6ef299b0ea426cc4f9b61df4b124eafb, type: 3}
+  - Item1: End
+    Item2: {fileID: 21300000, guid: f3761291c522ecd4e8f7a107f3dfef2f, type: 3}
+  - Item1: Black
+    Item2: {fileID: 21300000, guid: 4ff6a0c7d7d42c24ca7a9b780f5d97b8, type: 3}
+  - Item1: Arc Sentada
+    Item2: {fileID: 21300000, guid: dfb635fcaa9da6541a7455f9114292ca, type: 3}
+  - Item1: Arc Atardecer
+    Item2: {fileID: 21300000, guid: 189a222a84b0f464aae1f79d18f81c83, type: 3}
+  - Item1: "Arc d\xEDa"
+    Item2: {fileID: 21300000, guid: 241c14a65a9174741be5a2af636b2597, type: 3}
+  - Item1: Atardecer
+    Item2: {fileID: 21300000, guid: 78b110e55c7633044955638857bd0e57, type: 3}
+  - Item1: Arc Atardecer 2
+    Item2: {fileID: 21300000, guid: 81b03de82c6d5d148960fdec432d96f3, type: 3}
+  - Item1: Arc ciudad
+    Item2: {fileID: 21300000, guid: 27e6569c11f19584ca9ad3cc41cf202b, type: 3}
+  - Item1: Arc regazo
+    Item2: {fileID: 21300000, guid: 0d8aa2806ab9bc94faaf13f7ff0849e0, type: 3}
+  - Item1: Beso
+    Item2: {fileID: 21300000, guid: 765a15f82fe2aef44b80ecc4825f0f33, type: 3}
+  - Item1: Moon princess
+    Item2: {fileID: 21300000, guid: 556747dc8df6f4942a9e61500f00ee0e, type: 3}
+  - Item1: Moon stage
+    Item2: {fileID: 21300000, guid: a93f9b3bca78afd42ab40b2b0c63774f, type: 3}
+  - Item1: white
+    Item2: {fileID: 21300000, guid: 598de39b46201294f95c379298523ba9, type: 3}
+  - Item1: tarde clase
+    Item2: {fileID: 21300000, guid: 042a89f35f36407448aa24b06d8bf850, type: 3}
+  - Item1: Bosque
+    Item2: {fileID: 21300000, guid: b4366e2785f977740bde6d102d87ad88, type: 3}

@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CGAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 10
+      m_TextureCompression: 1
+      m_CompressionQuality: 70
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 45
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: WebGL
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 10
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: abe9e970e36b72d43a48d3c8e8db6d42, type: 3}
+    - {fileID: 102900000, guid: 20b29d73a4873f949b17d618a7c2fb62, type: 3}
+    totalSpriteSurfaceArea: 15464388
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5529b4509acf7d04f852c8a7442f2f6e, type: 3}
+  - {fileID: 21300000, guid: 0d8aa2806ab9bc94faaf13f7ff0849e0, type: 3}
+  - {fileID: 21300000, guid: 709d0b8012e40294dbc15fe5826bbf4f, type: 3}
+  - {fileID: 21300000, guid: 6ef299b0ea426cc4f9b61df4b124eafb, type: 3}
+  - {fileID: 21300000, guid: f3761291c522ecd4e8f7a107f3dfef2f, type: 3}
+  - {fileID: 21300000, guid: 6b576eb2163a2c44c85849690b9db559, type: 3}
+  - {fileID: 21300000, guid: 860e1343f9b5b2c4385a6c39486cc964, type: 3}
+  - {fileID: 21300000, guid: 7cbf7dd38b68b314e8dc1d7a8e10b7ad, type: 3}
+  - {fileID: 21300000, guid: 042a89f35f36407448aa24b06d8bf850, type: 3}
+  - {fileID: 21300000, guid: 40fb0b24693cc0a4f8af636c40dcb95a, type: 3}
+  - {fileID: 21300000, guid: e3deade4552637748a02f10b5be859c3, type: 3}
+  - {fileID: 21300000, guid: 6d8f04d52877c32498b2bce2ff0aa52d, type: 3}
+  - {fileID: 21300000, guid: 78b110e55c7633044955638857bd0e57, type: 3}
+  - {fileID: 21300000, guid: 241c14a65a9174741be5a2af636b2597, type: 3}
+  - {fileID: 21300000, guid: b4366e2785f977740bde6d102d87ad88, type: 3}
+  - {fileID: 21300000, guid: 72fa2fa76a4f9c64583a94f9a0f9e1a2, type: 3}
+  - {fileID: 21300000, guid: 2125acb79c47bc04a8192fb2f920fc71, type: 3}
+  - {fileID: 21300000, guid: 4ff6a0c7d7d42c24ca7a9b780f5d97b8, type: 3}
+  - {fileID: 21300000, guid: 81b03de82c6d5d148960fdec432d96f3, type: 3}
+  - {fileID: 21300000, guid: 765a15f82fe2aef44b80ecc4825f0f33, type: 3}
+  - {fileID: 21300000, guid: 2893e559e7acd4d4d867d413102532d9, type: 3}
+  - {fileID: 21300000, guid: 60108df96e3aab348adb0307fdb85149, type: 3}
+  - {fileID: 21300000, guid: 189a222a84b0f464aae1f79d18f81c83, type: 3}
+  - {fileID: 21300000, guid: a96b164aaade19f4d91ee8e9cc4c9f43, type: 3}
+  - {fileID: 21300000, guid: 4354ee7a91be7e54fbbe4323c7a6cd4d, type: 3}
+  - {fileID: 21300000, guid: a93f9b3bca78afd42ab40b2b0c63774f, type: 3}
+  - {fileID: 21300000, guid: dcdc537b9baa1cf4dbd54afdc0b7d0db, type: 3}
+  - {fileID: 21300000, guid: 598de39b46201294f95c379298523ba9, type: 3}
+  - {fileID: 21300000, guid: 1e102e3c4356c7a4a83e7dce46276158, type: 3}
+  - {fileID: 21300000, guid: 27e6569c11f19584ca9ad3cc41cf202b, type: 3}
+  - {fileID: 21300000, guid: 556747dc8df6f4942a9e61500f00ee0e, type: 3}
+  - {fileID: 21300000, guid: dfb635fcaa9da6541a7455f9114292ca, type: 3}
+  - {fileID: 21300000, guid: 2360c56df74f843429473e5e48b3276e, type: 3}
+  - {fileID: 21300000, guid: f372236e80a9a4744af1e454ffeca23c, type: 3}
+  - {fileID: 21300000, guid: 5d73407e838263042a94ad250de27b87, type: 3}
+  - {fileID: 21300000, guid: 7105fece527b5c7428e5c390a0c41bca, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ima_10b
+  - Tsukihime.full.1021450
+  - cmo_08
+  - bg_06a
+  - Screenshot-332
+  - Screenshot-253
+  - ima_15
+  - bg_47
+  - bg_06b
+  - arcueid-Aster-draw-Color
+  - tothenext10years
+  - ima_12
+  - ima_08
+  - Arcueid.Brunestud.full.1021272
+  - bg_54c
+  - bg_14c
+  - bg_104
+  - black
+  - tsukihime_cg___52_1115777847
+  - 5-5578-18318-shikikissingarcueidjpg-620x
+  - ima_11b
+  - bg_103
+  - Arcueid.Brunestud.full.1021271
+  - arcueid-Aster-draw
+  - bg_14d
+  - maxresdefault
+  - ima_25a
+  - white
+  - ima_28
+  - unnamed
+  - Kagetsu-Tohya-arc
+  - Kagetsu Tooya 3
+  - ima_25b
+  - ima_12b
+  - bg_15b
+  - bg_15c
+  m_Tag: CGAtlas
+  m_IsVariant: 0
