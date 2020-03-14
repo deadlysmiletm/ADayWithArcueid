@@ -1,0 +1,1048 @@
+{
+    "graphName": "Spanish - Event day",
+    "textData": [
+        {
+            "LocalizationID": "fc7ff74b-432d-4e99-8b6b-0ffc133b34e0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "¡Es el momento!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "9c5680e1-90da-47f5-8a20-d9a017d13420",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Eh..?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "29b533ac-7100-44d8-908d-6287468cc90c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Desde que intentabas esconderte en mi canasto de ropa sucia."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Parecías divertirte."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes que quizás era mejor no haber sabido eso..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Notación mental."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid ve mejor que tú en la obscuridad."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "0d0a3a40-ffc2-4d65-9a66-a82cf97e5c22",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sí, este es el mejor lugar para un buen susto. Quizás demasiado bueno."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Tienes razón, parece un buen lugar para esconderse."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero, ¿de quién nos escondemos?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d85354cd-37be-454b-a9e4-5a420bf6f9ae",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Ummm?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No, aún no. Estaba buscando algo especial que ponerme."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "1034df9d-59f4-47dc-9045-777a47cf36ab",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Si quieres puedes ir adelantándote."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "En cuanto esté lista iré."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "c4fd8e1e-2657-4c1d-b20c-f924ae25882a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "No, tiene que ser perfecto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Aún tiene que haber un lugar en donde Arcueid no lo espere."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "90742825-048c-425a-a6bf-606cf510256e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Eh..?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "895e331c-9b56-4573-8948-547301a7d150",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "¡¿ARCUEID?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "64756344-7b71-493c-a88b-b0a1bfa69a63",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué reaccionas así?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Vi que te estabas divirtiendo y quise unirme."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "8d46e7d8-6666-4342-b2dd-7b06078f59bd",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Qué sucede?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Escuché que alguien estába rondando fuera de mi habitación y quise ver quíen era."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "1bbcaf81-b8c6-4973-b5a7-6dca43392aa6",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Aún no, pero tenía curiosidad en qué estabas haciendo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f5604329-6687-49a6-8a26-93d67b513075",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Tus instintos primarios se disparan."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Deseas correr..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "escapar..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "desaparecer de este lugar lo más rápido posible..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero no puedes."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "cfba5695-3c38-4df0-91b2-d5baad0d65b9",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Espera!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡No te vayas, aún no estoy lista!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f663f968-e780-4651-9762-b108fb48f74e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eehh..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿No estabas buscando algo en mi canasto de ropa?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "N E G A C I Ó N    A B S O L U T A"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ecbed126-5cf9-4221-af96-25f36c475b2b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué me miras así?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Acaso dije algo malo?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué no dices nada?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2a7b735a-e4bc-417e-8857-0b6a315cb000",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Ignorando los pedidos de Arcueid y tu propia verguenza, te dirigues solo hacia el lugar de la sorpresa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo esperas que Arcueid no se haya molestado, pero ya no puedes voltear para atrás."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "1df5aa7a-d736-4617-9a26-2885e3cde9a3",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Además, así también tendré una sorpresa para ti."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Con esa resplandeciente sonrisa, te despides de Arcueid."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2cc2079b-1a51-44cd-b6ae-a0a46cac6532",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡AAAAAHHH...!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b7dcd182-6caf-4bb1-aeab-386437e16c03",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sería en vano pensarlo demasiado, por lo que te decantas por esconderte en el baño."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Un lugar simple, pero efectivo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ba5b4d4d-a728-4e3f-90c9-bb30a005d7f0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Te adentras en el pequeño baño con las luces apagadas y entornas la puerta."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Parece que Arcueid se ha despertado, puedes oirla moverse en su habitación."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esperas con paciencia."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "00391309-0540-4a9a-9c88-f762a78bad69",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Hoy va a ser un gran día."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Puedes verla al otro lado de la apertura."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No sospecha nada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Como todo debe ser."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "23a6d489-415b-484c-9024-aad87cb21abf",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ummm..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Qué se supone que deba usar en un evento como ese?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo un poco más."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Creo que aún tenía eso por algún lado."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "90e1f03f-4408-419e-bcdf-992ba1706f67",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "El ambiente repentinamente se tensa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Algo va mal..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Extremadamente mal."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b7d0c1ba-b762-4dbf-aa95-6b1eac4c6390",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid se levanta. No parece ella misma."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas disculparte, pero sólo se queda ahí, sin decir nada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Observándote fijamente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7bfdbc69-0892-42a8-a420-ade30b88c532",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas huír, pero tus piernas nos responden."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tu cuerpo parece..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "imnotizado por su mirada."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "AHORA ES MI MOMENTO DE DIVERTIRME..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a51400eb-93c3-49a5-8f94-fd2f8376e3c7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Caíste."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "3b4a8e9f-6e9f-4691-ad80-cf36e9913b48",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Se veía divertido, así que quise intentarlo también."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Haces una notación mental..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No volver intentar a asustar a Arcuied si no deseas atenerte a las consecuencias."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a24c0518-d290-4f7e-83c1-d342390a986c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Al final deciden que te vas a adelantar mientras ella termina de prepararse."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Felizmente dijo que sería bueno también darte una sorpresa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo esperas que no sea como la anterior..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "db1a2774-1a8f-4bf7-a961-8e3774591d41",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "¡¿ARCUEID?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a4c60b39-ae1f-4ac4-8ef3-4c930ef8f446",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Ya se acerca la hora."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Detienes a Arcueid de su inacabable aventura antes de que sea el momento."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Si todo va como planeaste, debería estar por ocurrir."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "1fd2dcb7-299d-438a-8ede-73764a0d09fc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Ummm?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Qué sucede, {Name}?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "74b5e19e-5412-478c-a84e-86c29aaed2c6",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Vayamos rápido, quiero ver!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid sube rápido por las escaleras, con algo de dificultad debido al kimono, pero lo suficiente como para que no logres alcanzarla."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "108d1c1f-9b78-4cc0-9897-f007c71c203d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Wow! ¿Tú hiciste todo esto? ¿Cómo?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "65fd9144-323a-43e0-a1fa-4b73c2c0f4d4",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No importa. ¡Vamos, hay que divertirnos!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid te toma del brazo y te arrastra consigo hacia la primera tienda que se le pasa por la mirada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "En un principio se mostró sorprendida al ver que no había nadie atendiendo, pero pareció divertirse aún más cuando tomaste el papel de vendedor."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7c5e6e29-943d-414c-a4f7-06166de32c54",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Umm..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Quiero uno de esos!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No, ese no. El blanco."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5b2d7a9f-1d00-46ba-9e69-6fa3bef4a99e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Un fuerte dolor te punza en la cabeza."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes nauceas."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "De forma instintiva, se te pone la piel de gallina."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "bd2c4cf2-6f99-420f-8f78-a2b454d81809",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Hey, {Name}, ¿van a durar todos los créditos?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeeh? ¿Por qué me miras así?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Acaso dije algo malo?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡No te vayas, espera! ¡¿Por qué no dices nada?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fb36fb33-7f7f-4050-a331-9714103b7f40",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ya has terminado de preparar todo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te ha llevado su tiempo, pero te sientes orgulloso de la sorpresa que has preparado por ella."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "892e9d53-8096-48a5-9223-ac944c32ecc8",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Como esperabas, ella sigue descanzando."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Para ser una vampiro te resulta algo descuidada, ¿qué pasaría si alguien más aparte de ti entrara mientras duerme?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No quieres pensarlo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y por encima de todo, ella se quedó dormida en su día."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Suspiras."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Quizás también deberías aprovechar para divertirte un poco?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "0cc51b7e-9058-4bbd-be70-1a01b58a0c38",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Abandonas la habitación en silencio y apagas la luz."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Aunque no puedas ver mucho, este te parece ser el único modo para no levantar sospechas."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "364e9bf9-5a25-438a-9e45-2416ca58fae6",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "El tiempo pasa y se te dificulta encontrar un buen lugar para esconderte."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás uno obvio no lo sientes una mala idea."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "De todas formas, sabes que ella no lo espera."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "6a12078d-82b9-4e2b-a4ff-4b09581c7c25",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Tienes razón, no es lo suficientemente bueno."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Debe haber algo mejor por aquí, te dices mientras sigues revolviendo el lugar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "15fb3692-2201-4ba6-b0e6-f7767d3e2402",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes que estás desperdiciando mucho tiempo en algo inútil."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tras descartar el último, no hay muchos lugares que te parezcan adecuados."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No parece que tengas mucho tiempo de sobra, por lo que se te ocurre sólo un lugar más."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Un clásico."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "e55d2f24-c86a-447d-99be-0d85052c9b6c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Pierdes la cuenta del tiempo que llevas esperando."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Realmente Arcueid recuerda dónde es?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "47d0480f-ba24-4eab-b352-6327fa0cfda7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Hehe, gracias."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4c09befc-45ff-4a7a-986e-ecb165f24def",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Qué hay arriba?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "e23ccd2a-3c2c-4b24-b6fb-652ef1df6d75",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Woow! "
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Es increible!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "c959c07a-2c76-45f7-bc68-459471ffe605",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Quedas cautivado ante su imnotizada mirada, como una niña que comtempla por primera vez en su vida los fuegos artificiales. "
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo permanece allí, cautivada, sin decir una palabra."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y debido a esto, casi te olvidas de lo más importante."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4af5e134-c764-4c08-83e7-d98c74679e48",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Muchas gracias, {Name}!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Este es el mejor regalo que me han hecho!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "212ac5c9-d985-4441-b6c1-bea66e8e63f0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeh? No veo nada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Le indicas que sólo espere un momento."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y entonces..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "8783934c-85ad-4ec0-b98b-a69e1a595cfc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Ella se pasea por todos las tiendas, divirtiéndose más por cómo ocupas el rol del dueño que del juego en sí."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y cuando sales de la número veinte, ya estás tan cansado que a penas puedes caminar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Notación mental: No colocar tantas tiendas para el próximo año..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "3ee5b7f8-2f45-4a55-aa08-49612e18fd39",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Al fin..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Todo tu esfuerzo ha valido la pena."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Estás ante el escondite perfecto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Se te escapa una lágrima ante tal esplendor de perfección."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Es imposible de que Arcueid siquiera sospeche de que estuviste si te escondes aquí."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Wow, sí que es un buen lugar. Ni siquiera sabía de que existía."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero, ¿por qué buscabamos esto?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "761f588f-b7c4-46b4-87e0-e554bedcbe47",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Gracias por esperarme!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Ta-da!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Cómo me veo, {Name}?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "dd5ed60d-6047-450f-ae56-14d0673719be",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "A lo alto de las escaleras visulumbras las parpadeantes luces del templo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo ustedes dos existen en este mundo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Así que quizás te has excedido un poco en elaborar todo esto. Y probablemente estés en lo correcto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sin embargo, su sonrisa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su mera sonrisa te es un obsequio suficiente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No hay nada más en este mundo que puedas desear más."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡{Name}!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Hablando del rey de roma."
+                }
+            ]
+        }
+    ],
+    "answerData": [
+        {
+            "LocalizationID": "44f4d487-2cdb-4c37-a287-ea7e1d70f775",
+            "FilterType": 2,
+            "Data": "2. Seguir buscando."
+        },
+        {
+            "LocalizationID": "6c943361-9b2e-4042-8600-017e0e859ede",
+            "FilterType": 2,
+            "Data": "1. Esconderse en el baño."
+        },
+        {
+            "LocalizationID": "2a98f8bd-e9c5-4a0b-bd62-2089dae2b441",
+            "FilterType": 2,
+            "Data": "2. Tuviste que ver tu expresión, Arcueid."
+        },
+        {
+            "LocalizationID": "f2731342-5cf2-4261-8ba4-e0201b4b7bef",
+            "FilterType": 2,
+            "Data": "1. Asustarla"
+        },
+        {
+            "LocalizationID": "55092f87-2b0d-44c5-92f2-296ce4ea5270",
+            "FilterType": 2,
+            "Data": "2. Seguir buscando."
+        },
+        {
+            "LocalizationID": "6f3a09b4-0b25-4dca-80f4-ea24c698ba06",
+            "FilterType": 2,
+            "Data": "1. Atrás de la puerta."
+        },
+        {
+            "LocalizationID": "4a881593-4e9e-48ee-ba7f-426ad05446ad",
+            "FilterType": 2,
+            "Data": "1. ¿Desde cuándo estás despierta?"
+        },
+        {
+            "LocalizationID": "8deec379-beec-49aa-82d5-7df5b2954bf2",
+            "FilterType": 2,
+            "Data": "2. ¿Ya estás lista?"
+        },
+        {
+            "LocalizationID": "d5e0495b-e178-4285-9dde-48fd70f5e662",
+            "FilterType": 2,
+            "Data": "1. No sé de qué hablas."
+        },
+        {
+            "LocalizationID": "18bde2c8-4005-4c29-b460-4809f4834eaf",
+            "FilterType": 2,
+            "Data": "1. Te ves muy bien."
+        },
+        {
+            "LocalizationID": "50921c16-fc73-45cf-8c8e-674c05a0fd8a",
+            "FilterType": 2,
+            "Data": "1. ¡¡FELIZ CUMPLEAÑOS, ARCUEID!!"
+        },
+        {
+            "LocalizationID": "0a24a6bb-a5b1-4bf3-869f-557c957b851b",
+            "FilterType": 2,
+            "Data": "1. ¿Estás bien, Arcueid?"
+        },
+        {
+            "LocalizationID": "c4d4163b-fbf5-4182-b1c3-b264047408a0",
+            "FilterType": 2,
+            "Data": "1. Mira arriba."
+        }
+    ],
+    "menuTextData": [],
+    "menuDropdownData": []
+}

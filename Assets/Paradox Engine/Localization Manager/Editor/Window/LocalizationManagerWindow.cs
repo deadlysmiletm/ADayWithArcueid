@@ -28,6 +28,7 @@ namespace ParadoxEngine.Localization.Editor
 
         private bool _toDelete = false;
         private bool _creatingNewData = false;
+        private bool _exportOptions = false;
         private string _newName = string.Empty;
         private string _filterName = string.Empty;
         private List<string> _objectNames;
@@ -136,6 +137,24 @@ namespace ParadoxEngine.Localization.Editor
                     _toDelete = false;
             }
 
+            else if (_exportOptions)
+            {
+                if (GUILayout.Button("Import JSON"))
+                {
+                    LocalizationEditorUtilities.ImportJSONLanguageData(ImportJSON);
+                    _exportOptions = false;
+                }
+
+                if (GUILayout.Button("Export JSON"))
+                {
+                    LocalizationEditorUtilities.ExportJSONLanguageData(dataPack);
+                    _exportOptions = false;
+                }
+
+                if (GUILayout.Button("Return"))
+                    _exportOptions = false;
+            }
+
             else
             {
                 if (GUILayout.Button("Save Language data"))
@@ -156,6 +175,9 @@ namespace ParadoxEngine.Localization.Editor
 
                 if (GUILayout.Button("Delete Language data"))
                     _toDelete = true;
+
+                if (GUILayout.Button("Export/Import"))
+                    _exportOptions = true;
             }
 
             GUILayout.EndHorizontal();
@@ -168,6 +190,7 @@ namespace ParadoxEngine.Localization.Editor
                 {
                     dataPack = null;
                     _startElement = _endElement = 0;
+                    _exportOptions = false;
                     _cacheData.Clear();
                     _objectNames.Clear();
                     Repaint();
@@ -561,10 +584,10 @@ namespace ParadoxEngine.Localization.Editor
             text.id = _textToAdd.GetLocalizationID().ToByteArray();
             text.data = _textToAdd.GetTextValue();
 
+            EditorUtility.SetDirty(_textToAdd);
+
             _textToAdd = null;
             _addingText = false;
-
-            EditorUtility.SetDirty(_textToAdd);
             _cacheData.Add(text);
 
             _endElement = _cacheData.Count - (_endElement + 5) <= 0 ? _cacheData.Count : _endElement + 5;
@@ -632,6 +655,65 @@ namespace ParadoxEngine.Localization.Editor
             EditorSceneManager.MarkSceneDirty(EditorSceneManager.GetActiveScene());
 
             Repaint();
+        }
+
+        private void ImportJSON(JSONExportData data)
+        {
+            JSONTextNodeData importedTNData;
+            JSONAnswerNodeData importedTData;
+            JSONAnswerNodeData importedANData;
+            JSONDropdownData importedDData;
+
+            ParadoxTextLocalizationData tData;
+            ParadoxDropdownLocalizationData dData;
+            ParadoxAnswerNodeLocalizationData aData;
+            ParadoxTextNodeLocalizationData tnData;
+
+            for (int i = 0; i < _cacheData.Count; i++)
+            {
+                if (_cacheData[i].filterType == ELanguageGraphFilter.Text && data.menuTextData.Any(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))))
+                {
+                    importedTData = data.menuTextData.Where(x => new Guid(x.LocalizationID).Equals(_cacheData[i].id)).First();
+                    tData = _cacheData[i] as ParadoxTextLocalizationData;
+
+                    tData.data = importedTData.Data;
+                    _cacheData[i] = tData;
+                }
+
+                else if (_cacheData[i].filterType == ELanguageGraphFilter.Dropdown && data.menuDropdownData.Any(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))))
+                {
+                    importedDData = data.menuDropdownData.Where(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))).First();
+                    dData = _cacheData[i] as ParadoxDropdownLocalizationData;
+
+                    dData.data = importedDData.Data;
+                    _cacheData[i] = dData;
+                }
+
+                else if (_cacheData[i].filterType == ELanguageGraphFilter.AnswerNode && data.answerData.Any(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))))
+                {
+                    importedANData = data.answerData.Where(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))).First();
+                    aData = _cacheData[i] as ParadoxAnswerNodeLocalizationData;
+
+                    aData.data = importedANData.Data;
+                    _cacheData[i] = aData;
+                }
+
+                else if (_cacheData[i].filterType == ELanguageGraphFilter.TextNode && data.textData.Any(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))))
+                {
+                    importedTNData = data.textData.Where(x => new Guid(x.LocalizationID).Equals(new Guid(_cacheData[i].id))).First();
+                    tnData = _cacheData[i] as ParadoxTextNodeLocalizationData;
+                    ParadoxTextNodeData temp;
+
+                    for (int n = 0; n < tnData.data.Count; n++)
+                    {
+                        temp = tnData.data[n];
+                        temp.Text = importedTNData.Data[n].Text;
+                        tnData.data[n] = temp;
+                    }
+
+                    _cacheData[i] = tnData;
+                }
+            }
         }
     }
 }

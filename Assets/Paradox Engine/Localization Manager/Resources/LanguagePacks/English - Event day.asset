@@ -22,7 +22,7 @@ MonoBehaviour:
     parentReference: 0
   - id: 6133946c2e9b42408600017e0e859ede
     filterType: 2
-    data: 1. Hide in the bathroom.
+    data: "1. Esconderse en el ba\xF1o."
     parentReference: 0
   - id: bdf8982ac5e90b4abd622089dae2b441
     filterType: 2

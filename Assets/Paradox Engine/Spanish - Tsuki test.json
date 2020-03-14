@@ -1,0 +1,3250 @@
+{
+    "graphName": "Spanish - Tsuki test",
+    "textData": [
+        {
+            "LocalizationID": "b00d01a4-c71c-4d92-a9fe-ca3a73026296",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Parece que te has topado con suerte, chico."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Es gracioso pensar en lo onírico de un destino tan dantesco como este. Uno donde un vampíro puede crear sentimientos por algo salido de su mente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "079ded66-9f80-4ecf-80f1-bf706bc4f7b1",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeehhh..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Dices eso después de todo lo que pasé para llegar aquí?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "acfbef07-916d-4ed4-a34c-513f3996286b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Acaso prestas atención cuando hablo?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "343524ce-87a6-45a2-ad33-ba626361767b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿No lo recuerdas? Ya te lo he dicho antes."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ae9c4c7b-66bc-4863-acc1-20da14a90a6f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero antes que eso, quiero que te disculpes."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pasé por mucho para poder llegar hasta aquí. No es un viaje sencillo desde Japón."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "11ee5a93-29af-42a5-9127-6e7386151a00",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Eres igual a Shiki, no lo puedo creer."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Paso por todos estos problemas y me tratas de esta forma."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Aunque no quieras escucharle lo diré de todos modos. Así que presta atención."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Luego si así lo quieres me iré."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "32aee0fe-a798-4562-bba8-887b8ffd023f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid se voltea y respira profundamente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Parece tomarse su tiempo para pensar en aquello que deseaba contarte."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ésta es la primera vez que hablamos en persona,"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "107c20a8-c902-4727-b69c-22e1d6116dfc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "por eso puede que no te conozco mucho."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7365617d-e53e-47d2-8050-758922d7be9c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero sí sé que tú llevas mucho tiempo conociéndome."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "0a1015d1-faa6-4f57-82f8-ed6f56e21d85",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Serán unos 20 años?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fa3ac2c3-6996-484a-bef6-69f3378d8dde",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Bueno,"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "eso da un poco igual ahora, ¿verdad?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "e60b6d7e-96bc-4a8c-98a3-762077875abc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Quería agradecerte por todo el apoyo que me has dado durante todo este tiempo."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Lo aprecio mucho."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Y además de eso..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2e5b5696-5003-4eec-b77e-99b350d2775f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡¿EEEHHH...?!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡¿Lo dices de verdad?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "e7ebad9a-70b4-44ee-b2e4-d634730fc876",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Al menos puedo decir que no llegué tarde."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Sólo debo esperar a que sea tu cumpleaños, ¿no es así?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Cuánto falta?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "51598bf5-1f40-4418-84e3-8c87e251b96c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeehh..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Lo dices en serio?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a8770015-1323-4850-bf6d-ea09b49111ad",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid parece estar aún más feliz. Salta de un lado a otro emocionada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "A simple vista, no te parece diferente a una niña. El sólo observarla te dibuja una sonrisa en el rostro."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ya no te importa el porqué vino ni cuánto más seguirá con su festejo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "c5fc5a75-b002-4e62-85f9-5f170b236a3d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "De repente tus pensamientos se interrumpen."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella se detiene frente a ti, observándote con atención, esperando a que la notares. Su sonrísa, tan sincera como siempre, te cautiva."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Por un segundo, eres incapaz de imaginar cuánto tiempo pasas admirándola, temiendo que este momento lleguara a su final."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero su mirada..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esa misma mirada que te había dejado encantado la primera vez que la viste sentada en la barandilla."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a39f7f22-9795-460f-bb01-56ebbe408c28",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Ella volvió a sonreír. Aunque fuera algo remoto, deseaste que esto no fuera un sueño, que ella realmente estuviera frente a ti ahora mismo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Deseaste que una vez volvieras a abrir los ojos, ella siguiera estando allí."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f88aa1e0-0b7c-4155-b78c-a126d82aa24f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pensé que lo había logrado a tiempo..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "La voz de Arcueid se apaga, casi sientes que se quiebra por completo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No entiendes por qué se pone así, no te parece la gran cosa. Y aún así, su mirada perdida, desolada, parece no expresar lo mismo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella guarda silencio, como si esperara la llegada de una voz acusadora. Quizás el hacerlo bien era más importante para ella que para ti."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "0ffb3e79-cab5-421f-a3c5-872737ffda6d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "A pesar de que lo intentas, ella no parece animarse."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid da unos pasos hacia atrás. Sabes que podría huír en cualquier momento."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No deseas que se vaya, que todo termine así."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fb481edd-3cdb-4dd9-afaa-43d55d5324dc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid salta sorprendida. Ni siquiera tú esperabas gritarle de ese modo y terminas encogiéndote de hombros."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "9b0fe5bf-c546-4464-ac29-8d3ff920f2bf",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sin embargo, parece haberla animado un poco."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Gracias. Al final sí eras una buena persona."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "8cf1c9b6-6dc0-4be0-907c-32b5411d874f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me iré entonces."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Realmente no quieres que se vaya, pero forzarla podría hacer que se sienta peor por haberse equivocado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esto es lo mejor para ambos."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Con una simple despedida,"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4d87a4a8-e6db-421f-b65c-14e5ec9b2e33",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿No hay nada que podamos hacer?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Vine de muy lejos para que fuera por nada."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "75971f01-cf3d-4d03-9468-c90c8c905fda",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Felizmente, Arcueid sonríe."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás esto no haya sido lo que deseaba, pero al verla sólo puedes suspirar y disfrutar del tiempo que pasarán juntos."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d5f68be1-d51a-4354-983b-65a99a2f155d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Cuidadosamente, la sacudes un poco mientras la llamas en voz baja."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te lleva un poco de esfuerzo, pero al final lo logras..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Mmmmm..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a089b022-2683-4281-9588-4726d2cc260e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Te la quedas observando por un poco más."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "En seguida pierdes la noción del tiempo, perdido en tan pacífica situación."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Mmmm..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "La escuchas respirar suavemente. Pasas tu mano por su cabello, disfrutando el momento todo lo que puedas."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Mmmmm..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Parece que está a punto de despertar, así que alejas tu mano lo más rápido que puedes."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "9477f572-1f97-4628-9a78-5f40e5780deb",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Que gran siesta reparadora."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "6d13d3f6-3a91-4910-af4d-6466afe4675b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Ya estás despierto!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "01680e84-2c22-4ba0-9ae0-63d16171d437",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué no me despertaste?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "765b6708-781c-483c-bbe0-3b7b9eda49a7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Entonces está bien."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Gracias por dejarme descanzar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b012973f-fe26-400a-bdce-f6f5ae1b82fc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "En ese caso no hay problema... creo."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Sólo me sorprendió un poco."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a6653f28-055a-4826-aa60-8e085d9b900f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ah, casi lo olvido."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Había venido por algo importante."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7e20907c-6b2f-4804-9768-8c59d8635b87",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Atrapada en su trono, aferrada con innumerables cadenas mientras sueña."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella crea en su mente un mundo cíclico donde pueda siempre divertirse."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Donde las cosas malas sean fugaces."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Donde no haya tristeza."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f2f4a885-64bd-4e96-80c3-06765d5d1c4b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sabes que la que está frente a ti no es la verdadera Arcueid."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero, igualmente eres incapaz de evitar el hacerte esa pregunta."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Ella también se encuentra así?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Solitaria."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Triste."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Prisionera."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b87af332-a87f-421d-80e5-4a28b3c3eded",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "La mujer se acerca a ti."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No puedes apartar la mirada de sus ojos."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tu instinto te implora a gritos que huyas..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tu cuerpo se estremece, intenta librarse de tal maldición inaudita, pero le es imposible."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "La mujer sonríe delicadamente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El horror te consume. Estás atrapado, tan inerte como una estatua."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ya lo has aceptado..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "no hay salvación para la condena que cierne sobre ti."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a126fe94-acbf-42cd-8ed3-6540a80c0d17",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Y bien, ¿te sientes confiado, chico?"
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "¿Te crees capaz de liberar a la princesa de este cíclico mundo?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "da46cbe3-2e47-4d72-a6cd-ec7cb43bce94",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Qué gracioso eres. ¿En serio lo estás considerando?"
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "No eres siquiera comparable a un simple insecto para mí. Estoy intrigada de qué forma planeas vencerme solo."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡Pero él no está solo!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "692dd460-5a1c-481e-98bd-3c85c62111b8",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Lo supuse..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te llena de rábia, pero estás em plena consciencia de lo que eres capaz de lograr..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Es imposible. El sólo considerarlo es un suicidio."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡No, aún no te rindas!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "8864e71e-eddc-4f17-b0e3-6a7a7360a677",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "¿Eh?"
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Imposible..."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡¡NO TE DEJARÉMOS SALIRTE CON LA TUYA POR MÁS TIEMPO!!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "903b96d3-bb67-43a7-808d-9828ff591d16",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Imposible..."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡Aún podemos lograrlo!"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡NO PIERDAS LA ESPERANZA!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f9033793-d29f-46fd-8255-b138e3aae083",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Qué impertinente de vuestra parte."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Les haré demostración de la abismal diferencia que hay entre nosotros."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5bf3a39c-bfe2-49ac-bc27-4490672c727d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeehh..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué me miras así?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "302a1408-688a-4b4c-a350-9ef0d393bf40",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No tenemos ningún presupuesto para cosas muy grandes, así que tomé todo eso prestado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te disculpas mentalmente con los desarrolladores de Battle Moon Wars por la imprudencia de Arcueid."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "c59a54b6-518f-4ce8-87ff-6cf603bac1a2",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero debo felicitarte, lo lograste. Has completado esta historia."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4afae4ba-506c-4247-8668-12902cea7780",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pronto este mundo desaparecerá, deberías irte ahora. No hay nada más que ver, ya nos hemos divertido bastante."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a90f7ffc-3a2b-47f9-bb24-5df070b350c4",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Algo no te cuadra."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "A pesar de lo que te dice, algo no está bien."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su sonrísa te parece, por primera vez, forzada."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me iré adelantándo. Fue divertido."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "377cccce-d0d3-4ca9-ab49-16e4f3483f04",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid se marcha rápidamente, sin darte tiempo de despedirte."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esto no está bien."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Recuerdas las palabras de Archetype..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "\"¿Te crees capaz de liberar a la princesa de este cíclico mundo?\""
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "De repente, todo cobra sentido en tu mente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "57814482-e2ae-4d4c-8d85-602019d7b996",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Tal parece que dormiste de más. Los anaranjados tonos que dan inicio al atardecer tiñen el cielo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Con el rabillo del ojo la ves parado junto a la ventana, observándote plácidamente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "En un inicio piensas que se trata de un espejísmo, un sueño que no deberías recordar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "15213f07-0770-46e1-8fa3-a0134c9950a4",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Vamos, no te pongas así."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Todo está bien."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella aún intenta complacerte."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Aún quiere que te diviertas en su sueño, a pesar de lo que siente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d091eea9-d13e-4a74-8f24-43f25c5aa484",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Fue divertido pasar todo este tiempo juntos."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Siempre como si fuera la primera vez."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me recordaste un poco a alguien que conocí hace tiempo."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Alguien muy especial."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Aunque quisieras que no fuera verdad, sabes bien a quién se refiere."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "71e427eb-11e8-48d7-bc42-c8270f260d4d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Suspiras y le regalas tu mejor sonrisa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella ya tiene a alguien. Tú lo sabes mejor que nadie."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Después de todo..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "eres parte de ella."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "617017c3-5c40-4171-ba2e-b039ec6173e1",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "......"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Se queda sin palabras y tú aprovechas para acercarte más."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Incluso aunque esto sea un sueño..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ignorando sus palabras, delicadamente apoyas tus manos sobre su cintura. "
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2f12ca94-fba6-4920-9c9d-37508255068e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes el tiempo detenerse. Ella te observa, sin decir nada más, notablemente conflictuada con la situación."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "81f58ec7-29a2-4113-a06f-bfd5a0ed25b7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Posas tu mano sobre su barbilla y la guías hacia ti."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su nerviosa e inexperta mirada te atrae más y más."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Siempre te preguntaste qué veía ella cada vez que te observaba."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Cuál es el rostro con el que te ha imaginado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero ahora..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "ahora eso realmente no te importa."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "237b886c-ddd4-4139-9f85-00ea5b3bf51c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Vuestos labios finalmente se unen..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "032c6ddc-4492-416f-a943-a21e30b77902",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "El tiempo transcurre de forma etérea. Más allá de este momento nada tiene importancia."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sabes que ésta será la última vez que podrán estar juntos, y lo aprovechas todo lo que puedes."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella no se resiste, simplemente se deja llevar por tu guía."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ambos sacan provecho de este sueño todo lo que dure, pero saben que no podrán prolongarlo por siempre."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Cuando sus labios por fin se separan, es que regresas a la realidad."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esta triste realidad que está a punto de desaparecer."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "307baa06-7e6d-483f-9bdd-003279410f97",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué me sigues mirando así? Acabo de salvar el show y darle un cierre emocionante."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Acaso sabes cómo iba a ser esto antes de que me pusiera a cargo? "
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No querrás creer lo decepcionante que era."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "08a47d43-aa9b-452e-a102-a67a86a4b65f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Quedas cautivado ante la imágen frente a ti."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Si alguien te hubiece advertido que esto pasaría, jamás le creerías."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te gusta verle su pacífica expresión dormida. No deseas despertarla, pero..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "bada8425-2a96-45d4-916c-fcedab7f2642",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "No entiendes por qué sigues haciendo esto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El porqué la siguies esperando."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Mientras siga despierta, mientras no regrese al Castillo Brunestud, jamás se volverán a encontrar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Entonces por qué sigues aquí?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d404cf9b-3018-431c-9680-7d9f16b71db4",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Te asalta el recuerdo de la última sonrisa que te regaló."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y así como ese, muchos más."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero ninguno cambiará nada. Arcueid ya no está aquí contigo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tú la salvaste de su encierro."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5f7f587b-3db7-49ff-8c23-2152bf69c355",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Despiertas en un mundo desolado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas abrir los ojos, buscar algo con la mirada, pero sólo ves oscuridad..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "los remanentes de un sueño, cuyo soñador ha despertado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No sientes que puedas hacer nada más que admirar el uniforme vacío."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Siempre consciente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fabce19b-a1f0-4957-8cfd-aecf4e2cfb02",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "¡SOY UN GATO DE LA SUERTE Y VENGO A CUMPLIR TU DESEO NYAH!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No entiendes nada."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡CON MIS HABILIDADES GATUNAS PUEDO RESTAURAR TODO COMO ESTABA ANTES NYAH!"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡SOLO DEBES PEDIRLO NYAH!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Le preguntas a Arcueid por qué está vestida así, pero..."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡YO NO SOY ARCUEID, NYA! ¡SOY EL GATO DE LA SUERTE, NYAH!"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡Y PUEDO CUMPLIR TU DESEO NYAH!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿¡QUÉ DICES, NYAH?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fef85570-4f13-405b-91aa-6e866d978971",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "¡¿NYAANIII?!"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¿DE QUÉ ESTÁ HABLANDO NYA?"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡¿POR QUÉ SE ME ACERCA, NYA?"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "   ¡ALEJECE, NYAH!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "c778b042-7c46-44fb-bf8c-536a485693b7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ya puedes salir, todo terminó."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4a019245-13ac-4900-8e20-1bc6eb7c80a2",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Todo acabó en un instante."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El brillo blanqucino de la exploción aún no te deja ver nada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El simple hecho de haber sobrevivido a todo esto te recuerda que este mundo no es real."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esto es sólo un sueño..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su sueño."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Yahoo!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b04d459b-8e30-4f31-b5fe-e850998aa029",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Este vacío te agota."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas imaginar un lugar apacible, un lugar donde pasar esta solitaria eternidad."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Imaginas un bosque..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "pero en la noche, así la luz no perturba tu sueño."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te relajas con esa imagen en tu mente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f2184bb3-12a8-41a3-9045-36c9f7b7ee64",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "¡¡¡NYAAAAAH...!!!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "A cat..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "is fine too."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "592d3787-79b3-4dda-9daa-9bf29f570f3b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Así que ya lo sabes."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid se acerca lentamente hacia ti."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Entonces te das cuenta."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Al fin la has encontrado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No logras contenerte tus emociones..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "8e615e74-c19b-4754-9104-390e8ac59a2a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Adíos, Arcueid."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Hasta que nos volvamos a encontrar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "152a95ea-9d67-4b24-a516-799ea76bf79d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Su última sonrisa resplandece como el atardecer de una despedida..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y el amanecer de un nuevo despertar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d310753e-7112-41dc-8991-59020e280bbb",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Ella abre los ojos..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Siente que ha tenido un largo sueño."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Uno bastante divertido."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "0d7755f5-4d5a-4cb8-a8c8-2d16460c937e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Un nuevo día."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Un nuevo comienzo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a632367f-c325-4d0c-9fe5-310fc10cf037",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "La Princesa Blanca abandona el frío y desolado castillo Brunestud."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Hoy siente que será un gran día."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "906af1b1-9877-4c50-a233-d291d2351e28",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Un gato muerto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Qué hace aquí?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Cómo llegó aquí?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tras tocarlo te das cuenta de que aún está tibio."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Acaba de morir."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Un pequeño rastro de sangre, como gotas, se alejan más allá de lo que alcanzas a ver."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Decides seguirlo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "486d4518-ab9e-4c91-a10b-93a6003d559b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Caminas por un buen rato..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El rastro parece no acabarse nunca."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿De dónde rayos salió?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Empiezas a desesperarte."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "9654bb39-f7b4-49b7-997e-27897348ee86",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Te preparas para lo que sea..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y entonces..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "9d08b4fc-5d2b-4a39-aafd-dc37f5eb25d5",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Este mundo es un sueño. No te fue difícil entender cómo funcionaban las cosas tras tanto meditar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sin embargo, todo sigue tan tranquilo y solitario como siempre."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás ahora sí deberías irte."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te levantas de la hierba y te sacudes las hojas secas de los árboles."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Hasta ese punto te llevó tu imaginario."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "De repente..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2cc2bf4f-7733-4557-86ec-aeba2b623ee4",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "¡NYAH!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Nya?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quedas en shock."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b5fb00b0-7c0e-47e2-a020-6eb4699a508c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Lo que se que esta allí se empieza a mover más bruscamente..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te preparas para lo que sea..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Y entonces..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "28f46201-438b-41d7-87e6-11511de74ee7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "un extraño sonido te pone en alerta."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te acercas a un arbusto, pensando que sea algún animal pequeño."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Aunque no recuerdas haber pensado en ninguno."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "cab8e633-d4cc-4e39-a463-737a0d943685",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Agotado, llegas al final del rastro."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Termina repentinamente en una calle salida de la nada."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "94a222b5-301a-417b-b858-abecaaa9177d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Sacchin",
+                    "Text": "Oye..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "860444f2-7bcc-4faf-a04d-d61f09240bac",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Sacchin",
+                    "Text": "¿Crees que ahora sí me den una ruta?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "de2d46de-9be6-4848-8421-f7fa416bd68f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "¿...?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "En cuanto se acerca, la chica se percata de tu presencia."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "......."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "La joven no responde, sólo se queda allí, mirándote."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b2df6e1a-55cb-4e44-ad70-d8a45fc42ec3",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "No entiendes qué está ocurriendo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Se supone que eres el único aquí."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El único capaz de darle forma a este mundo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Miras a ambos lados de la calle. No muy lejos ves a una figura que camina hacia ti."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fc68d7f5-59a9-4858-9b94-96c86785e9c7",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Hasta que al fin despiertas."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Estuve esperando bastante, pero ya no podía aguantar más."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a088e69e-495a-4337-8a97-467136451142",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Umm..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Es verdad, tenía que decirte algo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "07197228-5e12-4fe1-beee-4c82e494eb75",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Después de todo lo que me esforcé!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "dd287d91-5095-4b3c-8240-125ccb3caa2c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "No tienes idea de qué acabó de ocurrir."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero al menos sí estas seguro de algo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Jamás te pondrás a imaginar cosas de nuevo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d297732f-5f23-46a0-9edf-a1a2e3a26c2a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No puedo creer que seas así."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f6407a4d-8f82-4028-82ae-d059e2435504",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Eres igual que Shiki! "
+                }
+            ]
+        },
+        {
+            "LocalizationID": "53a6754d-081a-4ca6-a1e5-b682c45f6ad6",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Quería desearte un Felíz Cumpleaños."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d302f9cd-3195-4d2e-bd09-90dc594bf12b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No puedes tratar a alguien que se ha esforzado tanto por ti así."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Sólo te perdonare por esta vez. La próxima vez no seré tan permisiva."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ahora siéntate y presta atención."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "30dfab4a-6b14-4c41-8cd3-b39e44967079",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid desvía la mirada sonrojada."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4fbc5bd1-1f40-444e-97e9-d9ed11cd7fb6",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Gracias a ti pude experimentar muchos de esos."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Así que muchas gracias."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su inocente sonrisa te cautiva."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a1f74d41-732b-4be1-8788-73352b0d669a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡¿Eeehhh..?!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Ya sabes eso también?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "3ba71839-eaf2-4899-8b8b-00d42bbd22cd",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Parece que no soy muy buena guardando secretos."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "04404fd1-2ef4-400a-bfdb-25e0af40cc43",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Sabes, siempre me gustaron los \"qué pasaría si\"."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "37d50e07-f2d9-4b8c-9dc0-7158bff7e421",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Nada de esto es real."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Esta pelea no fue real..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Archetype no era real..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo Arcueid existe en este mundo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo ella y su sueño."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás incluso tú no eres real, sólo otro reflejo de su inconsciente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te duele la cabeza. Sientes que este ciclo está por terminar y todo volverá a empezar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Debes encontrarla..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "debes encontrar a la verdadera Arcueid."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas grabarte esas palabras en tu mente, mientras todo a tu alrededor se termina de fundir en una oscuridar absoluta."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo eso importa..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a70da187-21b7-4ad4-a580-c77c4fe663f5",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeehh..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Tanto?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "04bc0059-025a-4cef-a531-bc155d08cb09",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Lo siento..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella se aleja al disculparse. Realmente parece afectada."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te sientes un poco culpable por no decir nada, pero simplemente las palabras no salen de tu boca."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a3ab58d8-d32f-457b-a292-01604f474b29",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Lo siento."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "39f3f3b0-2558-46e4-bfbe-1dc71ce7cbcb",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Una brillante sonrisa se dibuja en su rostro. La idea le encanta en el mismo momento en que la mencionas."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Entonces vamos."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "0a20b548-2b3a-43c0-87fb-28356d0d2cf5",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid te sonríe en acuerdo. Sientes que ella esperaba algo diferente."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "12cb9dd0-abd9-4c51-9009-551d8463b595",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Entonces está decidido."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me quedaré por aquí hasta que llegue el día."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su rápida recuperación te toma por sorpresa. Antes de que seas capaz de responder, ella ya se ha acomodado."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2426b8ab-224a-4c8c-894a-7951b1a5ba32",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "La mujer te sonríe. Sientes una sensación nostálgica."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Has vuelto?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pensé que ya no te vería. Después de todo esta historia ya terminó."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f71b92c5-cbfd-41d2-9306-3ebad8867382",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Quizá no encuentres lo que buscas."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "O tal vez sí, al igual como me encontraste a mí."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Pero qué pasaría si no te agrada?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Qué pasaría si no es lo que esperas? ¿Lo soportarías?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Qué pasaría si... "
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Podrías soportar las consecuencias?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "638a10d0-6ea5-422b-b7ff-40937d2bd090",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Como si fuera la obra de tu viváz imaginación, Arcueid desaparece en el momento en que vuelves a parpadear."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No entiendes qué quiso decir con todo eso."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero si hay algo más, algo que sea capaz de poner esa expresión deprimente en el rostro de Arcueid..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No dudas en que la encontrarás."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5bf62fd6-725e-4221-8be6-349b772f5d0b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Nada sucede. La presión que apricionaba tu cuerpo se desvanece en un instante."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sin embargo, la mujer no te aparta la mirada."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ab969023-0e8e-49e4-b4d3-547afbc50663",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas recordar a Arcueid."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El cómo la salvaste de su sueño eterno."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El cómo pudiste devolverle su propósito."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Así era todo antes para ella?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Antes de que aprendiera cosas extras. Antes de que pudiera soñar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "¿Así se sentía ser la princesa blanca?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "78934449-d290-4373-94f9-529ae5c8dd2b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid te devuelve el gesto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Siempre te preguntaste qué veía ella cada vez que te observaba."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Cuál es el rostro con el que te ha imaginado."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "42a6d159-01b1-49f4-8e47-e60e7f0999af",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "La pregunta la pone notablemente nerviosa, pero logra componerse."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me recuerda a un viejo conocido."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "026e4216-812d-4d16-90c4-a4f670ea6f26",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Te deprime un poco que esto sea una despedida para siempre, pero sabes que es lo correcto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Lo mejor para ella."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Extrañaré todo este tiempo que pasamos juntos."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ha sido un gran sueño."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Si algún día volvemos a encontranos, espero que podamos divertinos de nuevo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5a0ecd1b-174a-4e43-902a-0ebb5ce05750",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes algo diferente, como si no encajara."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "fb76ed1f-e0b3-4433-a10e-f071151cfc1e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Gracias..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "por todo, {Name}."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "6ca85d5f-9183-4297-beeb-f0a6fc1376bf",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Algo te molesta..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Algo te pesa y no te deja descanzar en paz."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Abres los ojos, agotado, para averiguar qué está ocurriendo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Entonces..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "3f455b3c-e4b2-4715-b6f3-f306f717456f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡AAAAHHH..!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ef124e76-0ae2-4f67-9265-3b57b83f8651",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Lentamente te preparas y."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "12b15491-a185-4ca0-b47a-c3a7aa4c3b29",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ahora que estás despierto, podrémos aprovechar el resto del día."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "746c9888-b25b-408e-87c5-001decc7f4e0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Lo siento, no pensé que me quedaría dormida mientras te esperaba."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero,"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7927f59d-df13-4379-bb68-a0ef9d874177",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "gracias por despertarme."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7aaa51eb-84cb-44b1-b4d3-e1307b25c553",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Hay algo diferente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes una presencia opresiva,"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "aterradora,"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "pero al mismo tiempo hermosa."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ad6e0edf-3466-4198-9703-1b070ab64342",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Quedas maravillado ante su magnificencia."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te sientes en un sueño del cual no deseas despertar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "La princesa bañada con la luz de luna sólo se queda allí. Detenida en el tiempo."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Como si esperara algo que jamás llegará."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b666ffea-2842-4647-a7cb-9b100045d0b3",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Repentinamente, ella se gira hacia ti."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Al ver sus ojos, de un dorado apresante, quedas paralizado. No sabes si es por su bellesa o alguna clase de magia extraña. "
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sin embargo, aunque lo intentas con todas tus fuerzas, eres incapaz de mover incluso al músculo más pequeño."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "648ae6ce-0d7d-4b3b-8ef8-0720105126df",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Tuve que devolverlo, claro está."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Estaba reservado sólo para la pelea final."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "faef9e84-1920-4055-bed2-307826a35ed3",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Mueran."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "¡Desaparezcan de la faz de la tierra!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "96e236be-69be-422d-babf-0f1acabed094",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡No lo permitiré!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Las waifus nunca están solas..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2e9d815b-bd2d-4d07-a31a-a7309e084689",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Por favor, todos, denme sus fuerzas!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Lo siento..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "El apoyo de todos..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "se está reuniendo."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡¡VEEE..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "TRUE ANCESTOR BALL!!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "3042cb93-b4be-4a8c-9128-6e32be9cd167",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡¿Por qué has hecho eso?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f12e77df-e7b7-47f6-a51a-ed1b5cfa1cc1",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Intentas detenerla, pero es tarde. Antes de que fueras capaz de llamarla ella desapareció."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Era como una visión onírica de la cual habías despertado. A pesar de cómo actuaste, no deseabas que todo terminara así... "
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "que ella se marchara..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "que sufriera."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "574f3908-e7a3-4548-b534-d4ac497ac104",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid desaparece por una de las ventanas, como un sueño que deseas guardar para siempre."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "e240811e-9eee-4638-ae6a-2bb7fd6a3677",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sientes una sensación familiar."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Es como si, de alguna forma, ya hubieras estado aquí antes."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Abres los ojos, y entonces la ves..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "872aaa89-c6cf-4809-b817-e56f8084739a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡No te quedes ahí, vamos!"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Tenemos todo el día para divertinos."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero esa bruma de dudas no importa ahora, su radiante sonrísa te devuelve a este mundo de ensueño."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Arcueid te toma del brazo y te arrastra con ella. Tan directa e inocente como siempre."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Hoy será un gran día."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "6be1a642-58fb-46f3-a837-64235bed586c",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Esperas por un largo tiempo, pero ella no regresa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El sol comienza a ocultarse y poco a poco te das cuenta de la realidad."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ella no volverá."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Observas el cielo anaranjado del atardecer. Un último vistazo antes de marcharte."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo una idea cruza tu mente."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás el próximo años..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "e750dd61-012f-455f-9730-58fc0fa43c92",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Sin oponer resistencia, te ves arrastrado por Arcueid hacia fuera."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sin ningún lugar en mente, ella te guía en un viaje lleno de sorpresas. Su alegre sonrisa es suficiete para hacer que todo valiera la pena."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Después de todo, hoy es un gran día."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "d2b0d0e3-bf3b-4c01-b64d-cc8b17095493",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Observas el cielo anaranjado por donde ella salió. Ya no puedes verla, ella sólo perdura en tus recuerdos. Pero está bien. Sabes que la volverás a ver."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Después de todo, lo ha prometido."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "24fa2c59-0645-45f5-a761-03191fea9afc",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Alzas la mirada por la ventana."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El cielo se torna anaranjado en señal del pronto final del día."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡Vamos, juguemos a algo para pasar el tiempo!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sin embargo, para ella no.  Te rindes ante la extraña situación con una sonrisa al cielo, sin que Arcueid pueda verla."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "f3f977cb-2daf-43f1-97e0-81c168148bb4",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Entonces el día continua como siempre. No vuelves a ver a Arcueid, pero sabes que está por allí, en algún lado."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Absorto en tus pensamientos, la noche llegó más pronto de lo que imaginaste."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizá todo se logre aclarar mañana."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "cde3ebc7-99ac-47e3-aa20-c7069e19fcc0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Entonces, por qué has venido?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Buscabas algún cambio?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Ya puedes seguir, sólo guarda esto como un recuerdo..."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Nuestro último recuerdo."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "22eddf88-74c0-4695-bf67-1de2bd3ea127",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Tras esas palabras Arcueid se marchó. No haces nada para detenerla."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Ya has tenido suficiente. Simplemente te despides al vacío..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás algún día regresas, o tal vez esta será la última vez."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo el tiempo dirá la verdad."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "3efdc180-95f4-4fac-bd0b-67fd9b87b339",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Eres listo, chico. Te concederé eso al menos."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Quizá lo consigas en tu próxima vida."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "7d92a7f7-b019-465c-8cbe-4efda5755c8f",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "En plena consciencia, como si fuera la voluntad de una malvada y cruel deidad, observas tu cuerpo mientras dibujas una parábola en el cielo..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "inerte, congelado..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "sin una cabeza sobre sus hombros."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No hay dolor, pues esa fue su única piedad."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Quizás en tu próxima vida tengas mayor fortuna."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "9ecf110a-d34d-45b9-a1aa-470e88360168",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Cierras los ojos."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No puedes seguir viéndola así."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Tienes que hacerlo..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Debes encontrarla..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Debes encontrar a la verdadera Arcueid..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Sólo eso importa ahora."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "aecdd269-6286-4486-8a08-ad9a95cf657d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "Tus recuerdos te son lanzados a la cara."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "El golpe te estremece el corazón."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "489d6a81-185f-466b-83e3-1b75012f30ad",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "",
+                    "Text": "No hay caso en esperar algo que jamás sucederá."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Te levantas del suelo negro."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Si te lo preguntaran no sabrías decir si es tierra, piedra o cualquier otra cosa."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Quizás vuelvas otro día o tal vez no."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Pero ahora simplemente te marchas caminando... hacia el vacío."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "En búsca de algún lugar donde puedas soñar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "430747dc-2ba1-491f-9882-e1c8ffe5271b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "¡ENTONCES LO HARÉ UNA REALIDAD, NYAH!"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "No le crees para nada."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "¡ENTONCES ESO ES TODO NYA! ¡NOS VOLVERÉMOS A VER SI TIENES SUERTE NYAH!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2c73d90a-2ab8-439a-9ad3-88b2528fa6e0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "...Despierta"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "Despierta de una vez."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "09b1f89d-a30b-4b9d-8d07-02c8795b6478",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡AAAAHHH..!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "2e1eead1-e626-498a-84e7-5b175f75d1d6",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Era necesario saltar así?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me asustaste."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "73bcb6f7-3bba-4af7-90d0-4e3d154df3d8",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Vine de muy lejos y esperé toda la noche hasta que despertaras. Al menos podrías actuar que me prestas atención."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Y si aún quieres que me vaya, lo haré."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "a4281ac1-940f-403d-af32-de2158f1f2ff",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Así está mejor."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "No fue tan difícil, ¿verdad?"
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Entonces iré empezando..."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "21d8315d-1f08-47ee-a7a2-308f9194196d",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Así está mejor."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "95aae141-705e-46b3-9da6-b10728799d9a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué me iría? Acabo de llegar."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Tuve que pasar por muchos problemas para poder llegar."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "ac977a60-2bb1-4577-95e7-dbfeca3357e5",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¡¿Cómo que no te interesa?!"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5a702a24-b353-4dbb-9201-0d1b56d14c22",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero irme así sin más tiraría todo mi esfuerzo por la borda, así que tendrás que escharme de todos modos. Quieras o no."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Así que siéntate ahí y presta atención."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "86f1139e-cbb6-42a3-bca0-395fb5feaa13",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Vine a decirte algo importante."
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Me llevó tiempo pensarlo bien, así que presta atención."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "faf716bc-d258-487f-8aa8-d5b433cdac4a",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Eeeh..?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Cómo puede ser mi culpa? Sólo quería despertarte."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "4dfb5c02-aeb6-435c-893a-5e266fd0392b",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Pero es de día, ¿los humanos no despiertan cuando sale el sol?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "Además estoy aburrida de esperar, {Name}."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b983fe67-9ccd-4269-b56e-f09ddd837c41",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿Por qué eres así conmigo?"
+                },
+                {
+                    "CharacterName": "Arcueid",
+                    "Text": "¿No te interesa al menos saber por qué vine hasta aquí?"
+                }
+            ]
+        },
+        {
+            "LocalizationID": "5ea2ba36-db7f-4d13-aff6-eb14ea543c5e",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "ENTIENDO NYAH."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "SI TIENES SUERTE NYA, VEAMOS OTRAS VEZ NYAH."
+                }
+            ]
+        },
+        {
+            "LocalizationID": "b700b70a-722a-470b-a756-bbc35f5cb3ae",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Es una lástima que siempre nos encontremos cuando la joven princesa sueña, chico."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Parece que has despertado en un tiempo incorrecto. El vínculo que los une aún es demaciado delgado..."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Así no serás capaz de salvarla."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Heh."
+                },
+                {
+                    "CharacterName": "Archetype",
+                    "Text": "Podría volverme adícta a esto."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "Su voz, serena como de constumbre, crea un enigma en tu cabeza del cual jamás habías escuchado Sin embargo, en una situación como esta, si de algo estás seguro..."
+                },
+                {
+                    "CharacterName": "",
+                    "Text": "es que ya no hay esperanza."
+                }
+            ]
+        }
+    ],
+    "answerData": [
+        {
+            "LocalizationID": "7b0cbb2a-6b98-4e26-b3e9-5e5fa376792b",
+            "FilterType": 2,
+            "Data": "2. No, no hay esperanza."
+        },
+        {
+            "LocalizationID": "ee964e45-6bc9-4708-bbbc-413f22f36b6d",
+            "FilterType": 2,
+            "Data": "1. Despertar a Arcueid."
+        },
+        {
+            "LocalizationID": "1ed3acd5-eb11-4340-ae02-82c12d6a5e27",
+            "FilterType": 2,
+            "Data": "1. No, eso fue tu culpa."
+        },
+        {
+            "LocalizationID": "7cc0646b-61eb-4f54-ba9f-061c6bf3b72f",
+            "FilterType": 2,
+            "Data": "1. Bien, ¿qué quiéres?"
+        },
+        {
+            "LocalizationID": "04f815ac-f9cd-4676-a583-4ccbad0d19df",
+            "FilterType": 2,
+            "Data": "2. Despertarla suavemente."
+        },
+        {
+            "LocalizationID": "5700e873-b0fc-422a-9548-60920bf62c6c",
+            "FilterType": 2,
+            "Data": "1. ¿Qué sucedió con tu traje?"
+        },
+        {
+            "LocalizationID": "69cb3a63-9eb0-42bc-add0-7f44cb6374d1",
+            "FilterType": 2,
+            "Data": "1. Te ayudaré a despertar."
+        },
+        {
+            "LocalizationID": "199556b9-0967-4f00-9618-0174afb14e0c",
+            "FilterType": 2,
+            "Data": "2. No decir nada."
+        },
+        {
+            "LocalizationID": "1083a53a-f370-46a6-99f7-a3d04b339304",
+            "FilterType": 2,
+            "Data": "1. Besarla."
+        },
+        {
+            "LocalizationID": "f2cdf5b4-f35c-48ec-8cdf-49cbc30241ed",
+            "FilterType": 2,
+            "Data": "2. Marcharte."
+        },
+        {
+            "LocalizationID": "9a99abcd-7e74-4be3-9b9c-79f7a2a21efa",
+            "FilterType": 2,
+            "Data": "2. Marcharte"
+        },
+        {
+            "LocalizationID": "51f62397-1143-4013-8245-f29923aa0402",
+            "FilterType": 2,
+            "Data": "1. No quise molestarte."
+        },
+        {
+            "LocalizationID": "e033c81a-ee5e-4a5f-9a69-79b373c6871a",
+            "FilterType": 2,
+            "Data": "1. Confezarte."
+        },
+        {
+            "LocalizationID": "074f7207-e0b9-417a-bde1-1ec608a83253",
+            "FilterType": 2,
+            "Data": "3. A CAT IS FINE TOO"
+        },
+        {
+            "LocalizationID": "15df11c2-995d-4e87-abdb-78b92c7b1095",
+            "FilterType": 2,
+            "Data": "2. ¿Qué haces aquí?"
+        },
+        {
+            "LocalizationID": "0b96c8e8-2e14-4b8a-9e35-791e336dfeed",
+            "FilterType": 2,
+            "Data": "1. ¿Quién eres?"
+        },
+        {
+            "LocalizationID": "c10bf358-4e7f-4496-8998-401542d97930",
+            "FilterType": 2,
+            "Data": "1. Saltar gritando"
+        },
+        {
+            "LocalizationID": "f611b1f5-b6cc-4b2a-8c76-cb2b82aa4601",
+            "FilterType": 2,
+            "Data": "2. Despertar despacio"
+        },
+        {
+            "LocalizationID": "417b96cf-78c8-41af-8d0f-3926e9440c40",
+            "FilterType": 2,
+            "Data": "2. Está bien, te escucho."
+        },
+        {
+            "LocalizationID": "c6ec5f3c-411c-436d-81f7-34dfeec29856",
+            "FilterType": 2,
+            "Data": "2. Déjame seguir durmiendo."
+        },
+        {
+            "LocalizationID": "fca371ae-6d1f-494d-b976-3766e4ba8d9e",
+            "FilterType": 2,
+            "Data": "1. ¡¿Arcueid, qué haces aquí?!"
+        },
+        {
+            "LocalizationID": "7e169f4d-de3a-4b14-be87-eea8010426d4",
+            "FilterType": 2,
+            "Data": "1. ¿Y qué es?"
+        },
+        {
+            "LocalizationID": "4706804c-350b-4d84-974d-33f76e7d9de3",
+            "FilterType": 2,
+            "Data": "2. No me interesa, ya puedes irte."
+        },
+        {
+            "LocalizationID": "d7b4aaa3-b73d-4c0c-af47-0c9064e23c12",
+            "FilterType": 2,
+            "Data": "2. Continuar así."
+        },
+        {
+            "LocalizationID": "c75db471-9472-4848-952e-f01669f0bc9f",
+            "FilterType": 2,
+            "Data": "2. No molestes."
+        },
+        {
+            "LocalizationID": "f931f154-ff35-4c4b-98b4-fd78d0d81a4a",
+            "FilterType": 2,
+            "Data": "1. Está bien, dilo ya."
+        },
+        {
+            "LocalizationID": "c412a11f-8615-438e-81c0-664f8f0e6d58",
+            "FilterType": 2,
+            "Data": "1. No decir nada."
+        },
+        {
+            "LocalizationID": "41476ca2-bbc6-441a-87ae-80802187e794",
+            "FilterType": 2,
+            "Data": "2. Falta mucho."
+        },
+        {
+            "LocalizationID": "b3dfb198-49b4-4217-ab1d-fcb97c25cfc8",
+            "FilterType": 2,
+            "Data": "1. ¡Gracias Arcueid!"
+        },
+        {
+            "LocalizationID": "5cdb5e3f-55be-4085-a5a4-97d14556eb1e",
+            "FilterType": 2,
+            "Data": "2. Promesa para el año próximo."
+        },
+        {
+            "LocalizationID": "2b9f3cfc-41f9-4b83-a877-21448174688f",
+            "FilterType": 2,
+            "Data": "2. Lo sé."
+        },
+        {
+            "LocalizationID": "9108f46b-b661-460a-b4d8-a58265ea9e6b",
+            "FilterType": 2,
+            "Data": "1. Aún así, seguiré viniendo."
+        },
+        {
+            "LocalizationID": "b9ef1f08-42fa-4971-a9a9-50171956f6c9",
+            "FilterType": 2,
+            "Data": "2. No, aún no. Pero ya lo verás."
+        },
+        {
+            "LocalizationID": "68d71e33-57d2-48e3-b56f-84b895afe240",
+            "FilterType": 2,
+            "Data": "1. Tiene razón, ¡aún podemos!"
+        },
+        {
+            "LocalizationID": "595371b1-86f8-495d-b304-2fa03273950a",
+            "FilterType": 2,
+            "Data": "1. ¡Vamos a acabarte!"
+        },
+        {
+            "LocalizationID": "edef22b5-d217-4df1-9de4-92ad05bbc4b1",
+            "FilterType": 2,
+            "Data": "1. Seguir esperando."
+        },
+        {
+            "LocalizationID": "afedcdda-2074-49e9-aedc-2e6d17e1cac9",
+            "FilterType": 2,
+            "Data": "1. Seguir esperando."
+        },
+        {
+            "LocalizationID": "4c881ed4-c506-4873-bd63-f3849be559d5",
+            "FilterType": 2,
+            "Data": "1. Seguir esperando."
+        },
+        {
+            "LocalizationID": "ef84cb11-28d3-4f2e-a92b-44bb609fd8e9",
+            "FilterType": 2,
+            "Data": "1. Aceptas el deseo gatuno."
+        },
+        {
+            "LocalizationID": "658fd896-80f1-4db3-bcd6-089ff86f5b93",
+            "FilterType": 2,
+            "Data": "2. Rechazarla."
+        },
+        {
+            "LocalizationID": "c69c13ae-e6c5-442d-9527-abac3e48392c",
+            "FilterType": 2,
+            "Data": "2. Llegas tarde, ya pasó."
+        },
+        {
+            "LocalizationID": "04fef7cc-a53d-48c2-ad6f-b646ec763afc",
+            "FilterType": 2,
+            "Data": "1. Asustarla"
+        },
+        {
+            "LocalizationID": "59e03e9e-0f0a-488f-b178-c269181c6a44",
+            "FilterType": 2,
+            "Data": "1. ¿Por qué has venido?"
+        },
+        {
+            "LocalizationID": "eb124bce-5bee-4e58-a83b-91e140f4a367",
+            "FilterType": 2,
+            "Data": "1. Restaurar partida."
+        },
+        {
+            "LocalizationID": "0cf1e1d8-87d2-448a-8f0d-9090f228ebe7",
+            "FilterType": 2,
+            "Data": "1. Falta poco."
+        },
+        {
+            "LocalizationID": "94b0f35e-ba27-4367-a89b-3a7fe7271846",
+            "FilterType": 2,
+            "Data": "2.  Invitarla a que se quede hasta entonces."
+        },
+        {
+            "LocalizationID": "c5655b25-2665-4ce1-8a59-e4dec68ed174",
+            "FilterType": 2,
+            "Data": "1. ¡Lo haré!"
+        },
+        {
+            "LocalizationID": "c9bf1cc5-8de1-4a3d-bd1a-03b96ffe757b",
+            "FilterType": 2,
+            "Data": "2. Marcharte."
+        },
+        {
+            "LocalizationID": "a2692021-46b8-4807-9595-64b5fce3caa2",
+            "FilterType": 2,
+            "Data": "1. Es tu culpa."
+        },
+        {
+            "LocalizationID": "704c88c8-e23b-4a05-8276-a6d0c06821fa",
+            "FilterType": 2,
+            "Data": "1. Ya vete y déjame dormir."
+        },
+        {
+            "LocalizationID": "53ce6ebb-f5b0-413d-aedc-6d9b89a9957c",
+            "FilterType": 2,
+            "Data": "1. Entonces vete."
+        },
+        {
+            "LocalizationID": "d013765d-1404-4c11-b819-62df906adaa1",
+            "FilterType": 2,
+            "Data": "1. No."
+        },
+        {
+            "LocalizationID": "a15c1e96-a6f2-4152-bab0-ae54c78eba39",
+            "FilterType": 2,
+            "Data": "2. Está bien, lo siento."
+        },
+        {
+            "LocalizationID": "f6bf7a40-6b90-446c-bbeb-4ee1b3fc7e55",
+            "FilterType": 2,
+            "Data": "2. Está bien, habla."
+        },
+        {
+            "LocalizationID": "3650fc90-93b7-46d6-9634-7e2fd5372f0f",
+            "FilterType": 2,
+            "Data": "2. Lo siento."
+        },
+        {
+            "LocalizationID": "66bf3ffb-05e9-4e92-99fd-30f7d27e71d7",
+            "FilterType": 2,
+            "Data": "1. Bien, ya puedes irte."
+        },
+        {
+            "LocalizationID": "1d75146f-20f7-41e5-83f5-93b73b5b5207",
+            "FilterType": 2,
+            "Data": "2. ¿Qué quiéres Arcueid?"
+        },
+        {
+            "LocalizationID": "fcd2f501-1dc1-4d23-9277-b6f95b4c4d96",
+            "FilterType": 2,
+            "Data": "3. Observarla un poco más."
+        },
+        {
+            "LocalizationID": "61497c0f-1d21-4b10-88ae-597c8697c1e0",
+            "FilterType": 2,
+            "Data": "1. Gracias, Arcueid."
+        },
+        {
+            "LocalizationID": "78b39b3f-dd5f-4f65-aa46-cb251d91649a",
+            "FilterType": 2,
+            "Data": "2. Consolarla."
+        },
+        {
+            "LocalizationID": "50abf24d-5364-45d1-9470-4c1cbc37361e",
+            "FilterType": 2,
+            "Data": "1. Simular cumpleños"
+        },
+        {
+            "LocalizationID": "80744a00-7f89-4584-ab52-36a00614cbd2",
+            "FilterType": 2,
+            "Data": "3. No cumplo hoy, aún falta."
+        },
+        {
+            "LocalizationID": "356130be-5d0b-48f8-8e56-cb5ab73a9a32",
+            "FilterType": 2,
+            "Data": "2. Disfrutaba con verte dormir."
+        }
+    ],
+    "menuTextData": [
+        {
+            "LocalizationID": "a4e2a84a-63e8-43c3-b772-2dc964bd14c8",
+            "FilterType": 0,
+            "Data": "Una producción de:\n\n\n\n\n\n\n\n  Dirección y guión: \n                   -DeadlySmile-\n\n  Testers y control de calidad:\n                   CounterForce\n                   Aster Crowley\n\nIlustración de ending:\n                   Aster Crowley\n\nTraducción al ingles:\n                    Adrián Melián\n\nEfectos de sonido (freesound.org):\n                    Schademans:     brush3\n                    Jankoehl:            hit-brush01\n                    Stereostereo:      st-squeak-door\n                    Smokebomb99:  axe-slash-2\n                    Zabuhailo:           doorcheaking4\n                    Waxsocks:           fireworks-display-2\n                    Inspectorj:            door-squeak-normal-d\n                    Nekoninja:            samurai-slash\n                    Morganpurkis:      heartbeat-v2\n                    Broumbroum:        sf3-sfx-menu-back-1\n                                                    sf3-sfx-menu-select\n                                                    sf3-sfx-menu-validate\n\n\nComentarios de admins de TM:H+J:\n                   Ryougilf:\n                                   Tsuki >>>> fate\n                                   Las Gordi no son lindis\n                                   Las waifus no son reales\n\n                  CounterForce:\n                                   Con o sin lentes ( ͡ ͡° ͜ ʖ ͡ ͡°)\n\n                  -DeadlySmile-:\n                                    Sólo fuiste un sueño para ella.\n\n\nDedicatorias:\n                 A Ryougilf, uno de los admins de la página más antiguos y que ha regresado últimamentem, por su cumpleaños.\n\n\nMención especial a los Fans en -DeadlySmile- que, a pesar de sus altibajos de actividad, han sabido soportarlo y le han seguido dando su soporte. Esto es para ustedes:\n                     Aster Crowley, Marco Sun, Carlos Asaed Reyes Vazquez, Ivan Antonio Espinoza, Jesus Garcia, Angel Iram, Yoshi Akihisa, Daniel Gimenez, Bagual Velazquez, Leonardo Demartino, Hendryx Gazo, Daniel Hernández Palomar, Paola Andrea Ramirez Peña, Jensen Raylight Ruiz, Federico Ruiz, Carlos Carpy Mora, Manuel Contreras Vergara, Jose Moroyoki, Ricardo Botto, Angel De Jesus Alonso Ramos.\n\n\nMención especial a todos los Fans Destacados en Type-Moon: Historietas + Juegos. Si su constante apoyo, la página no sería lo que es hoy en día. Gracias por todo:\n                     Eddie Hernández, Rodrigo Hurtado, Gangz Melendez, Tuan Vo, Alberto Ignacio Aburto Flores, Mauricio Perez Hernandez, Francisco Prudencio Segovia, Sengo Muramasa, Axel Rodriguez, David Andres, Luis Ling, Maho Carreño, Mauri Pinto, David Diaz, Yin Ko, Jorge Salazar, Marco Camarillo Faustino, Leonardo Mercado, Christian Bernardo Gómez Gómez, Jelsin D David, Diego Fernando Gerena Zamora, Kevin A. Teran, Ivan Velez, Luis GK, Ricardo Ramirez, Kyosuke Nanaya, Julio Olvera, Juan Castro, Takashi-kun Aneliuz, Allan Francisco Reyes Medina, Rediem Lazim Zemir Couriass.\n\n\nY gracias a ti por permitirnos tu tiempo para jugar a esta obra. Por gente como tú nosotros seguimos existiendo.\n\n\n\nTodos los fondos, sprites, y personajes son propiedades intelectuales de TYPE-MOON©. La música implementada son propiedad de TYPE-MOON© y French Bread. Las imágenes en video presentadas son pertenecientes a Battle Moon Wars, propiedad de Werk.\n\nLa utilización de dichos elementos han sido de meramente entretenimiento, mediante una distribución libre y gratuita, sin intención de generar beneficio monetario de ningún tipo.\n\nSi has pagado por una copia de este producto, pida que le devuelvan el dinero.\n\nEste producto ha sido desarrollado utilizando \"Paradox Engine\" v0.5, propiedad de -DeadlySmile-, herramienta de creación de novelas visuales para Unity.\n\n\nNo te olvides de visitarnos:\n                   facebook.com/TypeMoonHistorietasJuegos\n                   facebook.com/DeadlySmileTM\n                   facebook.com/asterDAbeast/\n                   -->coloca tu página aquí<--"
+        }
+    ],
+    "menuDropdownData": []
+}

@@ -1707,13 +1707,14 @@ MonoBehaviour:
     m_LineSpacing: 1.4
   m_Text: "Una producci\xF3n de:\n\n\n\n\n\n\n\n  Direcci\xF3n y gui\xF3n: \n                  
     -DeadlySmile-\n\n  Testers y control de calidad:\n                   CounterForce\n                  
-    Aster Crowley\n\nIlustraci\xF3n de ending:\n                   Aster Crowley\n\nEfectos
-    de sonido (freesound.org):\n                    Schademans:     brush3\n                   
-    Jankoehl:            hit-brush01\n                    Stereostereo:      st-squeak-door\n                   
-    Smokebomb99:  axe-slash-2\n                    Zabuhailo:           doorcheaking4\n                   
-    Waxsocks:           fireworks-display-2\n                    Inspectorj:           
-    door-squeak-normal-d\n                    Nekoninja:            samurai-slash\n                   
-    Morganpurkis:      heartbeat-v2\n                    Broumbroum:        sf3-sfx-menu-back-1\n                                                   
+    Aster Crowley\n\nIlustraci\xF3n de ending:\n                   Aster Crowley\n\nTraducci\xF3n
+    al ingles:\n                    Adri\xE1n Meli\xE1n\n\nEfectos de sonido (freesound.org):\n                   
+    Schademans:     brush3\n                    Jankoehl:            hit-brush01\n                   
+    Stereostereo:      st-squeak-door\n                    Smokebomb99:  axe-slash-2\n                   
+    Zabuhailo:           doorcheaking4\n                    Waxsocks:           fireworks-display-2\n                   
+    Inspectorj:            door-squeak-normal-d\n                    Nekoninja:           
+    samurai-slash\n                    Morganpurkis:      heartbeat-v2\n                   
+    Broumbroum:        sf3-sfx-menu-back-1\n                                                   
     sf3-sfx-menu-select\n                                                    sf3-sfx-menu-validate\n\n\nComentarios
     de admins de TM:H+J:\n                   Ryougilf:\n                                  
     Tsuki >>>> fate\n                                   Las Gordi no son lindis\n                                  
@@ -1749,8 +1750,8 @@ MonoBehaviour:
     le devuelvan el dinero.\n\nEste producto ha sido desarrollado utilizando \"Paradox
     Engine\" v0.5, propiedad de -DeadlySmile-, herramienta de creaci\xF3n de novelas
     visuales para Unity.\n\n\nNo te olvides de visitarnos:\n                   facebook.com/TypeMoonHistorietasJuegos\n                  
-    facebook.com/DeadlySmileTM\n                   facebook.com/asterDAbeast/\n\n   
-    \n                                                         \xA1Gracias por jugar!"
+    facebook.com/DeadlySmileTM\n                   facebook.com/asterDAbeast/\n                  
+    -->coloca tu p\xE1gina aqu\xED<--"
 --- !u!224 &1621460232
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1781,6 +1782,7 @@ GameObject:
   - component: {fileID: 1621460232}
   - component: {fileID: 1621460230}
   - component: {fileID: 1621460231}
+  - component: {fileID: 1621460234}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -1788,6 +1790,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
+--- !u!114 &1621460234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1621460233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37f1c88413a0b9d4992da85ae8d34ce7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _manager: {fileID: 5245947938931454928}
+  _textComponent: {fileID: 1621460231}
+  _localizationID: 4aa8e2a4e863c343b7722dc964bd14c8
 --- !u!1 &1638927785
 GameObject:
   m_ObjectHideFlags: 0

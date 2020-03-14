@@ -1,0 +1,196 @@
+{
+    "graphName": "Spanish - Main Menu",
+    "textData": [],
+    "answerData": [],
+    "menuTextData": [
+        {
+            "LocalizationID": "de7494f6-301f-47b3-aec8-9375915ff5db",
+            "FilterType": 0,
+            "Data": "OPCIONES"
+        },
+        {
+            "LocalizationID": "9df153aa-7a9f-4ed1-9b1e-35131038b849",
+            "FilterType": 0,
+            "Data": "Rastro de sangre"
+        },
+        {
+            "LocalizationID": "ff4d7b77-ea21-4315-9ad5-8ddfe19ddcc2",
+            "FilterType": 0,
+            "Data": "Promesa"
+        },
+        {
+            "LocalizationID": "995b7e61-438e-48ac-9a1e-9e6f456810d8",
+            "FilterType": 0,
+            "Data": "EXTRAS"
+        },
+        {
+            "LocalizationID": "c32ef460-9407-47c4-be7a-3f9d846b2e86",
+            "FilterType": 0,
+            "Data": "Cita en la ciudad"
+        },
+        {
+            "LocalizationID": "581b486f-2b17-4196-8ad5-eaab0f542600",
+            "FilterType": 0,
+            "Data": "ATRÁS"
+        },
+        {
+            "LocalizationID": "e578a530-93c4-4d98-b7f8-676aede30a62",
+            "FilterType": 0,
+            "Data": "Pantalla completa"
+        },
+        {
+            "LocalizationID": "804e4225-3103-4f96-9b8c-96585a837153",
+            "FilterType": 0,
+            "Data": "Adiós repentino"
+        },
+        {
+            "LocalizationID": "18383c37-41df-4336-8628-3969f4abd9cb",
+            "FilterType": 0,
+            "Data": "Voces"
+        },
+        {
+            "LocalizationID": "d1019018-4cf9-4a6b-92c0-b5f3576a14a8",
+            "FilterType": 0,
+            "Data": "Búsqueda eterna"
+        },
+        {
+            "LocalizationID": "6bc46785-9371-40d5-a23e-e76fb9698b9d",
+            "FilterType": 0,
+            "Data": "Gráficos"
+        },
+        {
+            "LocalizationID": "85b02700-bd03-4730-a193-e9b6ff15539a",
+            "FilterType": 0,
+            "Data": "CAMBIAR NOMBRE"
+        },
+        {
+            "LocalizationID": "a4a91bea-b238-488e-bb08-9c74599d810d",
+            "FilterType": 0,
+            "Data": "GRÁFICOS"
+        },
+        {
+            "LocalizationID": "312f4318-da6c-462f-9b4f-293d1e6f505a",
+            "FilterType": 0,
+            "Data": "Desistir"
+        },
+        {
+            "LocalizationID": "0ca638b3-565b-4003-a5df-81d5cf801e37",
+            "FilterType": 0,
+            "Data": "Efectos Sonido"
+        },
+        {
+            "LocalizationID": "43cea899-5405-4c8b-a5d1-f7cd85b2279f",
+            "FilterType": 0,
+            "Data": "Infierno Brunestud"
+        },
+        {
+            "LocalizationID": "aa7da542-6acd-4255-b624-5947640ee47d",
+            "FilterType": 0,
+            "Data": "Princesa de sangre"
+        },
+        {
+            "LocalizationID": "5d7c5464-66d5-4c12-9593-d46ad953c028",
+            "FilterType": 0,
+            "Data": "Feliz día, Arcueid"
+        },
+        {
+            "LocalizationID": "8c62a8fd-735f-4ca6-a317-ec13c5be95ac",
+            "FilterType": 0,
+            "Data": "ATRÁS"
+        },
+        {
+            "LocalizationID": "457e6573-80c2-4405-baf9-59ef4a2bff49",
+            "FilterType": 0,
+            "Data": "A Day with\nArcueid"
+        },
+        {
+            "LocalizationID": "a46cdbe5-5624-4e8a-9b23-f10c13ab7ae2",
+            "FilterType": 0,
+            "Data": "Idioma"
+        },
+        {
+            "LocalizationID": "f6cedfb1-0167-4ec2-b27e-6bccd9f279d0",
+            "FilterType": 0,
+            "Data": "Cumpleaños"
+        },
+        {
+            "LocalizationID": "cfc179bd-7028-4f4f-9b31-684bae85cbd2",
+            "FilterType": 0,
+            "Data": "ACEPTAR"
+        },
+        {
+            "LocalizationID": "28afdcc6-a9ff-4a56-bf4c-762ded325725",
+            "FilterType": 0,
+            "Data": "JUGAR"
+        },
+        {
+            "LocalizationID": "3e94de02-9edb-4b99-8f3a-1f697cc31344",
+            "FilterType": 0,
+            "Data": "Arcueid Wars"
+        },
+        {
+            "LocalizationID": "664dafd1-7299-44ab-be99-b1a46d7ee728",
+            "FilterType": 0,
+            "Data": "AUDIO"
+        },
+        {
+            "LocalizationID": "e96f6be0-7f43-4945-bb2b-867424fb0069",
+            "FilterType": 0,
+            "Data": "Finales"
+        },
+        {
+            "LocalizationID": "a38e9425-4b4d-4db4-b632-094f649c4de4",
+            "FilterType": 0,
+            "Data": "Verdadero despertar"
+        },
+        {
+            "LocalizationID": "faa5566b-831d-4a12-8e7d-b0d4563a30e2",
+            "FilterType": 0,
+            "Data": "Música"
+        },
+        {
+            "LocalizationID": "9fca0682-f4d9-445e-b609-6f6bcfd5dd03",
+            "FilterType": 0,
+            "Data": "Un año juntos"
+        },
+        {
+            "LocalizationID": "3d7f6368-bcb8-4372-a525-2052e64d7e82",
+            "FilterType": 0,
+            "Data": "A cat is fine too"
+        },
+        {
+            "LocalizationID": "cad9bf77-7a4c-4bde-84b1-d1251b69aefd",
+            "FilterType": 0,
+            "Data": "SALIR"
+        },
+        {
+            "LocalizationID": "fb1ff29e-36f7-4834-b6cf-d04f38b72753",
+            "FilterType": 0,
+            "Data": "IDIOMA"
+        },
+        {
+            "LocalizationID": "ad45e0e2-6948-4565-9348-d885c59de0c9",
+            "FilterType": 0,
+            "Data": "Resolución"
+        }
+    ],
+    "menuDropdownData": [
+        {
+            "LocalizationID": "f9b1eadd-5c35-4f9d-83e9-bbb83a0bd4a2",
+            "FilterType": 3,
+            "Data": [
+                "Español",
+                "Ingles"
+            ]
+        },
+        {
+            "LocalizationID": "039c8b1b-6a67-478a-9342-22ae9452284b",
+            "FilterType": 3,
+            "Data": [
+                "Bajos",
+                "Medios",
+                "Altos"
+            ]
+        }
+    ]
+}
