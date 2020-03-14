@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b685b02962c28a4d8d59912a2af492b, type: 3}
   m_Name: SessionCache
   m_EditorClassIdentifier: Assembly-CSharp-Editor:ParadoxEngine.Utilities.Cache:EngineGraphCache
-  _lastSessionPath: 
+  _lastSessionPath: Assets/Paradox Engine/Graph/Resources/Data/Tsuki Test.asset

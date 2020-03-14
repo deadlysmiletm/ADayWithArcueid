@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using UnityEngine;
 
 
 namespace ParadoxEngine.Localization
@@ -18,13 +19,13 @@ namespace ParadoxEngine.Localization
                 if (node.nodeType == Utilities.EnumNodeType.Text)
                 {
                     textTemplate = (NText)node;
-                    textTemplate.data = manager.GetTextNodeTranslation(textTemplate.GetLocalizationID());
+                    textTemplate.data = manager.GetTextNodeTranslation(node.GetLocalizationID());
                 }
 
                 else
                 {
                     answerTemplate = (NAnswer)node;
-                    answerTemplate.answer = manager.GetAnswerNodeTranslation(answerTemplate.GetLocalizationID());
+                    answerTemplate.answer = manager.GetAnswerNodeTranslation(node.GetLocalizationID());
                 }
             }
         }

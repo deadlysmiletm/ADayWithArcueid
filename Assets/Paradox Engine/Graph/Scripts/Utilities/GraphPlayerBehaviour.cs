@@ -38,6 +38,9 @@ public class GraphPlayerBehaviour : MonoBehaviour
 
     private void Awake()
     {
+        poolManager = GetComponent<PoolManager>();
+        Canvas = GetComponentInParent<Canvas>();
+
         if (graph == null)
         {
             this.gameObject.SetActive(false);
@@ -48,15 +51,13 @@ public class GraphPlayerBehaviour : MonoBehaviour
 
         if (DialogueDatabase.parameters == null)
             DialogueDatabase.parameters = graph.parameters;
-
-        poolManager = GetComponent<PoolManager>();
-
-        Canvas = GetComponentInParent<Canvas>();
-
-        AssignBehaviour(graph);
     }
 
-    void Start() => Play();
+    void Start()
+    {
+        AssignBehaviour(graph);
+        Play();
+    }
 
     void Update ()
     {

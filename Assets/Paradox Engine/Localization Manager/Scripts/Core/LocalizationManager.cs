@@ -10,6 +10,7 @@ namespace ParadoxEngine.Localization
     public class LocalizationManager : MonoBehaviour
     {
         [SerializeField] private LocalizationManagerCache _cache = null;
+        [SerializeField]
         private Dictionary<string, List<LanguageData>> _avalibleLanguage = new Dictionary<string, List<LanguageData>>();
         public string currentLanguage = string.Empty;
         public event Action OnUpdateTranslation = delegate { };

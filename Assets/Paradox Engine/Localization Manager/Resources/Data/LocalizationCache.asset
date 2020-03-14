@@ -13,11 +13,13 @@ MonoBehaviour:
   m_Name: LocalizationCache
   m_EditorClassIdentifier: 
   languageDataPacks:
-  - {fileID: 11400000, guid: d68ee9c2cb9a862469845481160871ff, type: 2}
-  - {fileID: 11400000, guid: b0c3882f63bcd1d4e89f4a54738a6326, type: 2}
-  - {fileID: 11400000, guid: 240362a1b3e82a944ab0a5abd79d82dd, type: 2}
+  - {fileID: 11400000, guid: 4d73267838fcd7f4cb6a66fc62323334, type: 2}
+  - {fileID: 11400000, guid: 698d5978d6e05244b8fdd2c96a249a6e, type: 2}
+  - {fileID: 11400000, guid: 797dad4642a24234b8374741cb5d153f, type: 2}
+  - {fileID: 11400000, guid: b271d40e383c32544915bfb947f1fd4f, type: 2}
+  - {fileID: 11400000, guid: adcfc656ad600074cbf45da6ec5fc7a2, type: 2}
   - {fileID: 11400000, guid: fe58e949619ba7040810c15f265acac7, type: 2}
   - {fileID: 11400000, guid: fe31a1de0fc2ab24db8043382526e46f, type: 2}
   - {fileID: 11400000, guid: 731d02f908702a4408df1d7fa4bcdb57, type: 2}
-  currentLanguage: 
-  isLoaded: 0
+  currentLanguage: es
+  isLoaded: 1
