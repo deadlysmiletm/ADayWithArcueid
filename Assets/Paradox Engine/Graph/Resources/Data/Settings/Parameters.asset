@@ -147,7 +147,7 @@ MonoBehaviour:
     IsPersistent: 0
   intData:
   - Name: PlayTimes
-    Value: 1
+    Value: 0
   - Name: Arcueid bond
     Value: 0
   - Name: Random
@@ -161,9 +161,9 @@ MonoBehaviour:
   - Name: ArchetypeDefeated
     Value: 0
   - Name: ArcDay
-    Value: 1
+    Value: 0
   - Name: TrueAwaken
-    Value: 1
+    Value: 0
   - Name: BloodPath
     Value: 0
   - Name: Birthday
@@ -192,4 +192,4 @@ MonoBehaviour:
     Value: 0
   stringData:
   - Name: Name
-    Value: Lucas
+    Value: 

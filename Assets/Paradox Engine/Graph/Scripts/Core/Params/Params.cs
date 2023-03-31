@@ -284,7 +284,7 @@ namespace ParadoxEngine.Utilities.Parameters
 #if UNITY_STANDALONE || UNITY_EDITOR
             path = Application.dataPath;
 #else
-            path = $"{Application.persistentDataPath}/GlobalData.arcueid";
+            path = Application.persistentDataPath;
 #endif
 
 
@@ -302,9 +302,9 @@ namespace ParadoxEngine.Utilities.Parameters
                 return;
             }
 #else
-            if (!ParadoxSerialization.CheckFile(path))
+            if (!ParadoxSerialization.CheckFile($"{path}/GlobalData.arcueid"))
             {
-                CreateData(parameters, path);
+                CreateData(parameters, $"{path}/GlobalData.arcueid");
                 return;
             }
 #endif
@@ -312,7 +312,7 @@ namespace ParadoxEngine.Utilities.Parameters
 #if UNITY_STANDALONE || UNITY_EDITOR
             SaveGlobal data = _dataInterface.LoadData($"{path}/Save/GlobalData.arcueid");
 #else
-            SaveGlobal data = _dataInterface.LoadData(path);
+            SaveGlobal data = _dataInterface.LoadData($"{path}/GlobalData.arcueid");
 #endif
 
             for (int i = 0; i < data.intData.Count; i++)
@@ -344,7 +344,7 @@ namespace ParadoxEngine.Utilities.Parameters
 #if UNITY_STANDALONE || UNITY_EDITOR
             path = Application.dataPath;
 #else
-            path = $"{Application.persistentDataPath}/Settings.arcueid";
+            path = Application.persistentDataPath;
 #endif
 
 
@@ -362,9 +362,9 @@ namespace ParadoxEngine.Utilities.Parameters
                 return;
             }
 #else
-            if (!ParadoxSerialization.CheckFile(path))
+            if (!ParadoxSerialization.CheckFile($"{path}/Settings.arcueid"))
             {
-                manager.GetData().SaveData($"{path}/Save/Settings.arcueid", true);
+                manager.GetData().SaveData($"{path}/Settings.arcueid", true);
                 return;
             }
 #endif
@@ -372,7 +372,7 @@ namespace ParadoxEngine.Utilities.Parameters
 #if UNITY_STANDALONE || UNITY_EDITOR
             SaveGlobal data = _dataInterface.LoadData($"{path}/Save/Settings.arcueid");
 #else
-            SaveGlobal data = _dataInterface.LoadData(path);
+            SaveGlobal data = _dataInterface.LoadData($"{path}/Settings.arcueid");
 #endif
 
             OnComplete(data);

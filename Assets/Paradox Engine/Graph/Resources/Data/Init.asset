@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 600.8002
-    y: 308.73608
+    x: 362.8002
+    y: 305.93573
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -48,8 +48,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 822.2002
-    y: 338.00012
+    x: 584.20026
+    y: 335.19977
     width: 110
     height: 55
   nodeName: End State
@@ -82,17 +82,17 @@ MonoBehaviour:
   graphName: Init
   nodes:
   - {fileID: 4033821383061662420}
-  - {fileID: 8836574800316109151}
   - {fileID: -2458514374295606970}
+  - {fileID: 8836574800316109151}
   - {fileID: -3808945013335248651}
   selectedNode: {fileID: 0}
   wantsConnection: 0
   connectionNode: {fileID: 0}
   parameters: {fileID: 11400000, guid: 6447b1108e513184ab07b1cde742e4a4, type: 2}
   panningScreen: 0
-  offset: {x: 45.00003, y: 45.000015}
-  zoom: 1.6
-  zoomPanAdjust: {x: 585, y: 354.4}
+  offset: {x: -39.999947, y: 43.999874}
+  zoom: 1.4
+  zoomPanAdjust: {x: 367.5, y: 293.3}
 --- !u!114 &4033821383061662420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107,8 +107,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 148.8003
-    y: 331
+    x: -89.199646
+    y: 328.19965
     width: 110
     height: 55
   nodeName: Start State
@@ -140,8 +140,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 383.60016
-    y: 314.536
+    x: 145.60019
+    y: 311.73566
     width: 110
     height: 55
   nodeName: Trigger Event State

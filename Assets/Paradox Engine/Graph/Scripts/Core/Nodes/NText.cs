@@ -141,7 +141,7 @@ public class NText : NTemplate
             DialogueDatabase.activeGraphPlayer.cache.RemoveLast();
 
         if (dataPack.IsDialogue)
-            DialogueDatabase.activeGraphPlayer.cache.AddText($"{BakeText(dataPack.Character.GetIdentificator())}: {text}");
+            DialogueDatabase.activeGraphPlayer.cache.AddText($"<i><b>{BakeText(dataPack.Character.GetIdentificator())}:</b></i> {text}");
 
         else
             DialogueDatabase.activeGraphPlayer.cache.AddText(text);

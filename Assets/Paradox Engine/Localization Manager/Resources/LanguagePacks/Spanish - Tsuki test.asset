@@ -80,14 +80,6 @@ MonoBehaviour:
     filterType: 2
     data: "1. \xBFQui\xE9n eres?"
     parentReference: 0
-  - id: 58f30bc17f4e96448998401542d97930
-    filterType: 2
-    data: 1. Saltar gritando
-    parentReference: 0
-  - id: f5b111f6ccb62a4b8c76cb2b82aa4601
-    filterType: 2
-    data: 2. Despertar despacio
-    parentReference: 0
   - id: cf967b41c878af418d0f3926e9440c40
     filterType: 2
     data: "2. Est\xE1 bien, te escucho."
@@ -267,6 +259,22 @@ MonoBehaviour:
   - id: be3061350b5df8488e56cb5ab73a9a32
     filterType: 2
     data: 2. Disfrutaba con verte dormir.
+    parentReference: 0
+  - id: 58f30bc17f4e96448998401542d97930
+    filterType: 2
+    data: 1. Saltar gritando
+    parentReference: 0
+  - id: f5b111f6ccb62a4b8c76cb2b82aa4601
+    filterType: 2
+    data: 2. Despertar despacio
+    parentReference: 0
+  - id: 31407947eaa3cc48a9c2689ffa76330c
+    filterType: 2
+    data: "1. D\xEDa normal"
+    parentReference: 0
+  - id: b52b874159f8b041819c32f087d5467b
+    filterType: 2
+    data: 2. Evento secreto
     parentReference: 0
   textNodeData:
   - id: a4010db01cc7924da9feca3a73026296
@@ -5161,60 +5169,6 @@ MonoBehaviour:
       ContinueParagraph: 0
       ClearLastText: 1
     parentReference: 0
-  - id: 0ad9732cb82a9a439ad388b2528fa6e0
-    filterType: 1
-    data:
-    - Text: ...Despierta
-      IsDialogue: 1
-      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
-        type: 2}
-      UseDelay: 1
-      DelayTime: 0.5
-      UseCustomKey: 0
-      CustomKey: 13
-      ContinueParagraph: 0
-      ClearLastText: 1
-    - Text: .
-      IsDialogue: 1
-      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
-        type: 2}
-      UseDelay: 1
-      DelayTime: 0.5
-      UseCustomKey: 0
-      CustomKey: 13
-      ContinueParagraph: 1
-      ClearLastText: 0
-    - Text: .
-      IsDialogue: 1
-      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
-        type: 2}
-      UseDelay: 1
-      DelayTime: 0.5
-      UseCustomKey: 0
-      CustomKey: 13
-      ContinueParagraph: 1
-      ClearLastText: 0
-    - Text: .
-      IsDialogue: 1
-      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
-        type: 2}
-      UseDelay: 1
-      DelayTime: 0.5
-      UseCustomKey: 0
-      CustomKey: 13
-      ContinueParagraph: 1
-      ClearLastText: 0
-    - Text: Despierta de una vez.
-      IsDialogue: 1
-      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
-        type: 2}
-      UseDelay: 0
-      DelayTime: 0
-      UseCustomKey: 0
-      CustomKey: 13
-      ContinueParagraph: 1
-      ClearLastText: 0
-    parentReference: 0
   - id: 9df8b1090ba39d4b8d0702c8795b6478
     filterType: 1
     data:
@@ -5577,6 +5531,60 @@ MonoBehaviour:
     - Text: es que ya no hay esperanza.
       IsDialogue: 0
       Character: {fileID: 0}
+      UseDelay: 0
+      DelayTime: 0
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    parentReference: 0
+  - id: 0ad9732cb82a9a439ad388b2528fa6e0
+    filterType: 1
+    data:
+    - Text: ...Despierta
+      IsDialogue: 1
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 0
+      ClearLastText: 1
+    - Text: .
+      IsDialogue: 1
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 1
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: .
+      IsDialogue: 1
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
+      UseDelay: 1
+      DelayTime: 0.5
+      UseCustomKey: 0
+      CustomKey: 13
+      ContinueParagraph: 1
+      ClearLastText: 0
+    - Text: Despierta de una vez.
+      IsDialogue: 1
+      Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
+        type: 2}
       UseDelay: 0
       DelayTime: 0
       UseCustomKey: 0
