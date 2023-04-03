@@ -76,12 +76,15 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 1df0c96d9f39ea54ab21608d39da8fea, type: 3}
     - {fileID: 2800000, guid: 95b52e0daa80cbf48a1048ab7f88505e, type: 3}
-    totalSpriteSurfaceArea: 1583776
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
   - {fileID: 21300000, guid: 95b52e0daa80cbf48a1048ab7f88505e, type: 3}
@@ -89,5 +92,6 @@ SpriteAtlas:
   m_PackedSpriteNamesToIndex:
   - icon
   - Wall
+  m_RenderDataMap: {}
   m_Tag: InterfaceNoAlphaAtlas
   m_IsVariant: 0

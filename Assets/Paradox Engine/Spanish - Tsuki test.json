@@ -7,11 +7,11 @@
             "Data": [
                 {
                     "CharacterName": "Archetype",
-                    "Text": "Parece que te has topado con suerte, chico."
+                    "Text": "Tal parece que la fortuna te sonríe, chico."
                 },
                 {
                     "CharacterName": "Archetype",
-                    "Text": "Es gracioso pensar en lo onírico de un destino tan dantesco como este. Uno donde un vampíro puede crear sentimientos por algo salido de su mente."
+                    "Text": "Es irrisorio pensar en lo irónico de tal destino dantesco. ¿Un vampiro despertando sentimientos por un sueño? Ja..."
                 }
             ]
         },
@@ -25,7 +25,7 @@
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿Dices eso después de todo lo que pasé para llegar aquí?"
+                    "Text": "¿Me dices eso después de todo lo que tuve que pasar para llegar hasta aquí?"
                 }
             ]
         },
@@ -35,7 +35,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿Acaso prestas atención cuando hablo?"
+                    "Text": "¿Acaso me estás prestando atención cuando hablo?"
                 }
             ]
         },
@@ -45,7 +45,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿No lo recuerdas? Ya te lo he dicho antes."
+                    "Text": "¿No lo recuerdas? Te lo he dicho antes."
                 }
             ]
         },
@@ -55,11 +55,11 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Pero antes que eso, quiero que te disculpes."
+                    "Text": "Pero primero, espero tus disculpas."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Pasé por mucho para poder llegar hasta aquí. No es un viaje sencillo desde Japón."
+                    "Text": "Tuve que pasar por mucho para llegar aquí. No es sencillo venir desde Japón sin los papeles con dibujos de Shiki."
                 }
             ]
         },
@@ -69,19 +69,19 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Eres igual a Shiki, no lo puedo creer."
+                    "Text": "No puedo creerlo, eres igual a Shiki."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Paso por todos estos problemas y me tratas de esta forma."
+                    "Text": "Tuve que pasar por tantos problemas, y me tratas de esta forma."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Aunque no quieras escucharle lo diré de todos modos. Así que presta atención."
+                    "Text": "Aunque no quieras escucharlo, voy a decirlo de todos modos. Presta atención."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Luego si así lo quieres me iré."
+                    "Text": "Después de esto, si aún lo quieres, me iré..."
                 }
             ]
         },
@@ -95,11 +95,11 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Parece tomarse su tiempo para pensar en aquello que deseaba contarte."
+                    "Text": "Se toma su tiempo, parece pensar muy bien lo que desea decir."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Ésta es la primera vez que hablamos en persona,"
+                    "Text": "Esta es la primera vez que hablamos en persona,"
                 }
             ]
         },
@@ -109,7 +109,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "por eso puede que no te conozco mucho."
+                    "Text": "por eso aún puedo no conocerte demasiado."
                 }
             ]
         },
@@ -119,7 +119,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Pero sí sé que tú llevas mucho tiempo conociéndome."
+                    "Text": "Aunque sé de muy bien que tú llevas mucho tiempo conociéndome."
                 }
             ]
         },
@@ -129,7 +129,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿Serán unos 20 años?"
+                    "Text": "¿Serán unos 23 años?"
                 }
             ]
         },
@@ -143,7 +143,7 @@
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "eso da un poco igual ahora, ¿verdad?"
+                    "Text": "eso da un poco igual ahora, ¿no?"
                 }
             ]
         },
@@ -153,7 +153,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Quería agradecerte por todo el apoyo que me has dado durante todo este tiempo."
+                    "Text": "Quería agradecerte por todo el apoyo que me has dado durante todo estos años."
                 },
                 {
                     "CharacterName": "Arcueid",
@@ -161,7 +161,7 @@
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Y además de eso..."
+                    "Text": "Y además..."
                 }
             ]
         },
@@ -175,7 +175,7 @@
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¡¿Lo dices de verdad?!"
+                    "Text": "¡¿Hablas en serio?!"
                 }
             ]
         },
@@ -185,11 +185,11 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Al menos puedo decir que no llegué tarde."
+                    "Text": "Al menos puedo estar orgullosa de que no llegué tarde."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Sólo debo esperar a que sea tu cumpleaños, ¿no es así?"
+                    "Text": "Solo debo esperar a que sea tu cumpleaños, ¿verdad?"
                 },
                 {
                     "CharacterName": "Arcueid",
@@ -217,15 +217,15 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Arcueid parece estar aún más feliz. Salta de un lado a otro emocionada."
+                    "Text": "Arcueid se ve aún más feliz, saltando de un lado a otro de emoción."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "A simple vista, no te parece diferente a una niña. El sólo observarla te dibuja una sonrisa en el rostro."
+                    "Text": "A simple vista, no la ves diferente a una niña. El solo observarla te dibuja una sonrisa en el rostro."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ya no te importa el porqué vino ni cuánto más seguirá con su festejo."
+                    "Text": "En este instante no ves importante la razón por la que ella está aquí, ni cuanto tiempo seguirá contigo. Solo deseas verla feliz."
                 }
             ]
         },
@@ -235,23 +235,23 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "De repente tus pensamientos se interrumpen."
+                    "Text": "En un instante tus pensamientos se ven interrumpidos."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ella se detiene frente a ti, observándote con atención, esperando a que la notares. Su sonrísa, tan sincera como siempre, te cautiva."
+                    "Text": "Ella se detiene frente a ti. Te observa atentamente, esperando a que la notes. Su sonrisa, tan sincera como siempre, te cautiva."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Por un segundo, eres incapaz de imaginar cuánto tiempo pasas admirándola, temiendo que este momento lleguara a su final."
+                    "Text": "Eres incapaz de imaginar cuánto tiempo pasas admirándola, con el temor inconsciente de que este momento llegue a su final."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Pero su mirada..."
+                    "Text": "Sin embargo, su mirada..."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Esa misma mirada que te había dejado encantado la primera vez que la viste sentada en la barandilla."
+                    "Text": "Es esa misma encantadora mirada que ella te regaló esa la primera vez que la viste sentada en la barandilla."
                 }
             ]
         },
@@ -261,11 +261,11 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Ella volvió a sonreír. Aunque fuera algo remoto, deseaste que esto no fuera un sueño, que ella realmente estuviera frente a ti ahora mismo."
+                    "Text": "Ella te vuelve a sonreír. Aunque fuese algo etéreo, por unos instantes te olvidas de la naturaleza de este mundo."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Deseaste que una vez volvieras a abrir los ojos, ella siguiera estando allí."
+                    "Text": "Anhelas con todas tus fuerzas que esto no fuera parte de sueño; que una vez ella volviera a abrir sus ojos, tú estuvieras frente a ella."
                 }
             ]
         },
@@ -275,19 +275,19 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Pensé que lo había logrado a tiempo..."
+                    "Text": "Pensé lo había logrado a tiempo..."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "La voz de Arcueid se apaga, casi sientes que se quiebra por completo."
+                    "Text": "Su voz se apaga, sientes como se quiebra por completo."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "No entiendes por qué se pone así, no te parece la gran cosa. Y aún así, su mirada perdida, desolada, parece no expresar lo mismo."
+                    "Text": "No es algo tan importante, no es necesaria una reacción así. Y, sin embargo, su desolada mirada no expresa lo mismo."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ella guarda silencio, como si esperara la llegada de una voz acusadora. Quizás el hacerlo bien era más importante para ella que para ti."
+                    "Text": "Arcueid guarda silencio, esperando una voz acusadora. El que todo saliera perfecto era más importante para ella que para ti."
                 }
             ]
         },
@@ -297,15 +297,15 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "A pesar de que lo intentas, ella no parece animarse."
+                    "Text": "A pesar de intentarlo, no pareces poder animarla."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Arcueid da unos pasos hacia atrás. Sabes que podría huír en cualquier momento."
+                    "Text": "Ella retrocede. Sientes que podría huir en cualquier segundo."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "No deseas que se vaya, que todo termine así."
+                    "Text": "No deseas que se vaya. No quieres perderla. No así."
                 }
             ]
         },
@@ -315,7 +315,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Arcueid salta sorprendida. Ni siquiera tú esperabas gritarle de ese modo y terminas encogiéndote de hombros."
+                    "Text": "Arcueid da un sobresalto. Tú tampoco esperabas darle ese grito, y te encoges apenado."
                 }
             ]
         },
@@ -325,11 +325,11 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Sin embargo, parece haberla animado un poco."
+                    "Text": "Pero contrario a lo que esperabas, parece haberse animado, aunque sea un poco."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Gracias. Al final sí eras una buena persona."
+                    "Text": "Gracias. Al final sí eres una buena persona."
                 }
             ]
         },
@@ -339,19 +339,19 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Me iré entonces."
+                    "Text": "Me iré."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Realmente no quieres que se vaya, pero forzarla podría hacer que se sienta peor por haberse equivocado."
+                    "Text": "No quieres que se marche, y el forzarla solo empeoraría su sentimiento de culpa."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Esto es lo mejor para ambos."
+                    "Text": "Es lo mejor para ambos."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Con una simple despedida,"
+                    "Text": "Aunque sea una simple despedida..."
                 }
             ]
         },
@@ -361,11 +361,11 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿No hay nada que podamos hacer?"
+                    "Text": "¿No hay algo que podamos hacer?"
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Vine de muy lejos para que fuera por nada."
+                    "Text": "He venido desde muy lejos..."
                 }
             ]
         },
@@ -379,7 +379,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Quizás esto no haya sido lo que deseaba, pero al verla sólo puedes suspirar y disfrutar del tiempo que pasarán juntos."
+                    "Text": "Tal vez no sea lo que ella quería, pero su sonrisa te calma. Dejas salir un ligero suspiro y disfrutas el tiempo que pasan juntos."
                 }
             ]
         },
@@ -389,11 +389,11 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Cuidadosamente, la sacudes un poco mientras la llamas en voz baja."
+                    "Text": "Con cuidado, sacudes a Arcueid, llamándola con voz baja."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Te lleva un poco de esfuerzo, pero al final lo logras..."
+                    "Text": "Te lleva algo de esfuerzo, pero al final lo logras..."
                 },
                 {
                     "CharacterName": "Arcueid",
@@ -407,7 +407,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Te la quedas observando por un poco más."
+                    "Text": "La observas por un poco más."
                 },
                 {
                     "CharacterName": "",
@@ -419,7 +419,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "La escuchas respirar suavemente. Pasas tu mano por su cabello, disfrutando el momento todo lo que puedas."
+                    "Text": "Escuchas su suave respiración, pasas tu mano por su cabello; disfrutando cada instante de este momento."
                 },
                 {
                     "CharacterName": "Arcueid",
@@ -427,7 +427,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Parece que está a punto de despertar, así que alejas tu mano lo más rápido que puedes."
+                    "Text": "Parece a punto de despertarse, así que apartas tu mano en seguida."
                 }
             ]
         },
@@ -437,7 +437,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Que gran siesta reparadora."
+                    "Text": "Qué siesta tan reparadora."
                 },
                 {
                     "CharacterName": "Arcueid",
@@ -465,7 +465,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿Por qué no me despertaste?"
+                    "Text": "¿Por qué no me has despertado?"
                 }
             ]
         },
@@ -479,7 +479,7 @@
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Gracias por dejarme descanzar."
+                    "Text": "Gracias por dejarme descansar."
                 }
             ]
         },
@@ -489,11 +489,11 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "En ese caso no hay problema... creo."
+                    "Text": "En ese caso, no hay problema... creo."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Sólo me sorprendió un poco."
+                    "Text": "Solo me sorprendió un poco."
                 }
             ]
         },
@@ -521,7 +521,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ella crea en su mente un mundo cíclico donde pueda siempre divertirse."
+                    "Text": "Ella crea en su mente un mundo cíclico donde pueda siempre hallar diversión."
                 },
                 {
                     "CharacterName": "",
@@ -539,15 +539,15 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Sabes que la que está frente a ti no es la verdadera Arcueid."
+                    "Text": "Entiendes que la Arcueid frente a ti no es la verdadera Arcueid."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Pero, igualmente eres incapaz de evitar el hacerte esa pregunta."
+                    "Text": "Pero, igualmente, eres incapaz de evitar el hacerte esa pregunta."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "¿Ella también se encuentra así?"
+                    "Text": "¿Ella en verdad se encuentra así?"
                 },
                 {
                     "CharacterName": "",
@@ -569,7 +569,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "La mujer se acerca a ti."
+                    "Text": "La mujer se te acerca."
                 },
                 {
                     "CharacterName": "",
@@ -577,15 +577,15 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Tu instinto te implora a gritos que huyas..."
+                    "Text": "¡Corre! ¡Huye! Te implora tu instinto..."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Tu cuerpo se estremece, intenta librarse de tal maldición inaudita, pero le es imposible."
+                    "Text": "Tu cuerpo se estremece, intentas librarte de tal maldición inaudita, pero te es imposible."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "La mujer sonríe delicadamente."
+                    "Text": "\rLa mujer sonríe con delicadez."
                 },
                 {
                     "CharacterName": "",
@@ -593,11 +593,11 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ya lo has aceptado..."
+                    "Text": "Ya lo estás aceptando..."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "no hay salvación para la condena que cierne sobre ti."
+                    "Text": "no hay salvación para la condena que se cierne sobre ti."
                 }
             ]
         },
@@ -607,11 +607,11 @@
             "Data": [
                 {
                     "CharacterName": "Archetype",
-                    "Text": "Y bien, ¿te sientes confiado, chico?"
+                    "Text": "Y bien, ¿te sientes afortunado, chico?"
                 },
                 {
                     "CharacterName": "Archetype",
-                    "Text": "¿Te crees capaz de liberar a la princesa de este cíclico mundo?"
+                    "Text": "¿Te sientes capaz de liberar a la princesa de este mundo cíclico?"
                 }
             ]
         },
@@ -621,11 +621,11 @@
             "Data": [
                 {
                     "CharacterName": "Archetype",
-                    "Text": "Qué gracioso eres. ¿En serio lo estás considerando?"
+                    "Text": "Eres gracioso. ¿En verdad lo estás considerando?"
                 },
                 {
                     "CharacterName": "Archetype",
-                    "Text": "No eres siquiera comparable a un simple insecto para mí. Estoy intrigada de qué forma planeas vencerme solo."
+                    "Text": "No eres diferente al más diminuto insecto ante mí. Me traes intrigada en qué forma planeas mi derrota."
                 },
                 {
                     "CharacterName": "???",
@@ -643,11 +643,11 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Te llena de rábia, pero estás em plena consciencia de lo que eres capaz de lograr..."
+                    "Text": "Te inunda la ira, aunque eres consciente de tus limitaciones..."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Es imposible. El sólo considerarlo es un suicidio."
+                    "Text": "Es imposible. Considerarlo para ti es un suicidio en sí mismo."
                 },
                 {
                     "CharacterName": "???",
@@ -669,7 +669,7 @@
                 },
                 {
                     "CharacterName": "???",
-                    "Text": "¡¡NO TE DEJARÉMOS SALIRTE CON LA TUYA POR MÁS TIEMPO!!"
+                    "Text": "¡¡NO TE DEJAREMOS SALIRTE CON LA TUYA POR MÁS TIEMPO!!"
                 }
             ]
         },
@@ -697,11 +697,11 @@
             "Data": [
                 {
                     "CharacterName": "Archetype",
-                    "Text": "Qué impertinente de vuestra parte."
+                    "Text": "Cuánta impertinencia de vuestra parte."
                 },
                 {
                     "CharacterName": "Archetype",
-                    "Text": "Les haré demostración de la abismal diferencia que hay entre nosotros."
+                    "Text": "Sois afortunados, les haré demostración de la abismal diferencia que hay entre nosotros."
                 }
             ]
         },
@@ -725,7 +725,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "No tenemos ningún presupuesto para cosas muy grandes, así que tomé todo eso prestado."
+                    "Text": "No tenemos suficiente presupuesto para cosas muy grandes, por lo que tomé todo esto prestado."
                 },
                 {
                     "CharacterName": "",
@@ -739,7 +739,7 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Pero debo felicitarte, lo lograste. Has completado esta historia."
+                    "Text": "Debo felicitarte, lo has logrado. Has completado la historia. Ganaste."
                 }
             ]
         },
@@ -763,15 +763,15 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "A pesar de lo que te dice, algo no está bien."
+                    "Text": "A pesar de sus palabras, algo no está bien."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Su sonrísa te parece, por primera vez, forzada."
+                    "Text": "Sientes su sonrisa, por primera vez, forzada."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Me iré adelantándo. Fue divertido."
+                    "Text": "Fue divertido. Me iré adelantando. Adiós, {Name}."
                 }
             ]
         },
@@ -781,7 +781,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Arcueid se marcha rápidamente, sin darte tiempo de despedirte."
+                    "Text": "Arcueid se marcha rápidamente, sin darte tiempo para despedirte."
                 },
                 {
                     "CharacterName": "",
@@ -793,11 +793,11 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "\"¿Te crees capaz de liberar a la princesa de este cíclico mundo?\""
+                    "Text": "«¿Te crees capaz de liberar a la princesa de este mundo cíclico?»"
                 },
                 {
                     "CharacterName": "",
-                    "Text": "De repente, todo cobra sentido en tu mente."
+                    "Text": "Entonces, todo cobra sentido."
                 }
             ]
         },
@@ -811,11 +811,11 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Con el rabillo del ojo la ves parado junto a la ventana, observándote plácidamente."
+                    "Text": "Con el rabillo del ojo la ves parada junto a la ventana, observándote plácidamente."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "En un inicio piensas que se trata de un espejísmo, un sueño que no deberías recordar."
+                    "Text": "En un inicio piensas que se trata de un espejismo, un sueño que no debes recordar."
                 }
             ]
         },
@@ -837,7 +837,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Aún quiere que te diviertas en su sueño, a pesar de lo que siente."
+                    "Text": "Aún quiere que te diviertas en su sueño, a pesar de sus sentimientos."
                 }
             ]
         },
@@ -863,7 +863,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Aunque quisieras que no fuera verdad, sabes bien a quién se refiere."
+                    "Text": "Sabes de quién está hablando, aunque desees negarlo."
                 }
             ]
         },
@@ -873,11 +873,11 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Suspiras y le regalas tu mejor sonrisa."
+                    "Text": "Dejas salir un suspiro y le regalas tu mejor sonrisa."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ella ya tiene a alguien. Tú lo sabes mejor que nadie."
+                    "Text": "Ella tiene a alguien y no va a olvidarlo. Tú lo sabes mejor que nadie."
                 },
                 {
                     "CharacterName": "",
@@ -885,7 +885,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "eres parte de ella."
+                    "Text": "eres parte de esa memoria."
                 }
             ]
         },
@@ -899,15 +899,15 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Se queda sin palabras y tú aprovechas para acercarte más."
+                    "Text": "Se queda sin palabras y tomas la oportunidad para acercarte a ella."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "Incluso aunque esto sea un sueño..."
+                    "Text": "Esto tan solo es un sueño..."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ignorando sus palabras, delicadamente apoyas tus manos sobre su cintura. "
+                    "Text": "Ignoras sus palabras, y delicadamente apoyas tus manos sobre su cintura."
                 }
             ]
         },
@@ -917,7 +917,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Sientes el tiempo detenerse. Ella te observa, sin decir nada más, notablemente conflictuada con la situación."
+                    "Text": "El tiempo se detiene. Ella te devuelve la mirada, sin decir nada, notablemente conflictuada."
                 }
             ]
         },
@@ -927,19 +927,19 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Posas tu mano sobre su barbilla y la guías hacia ti."
+                    "Text": "Posas tu mano sobre su barbilla y la guías a ti."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Su nerviosa e inexperta mirada te atrae más y más."
+                    "Text": "Su nerviosa e inexperta mirada hace palpitar tu pecho."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Siempre te preguntaste qué veía ella cada vez que te observaba."
+                    "Text": "Siempre te has estado preguntando qué es lo que ella ve al observarte."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Cuál es el rostro con el que te ha imaginado."
+                    "Text": "Cuál es el rostro que ella te ha otorgado."
                 },
                 {
                     "CharacterName": "",
@@ -947,7 +947,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "ahora eso realmente no te importa."
+                    "Text": "ya no te importa."
                 }
             ]
         },
@@ -957,7 +957,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Vuestos labios finalmente se unen..."
+                    "Text": "Vuestros labios se unen..."
                 }
             ]
         },
@@ -967,27 +967,27 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "El tiempo transcurre de forma etérea. Más allá de este momento nada tiene importancia."
+                    "Text": "El tiempo se materializa en una realidad inerte. El mundo más allá de vosotros dos se desvanece en un mar de inexistencia."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Sabes que ésta será la última vez que podrán estar juntos, y lo aprovechas todo lo que puedes."
+                    "Text": "Sabes que esta será la última vez que podrán estar juntos, y lo aprovechas todo lo posible."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ella no se resiste, simplemente se deja llevar por tu guía."
+                    "Text": "No se resiste, al contrario, te acepta y se deja llevar por tu guía."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Ambos sacan provecho de este sueño todo lo que dure, pero saben que no podrán prolongarlo por siempre."
+                    "Text": "Saben que este sueño no podrá prolongarse por siempre. Incluso en este instante eterno, saben que en algún momento despertará."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Cuando sus labios por fin se separan, es que regresas a la realidad."
+                    "Text": "Cuando sus labios por fin se separan, la realidad vuelve a existir."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Esta triste realidad que está a punto de desaparecer."
+                    "Text": "Una triste realidad que está a punto de desaparecer."
                 }
             ]
         },
@@ -997,15 +997,15 @@
             "Data": [
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿Por qué me sigues mirando así? Acabo de salvar el show y darle un cierre emocionante."
+                    "Text": "¿Por qué me sigues mirando de ese modo? Acabo de salvar el show y darle un cierre emocionante."
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "¿Acaso sabes cómo iba a ser esto antes de que me pusiera a cargo? "
+                    "Text": "¿Acaso tienes una idea de cómo iba a ser esto antes de que me pusiera a cargo? "
                 },
                 {
                     "CharacterName": "Arcueid",
-                    "Text": "No querrás creer lo decepcionante que era."
+                    "Text": "No querrás creer lo decepcionante que hubiera sido."
                 }
             ]
         },
@@ -1015,15 +1015,15 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Quedas cautivado ante la imágen frente a ti."
+                    "Text": "Quedas cautivado ante la imagen frente a ti."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Si alguien te hubiece advertido que esto pasaría, jamás le creerías."
+                    "Text": "Si alguien te hubiese advertido de que esto pasaría, jamás le creerías."
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Te gusta verle su pacífica expresión dormida. No deseas despertarla, pero..."
+                    "Text": "Te agrada ver su plácida expresión dormida. No deseas despertarla, pero..."
                 }
             ]
         },
@@ -1033,7 +1033,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "No entiendes por qué sigues haciendo esto."
+                    "Text": "No entiendes la razón por la cual sigues haciendo esto."
                 },
                 {
                     "CharacterName": "",
@@ -1055,7 +1055,7 @@
             "Data": [
                 {
                     "CharacterName": "",
-                    "Text": "Te asalta el recuerdo de la última sonrisa que te regaló."
+                    "Text": "Te asalta el recuerdo de la última sonrisa que ella te regaló."
                 },
                 {
                     "CharacterName": "",
@@ -1093,7 +1093,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "Intentas abrir los ojos, buscar algo con la mirada, pero sólo ves oscuridad..."
+                    "Text": "Intentas abrir los ojos, buscar algo con la mirada, pero solo ves oscuridad..."
                 },
                 {
                     "CharacterName": "",
@@ -1101,7 +1101,7 @@
                 },
                 {
                     "CharacterName": "",
-                    "Text": "No sientes que puedas hacer nada más que admirar el uniforme vacío."
+                    "Text": "No sientes que puedas hacer nada más que admirar al uniforme vacío."
                 },
                 {
                     "CharacterName": "",
@@ -1115,7 +1115,7 @@
             "Data": [
                 {
                     "CharacterName": "???",
-                    "Text": "¡SOY UN GATO DE LA SUERTE Y VENGO A CUMPLIR TU DESEO NYAH!"
+                    "Text": "¡SOY UN GATO DE LA SUERTE Y VENGO A CUMPLIR TU DESEO, NYAH!"
                 },
                 {
                     "CharacterName": "",
@@ -1123,11 +1123,11 @@
                 },
                 {
                     "CharacterName": "???",
-                    "Text": "¡CON MIS HABILIDADES GATUNAS PUEDO RESTAURAR TODO COMO ESTABA ANTES NYAH!"
+                    "Text": "¡CON MIS HABILIDADES GATUNAS PUEDO RESTAURAR TODO COMO ESTABA ANTES, NYAH!"
                 },
                 {
                     "CharacterName": "???",
-                    "Text": "¡SOLO DEBES PEDIRLO NYAH!"
+                    "Text": "¡SOLO DEBES PEDIRLO, NYAH!"
                 },
                 {
                     "CharacterName": "",
@@ -1139,7 +1139,7 @@
                 },
                 {
                     "CharacterName": "???",
-                    "Text": "¡Y PUEDO CUMPLIR TU DESEO NYAH!"
+                    "Text": "¡Y PUEDO CUMPLIR TU DESEO, NYAH!"
                 },
                 {
                     "CharacterName": "",
@@ -1157,7 +1157,7 @@
                 },
                 {
                     "CharacterName": "???",
-                    "Text": "¿DE QUÉ ESTÁ HABLANDO NYA?"
+                    "Text": "¿DE QUÉ ESTÁ HABLANDO, NYA?"
                 },
                 {
                     "CharacterName": "???",
@@ -2688,32 +2688,6 @@
             ]
         },
         {
-            "LocalizationID": "2c73d90a-2ab8-439a-9ad3-88b2528fa6e0",
-            "FilterType": 1,
-            "Data": [
-                {
-                    "CharacterName": "???",
-                    "Text": "...Despierta"
-                },
-                {
-                    "CharacterName": "???",
-                    "Text": "."
-                },
-                {
-                    "CharacterName": "???",
-                    "Text": "."
-                },
-                {
-                    "CharacterName": "???",
-                    "Text": "."
-                },
-                {
-                    "CharacterName": "???",
-                    "Text": "Despierta de una vez."
-                }
-            ]
-        },
-        {
             "LocalizationID": "09b1f89d-a30b-4b9d-8d07-02c8795b6478",
             "FilterType": 1,
             "Data": [
@@ -2920,13 +2894,39 @@
                     "Text": "es que ya no hay esperanza."
                 }
             ]
+        },
+        {
+            "LocalizationID": "2c73d90a-2ab8-439a-9ad3-88b2528fa6e0",
+            "FilterType": 1,
+            "Data": [
+                {
+                    "CharacterName": "???",
+                    "Text": "...Despierta"
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "."
+                },
+                {
+                    "CharacterName": "???",
+                    "Text": "Despierta de una vez."
+                }
+            ]
         }
     ],
     "answerData": [
         {
             "LocalizationID": "7b0cbb2a-6b98-4e26-b3e9-5e5fa376792b",
             "FilterType": 2,
-            "Data": "2. No, no hay esperanza."
+            "Data": "2. No hay esperanza."
         },
         {
             "LocalizationID": "ee964e45-6bc9-4708-bbbc-413f22f36b6d",
@@ -2941,12 +2941,12 @@
         {
             "LocalizationID": "7cc0646b-61eb-4f54-ba9f-061c6bf3b72f",
             "FilterType": 2,
-            "Data": "1. Bien, ¿qué quiéres?"
+            "Data": "1. Muy bien, ¿qué quieres?"
         },
         {
             "LocalizationID": "04f815ac-f9cd-4676-a583-4ccbad0d19df",
             "FilterType": 2,
-            "Data": "2. Despertarla suavemente."
+            "Data": "2. Despertarla con cautela."
         },
         {
             "LocalizationID": "5700e873-b0fc-422a-9548-60920bf62c6c",
@@ -2981,12 +2981,12 @@
         {
             "LocalizationID": "51f62397-1143-4013-8245-f29923aa0402",
             "FilterType": 2,
-            "Data": "1. No quise molestarte."
+            "Data": "1. No deseaba molestarte."
         },
         {
             "LocalizationID": "e033c81a-ee5e-4a5f-9a69-79b373c6871a",
             "FilterType": 2,
-            "Data": "1. Confezarte."
+            "Data": "1. Confesarte."
         },
         {
             "LocalizationID": "074f7207-e0b9-417a-bde1-1ec608a83253",
@@ -2996,22 +2996,12 @@
         {
             "LocalizationID": "15df11c2-995d-4e87-abdb-78b92c7b1095",
             "FilterType": 2,
-            "Data": "2. ¿Qué haces aquí?"
+            "Data": "2. ¿Qué está haciendo aquí?"
         },
         {
             "LocalizationID": "0b96c8e8-2e14-4b8a-9e35-791e336dfeed",
             "FilterType": 2,
             "Data": "1. ¿Quién eres?"
-        },
-        {
-            "LocalizationID": "c10bf358-4e7f-4496-8998-401542d97930",
-            "FilterType": 2,
-            "Data": "1. Saltar gritando"
-        },
-        {
-            "LocalizationID": "f611b1f5-b6cc-4b2a-8c76-cb2b82aa4601",
-            "FilterType": 2,
-            "Data": "2. Despertar despacio"
         },
         {
             "LocalizationID": "417b96cf-78c8-41af-8d0f-3926e9440c40",
@@ -3081,7 +3071,7 @@
         {
             "LocalizationID": "9108f46b-b661-460a-b4d8-a58265ea9e6b",
             "FilterType": 2,
-            "Data": "1. Aún así, seguiré viniendo."
+            "Data": "1. Aun así, seguiré viniendo."
         },
         {
             "LocalizationID": "b9ef1f08-42fa-4971-a9a9-50171956f6c9",
@@ -3186,12 +3176,12 @@
         {
             "LocalizationID": "a15c1e96-a6f2-4152-bab0-ae54c78eba39",
             "FilterType": 2,
-            "Data": "2. Está bien, lo siento."
+            "Data": "2. Lo siento."
         },
         {
             "LocalizationID": "f6bf7a40-6b90-446c-bbeb-4ee1b3fc7e55",
             "FilterType": 2,
-            "Data": "2. Está bien, habla."
+            "Data": "2. Muy bien, habla."
         },
         {
             "LocalizationID": "3650fc90-93b7-46d6-9634-7e2fd5372f0f",
@@ -3206,7 +3196,7 @@
         {
             "LocalizationID": "1d75146f-20f7-41e5-83f5-93b73b5b5207",
             "FilterType": 2,
-            "Data": "2. ¿Qué quiéres Arcueid?"
+            "Data": "2. ¿Qué quieres Arcueid?"
         },
         {
             "LocalizationID": "fcd2f501-1dc1-4d23-9277-b6f95b4c4d96",
@@ -3226,25 +3216,39 @@
         {
             "LocalizationID": "50abf24d-5364-45d1-9470-4c1cbc37361e",
             "FilterType": 2,
-            "Data": "1. Simular cumpleños"
+            "Data": "1. Simular cúmplenos"
         },
         {
             "LocalizationID": "80744a00-7f89-4584-ab52-36a00614cbd2",
             "FilterType": 2,
-            "Data": "3. No cumplo hoy, aún falta."
+            "Data": "3. No es hoy, todavía falta."
         },
         {
             "LocalizationID": "356130be-5d0b-48f8-8e56-cb5ab73a9a32",
             "FilterType": 2,
-            "Data": "2. Disfrutaba con verte dormir."
-        }
-    ],
-    "menuTextData": [
+            "Data": "2. Disfrutaba el verte dormir."
+        },
         {
-            "LocalizationID": "a4e2a84a-63e8-43c3-b772-2dc964bd14c8",
-            "FilterType": 0,
-            "Data": "Una producción de:\n\n\n\n\n\n\n\n  Dirección y guión: \n                   -DeadlySmile-\n\n  Testers y control de calidad:\n                   CounterForce\n                   Aster Crowley\n\nIlustración de ending:\n                   Aster Crowley\n\nTraducción al ingles:\n                    Adrián Melián\n\nEfectos de sonido (freesound.org):\n                    Schademans:     brush3\n                    Jankoehl:            hit-brush01\n                    Stereostereo:      st-squeak-door\n                    Smokebomb99:  axe-slash-2\n                    Zabuhailo:           doorcheaking4\n                    Waxsocks:           fireworks-display-2\n                    Inspectorj:            door-squeak-normal-d\n                    Nekoninja:            samurai-slash\n                    Morganpurkis:      heartbeat-v2\n                    Broumbroum:        sf3-sfx-menu-back-1\n                                                    sf3-sfx-menu-select\n                                                    sf3-sfx-menu-validate\n\n\nComentarios de admins de TM:H+J:\n                   Ryougilf:\n                                   Tsuki >>>> fate\n                                   Las Gordi no son lindis\n                                   Las waifus no son reales\n\n                  CounterForce:\n                                   Con o sin lentes ( ͡ ͡° ͜ ʖ ͡ ͡°)\n\n                  -DeadlySmile-:\n                                    Sólo fuiste un sueño para ella.\n\n\nDedicatorias:\n                 A Ryougilf, uno de los admins de la página más antiguos y que ha regresado últimamentem, por su cumpleaños.\n\n\nMención especial a los Fans en -DeadlySmile- que, a pesar de sus altibajos de actividad, han sabido soportarlo y le han seguido dando su soporte. Esto es para ustedes:\n                     Aster Crowley, Marco Sun, Carlos Asaed Reyes Vazquez, Ivan Antonio Espinoza, Jesus Garcia, Angel Iram, Yoshi Akihisa, Daniel Gimenez, Bagual Velazquez, Leonardo Demartino, Hendryx Gazo, Daniel Hernández Palomar, Paola Andrea Ramirez Peña, Jensen Raylight Ruiz, Federico Ruiz, Carlos Carpy Mora, Manuel Contreras Vergara, Jose Moroyoki, Ricardo Botto, Angel De Jesus Alonso Ramos.\n\n\nMención especial a todos los Fans Destacados en Type-Moon: Historietas + Juegos. Si su constante apoyo, la página no sería lo que es hoy en día. Gracias por todo:\n                     Eddie Hernández, Rodrigo Hurtado, Gangz Melendez, Tuan Vo, Alberto Ignacio Aburto Flores, Mauricio Perez Hernandez, Francisco Prudencio Segovia, Sengo Muramasa, Axel Rodriguez, David Andres, Luis Ling, Maho Carreño, Mauri Pinto, David Diaz, Yin Ko, Jorge Salazar, Marco Camarillo Faustino, Leonardo Mercado, Christian Bernardo Gómez Gómez, Jelsin D David, Diego Fernando Gerena Zamora, Kevin A. Teran, Ivan Velez, Luis GK, Ricardo Ramirez, Kyosuke Nanaya, Julio Olvera, Juan Castro, Takashi-kun Aneliuz, Allan Francisco Reyes Medina, Rediem Lazim Zemir Couriass.\n\n\nY gracias a ti por permitirnos tu tiempo para jugar a esta obra. Por gente como tú nosotros seguimos existiendo.\n\n\n\nTodos los fondos, sprites, y personajes son propiedades intelectuales de TYPE-MOON©. La música implementada son propiedad de TYPE-MOON© y French Bread. Las imágenes en video presentadas son pertenecientes a Battle Moon Wars, propiedad de Werk.\n\nLa utilización de dichos elementos han sido de meramente entretenimiento, mediante una distribución libre y gratuita, sin intención de generar beneficio monetario de ningún tipo.\n\nSi has pagado por una copia de este producto, pida que le devuelvan el dinero.\n\nEste producto ha sido desarrollado utilizando \"Paradox Engine\" v0.5, propiedad de -DeadlySmile-, herramienta de creación de novelas visuales para Unity.\n\n\nNo te olvides de visitarnos:\n                   facebook.com/TypeMoonHistorietasJuegos\n                   facebook.com/DeadlySmileTM\n                   facebook.com/asterDAbeast/\n                   -->coloca tu página aquí<--"
+            "LocalizationID": "c10bf358-4e7f-4496-8998-401542d97930",
+            "FilterType": 2,
+            "Data": "1. Saltar gritando"
+        },
+        {
+            "LocalizationID": "f611b1f5-b6cc-4b2a-8c76-cb2b82aa4601",
+            "FilterType": 2,
+            "Data": "2. Despertar despacio"
+        },
+        {
+            "LocalizationID": "47794031-a3ea-48cc-a9c2-689ffa76330c",
+            "FilterType": 2,
+            "Data": "1. Día normal"
+        },
+        {
+            "LocalizationID": "41872bb5-f859-41b0-819c-32f087d5467b",
+            "FilterType": 2,
+            "Data": "2. Evento secreto"
         }
     ],
+    "menuTextData": [],
     "menuDropdownData": []
 }

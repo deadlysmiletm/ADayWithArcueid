@@ -28,13 +28,18 @@ public class SettingsManager : MonoBehaviour
             for (int i = 0; i < _dropdownsData.Count; i++)
                 _dropdownsData[i].SetDropdownValue(x.intData[i]);
 
+#if UNITY_STANDALONE || UNITY_EDITOR
             _resolution.SetResolution(x.intData[_dropdownsData.Count]);
+#endif
+
             _quality.SetQuality(x.intData[_dropdownsData.Count + 1]);
 
             for (int i = 0; i < _toggles.Count; i++)
                 _toggles[i].isOn = x.boolData[i];
 
+#if UNITY_STANDALONE || UNITY_EDITOR || UNITY_WEBGL
             _fullScreen.SetFullscreen(x.boolData[_toggles.Count]);
+#endif
 
             for (int i = 0; i < _slidersData.Count; i++)
                 _slidersData[i].SetVolume(x.floatData[i]);

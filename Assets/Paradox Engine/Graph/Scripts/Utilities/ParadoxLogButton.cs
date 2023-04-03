@@ -9,11 +9,13 @@ public class ParadoxLogButton : MonoBehaviour
 
     public void ShowLog()
     {
-        string log = "";
+        string log = "\n\n";
         var logPack = DialogueDatabase.activeGraphPlayer.cache.LogText;
 
         for (int i = 0; i < logPack.Count; i++, log += "\n\n")
             log += logPack[i];
+
+        log += "\n\n\n";
 
         logComponent.text = log;
     }

@@ -57,6 +57,9 @@ public class ExtraGUIEndsChecker : MonoBehaviour
 
 
         foreach (int index in indexes)
+        {
             ends[index].color = unlocked;
+            ends[index].GetComponent<TextLocalizationSetter>().UnlockText();
+        }
     }
 }

@@ -9,6 +9,11 @@ public class TextLocalizationSetter : MonoBehaviour
     [SerializeField] private Text _textComponent = null;
     [SerializeField] [HideInInspector] private byte[] _localizationID;
 
+    [Header("Unlockable content")]
+    [SerializeField] private bool _Unlockable = false;
+    public bool Unlocked { private get; set; }
+    private string _unlockText;
+
     private void Awake()
     {
         if (_manager == null)
@@ -33,5 +38,20 @@ public class TextLocalizationSetter : MonoBehaviour
 
     private void Start() => Translate();
 
-    private void Translate() => _textComponent.text = _manager.GetTextTranslation(GetLocalizationID());
+    private void Translate()
+    {
+        if (_Unlockable && !Unlocked)
+        {
+            _unlockText = _manager.GetTextTranslation(GetLocalizationID());
+            _textComponent.text = "???";
+        }
+        else
+            _textComponent.text = _manager.GetTextTranslation(GetLocalizationID());
+    }
+
+    public void UnlockText()
+    {
+        Unlocked = true;
+        _textComponent.text = _unlockText;
+    }
 }
