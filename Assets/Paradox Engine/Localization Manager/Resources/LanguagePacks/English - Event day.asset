@@ -18,61 +18,61 @@ MonoBehaviour:
   answerNodeData:
   - id: 87d4f444db2c374ca287ea7e1d70f775
     filterType: 2
-    data: 2. Seguir buscando.
+    data: 2. Keep searching.
     parentReference: 0
   - id: 6133946c2e9b42408600017e0e859ede
     filterType: 2
-    data: "1. Esconderse en el ba\xF1o."
+    data: 1. Hide in the bathroom.
     parentReference: 0
   - id: bdf8982ac5e90b4abd622089dae2b441
     filterType: 2
-    data: "2. Tuviste que ver tu expresi\xF3n, Arcueid."
+    data: 2. You had to see your face, Arcueid.
     parentReference: 0
   - id: 421373f2f25c61428ba4e0201b4b7bef
     filterType: 2
-    data: 1. Asustarla
+    data: 1. Scare her
     parentReference: 0
   - id: 872f09550d2bc54492f2296ce4ea5270
     filterType: 2
-    data: 2. Seguir buscando.
+    data: 2. Keep searching.
     parentReference: 0
   - id: b4093a6f250bca4d80f4ea24c698ba06
     filterType: 2
-    data: "1. Atr\xE1s de la puerta."
+    data: 1. Behind the door.
     parentReference: 0
   - id: 9315884a9e4eee48ba7f426ad05446ad
     filterType: 2
-    data: "1. \xBFDesde cu\xE1ndo est\xE1s despierta?"
+    data: 1. How long have you been awake?
     parentReference: 0
   - id: 79c3ee8decbeaa4982d57df5b2954bf2
     filterType: 2
-    data: "2. \xBFYa est\xE1s lista?"
+    data: 2. Are you ready?
     parentReference: 0
   - id: 5b49e0d578e185429dde48fd70f5e662
     filterType: 2
-    data: "1. No s\xE9 de qu\xE9 hablas."
+    data: 1. I don't know what you are talking about
     parentReference: 0
   - id: c8e2bd180540294cb4604809f4834eaf
     filterType: 2
-    data: 1. Te ves muy bien.
+    data: 1. You look great.
     parentReference: 0
   - id: 161c925073fccf458c8e674c05a0fd8a
     filterType: 2
-    data: "1. \xA1\xA1FELIZ CUMPLEA\xD1OS, ARCUEID!!"
+    data: 1. HAPPY BIRTHDAY, ARCUEID!!!
     parentReference: 0
   - id: bba6240ab1a5f34b869f557c957b851b
     filterType: 2
-    data: "1. \xBFEst\xE1s bien, Arcueid?"
+    data: 1. Are you all right, Arcueid?
     parentReference: 0
   - id: 3b16d4c4f5fb8241b1c3b264047408a0
     filterType: 2
-    data: 1. Mira arriba.
+    data: 1. Look up.
     parentReference: 0
   textNodeData:
   - id: 4bf77ffc2d43994e8b6b0ffc133b34e0
     filterType: 1
     data:
-    - Text: "\xA1Es el momento!"
+    - Text: Now is the time!
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -112,7 +112,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "\xBFEh..?"
+    - Text: Eh..?
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -125,7 +125,7 @@ MonoBehaviour:
   - id: ac33b5290071d844908d6287468cc90c
     filterType: 1
     data:
-    - Text: Desde que intentabas esconderte en mi canasto de ropa sucia.
+    - Text: Since you were trying to hide in my laundry basket.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -135,7 +135,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Parec\xEDas divertirte."
+    - Text: You seemed to be having fun.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -145,7 +145,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Sientes que quiz\xE1s era mejor no haber sabido eso..."
+    - Text: You feel that maybe it was better not to have known that....
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -154,7 +154,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Notaci\xF3n mental."
+    - Text: Mental notation.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -163,7 +163,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Arcueid ve mejor que t\xFA en la obscuridad."
+    - Text: Arcueid sees better than you in the dark.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -176,8 +176,7 @@ MonoBehaviour:
   - id: 403a0a0dc2ff654d9a66a82cf97e5c22
     filterType: 1
     data:
-    - Text: "S\xED, este es el mejor lugar para un buen susto. Quiz\xE1s demasiado
-        bueno."
+    - Text: Yes, this is the best place for a good scare. Maybe too good.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -186,7 +185,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Tienes raz\xF3n, parece un buen lugar para esconderse."
+    - Text: You're right, it looks like a good place to hide.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -196,7 +195,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Pero, \xBFde qui\xE9n nos escondemos?"
+    - Text: But who are we hiding from?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -210,7 +209,7 @@ MonoBehaviour:
   - id: cd5453d8be374b45a9e45a420bf6f9ae
     filterType: 1
     data:
-    - Text: "\xBFUmmm?"
+    - Text: Ummm?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -220,7 +219,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "No, a\xFAn no. Estaba buscando algo especial que ponerme."
+    - Text: No, not yet. I was looking for something special to wear.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -233,7 +232,7 @@ MonoBehaviour:
   - id: 9ddf3410f459dc479045777a47cf36ab
     filterType: 1
     data:
-    - Text: "Si quieres puedes ir adelant\xE1ndote."
+    - Text: If you want, you can go ahead.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -243,7 +242,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "En cuanto est\xE9 lista ir\xE9."
+    - Text: I will come as soon as I am ready.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -257,7 +256,7 @@ MonoBehaviour:
   - id: 1e8efdc457261d4cb20cf924ae25882a
     filterType: 1
     data:
-    - Text: No, tiene que ser perfecto.
+    - Text: No, it has to be perfect.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -266,7 +265,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "A\xFAn tiene que haber un lugar en donde Arcueid no lo espere."
+    - Text: There still has to be a place where Arcueid doesn't expect it.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -306,7 +305,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "\xBFEh..?"
+    - Text: Eh..?
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -319,7 +318,7 @@ MonoBehaviour:
   - id: 1c335e89569b73458948547301a7d150
     filterType: 1
     data:
-    - Text: "\xA1\xBFARCUEID?!"
+    - Text: ARCUEID?!
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -332,7 +331,7 @@ MonoBehaviour:
   - id: 44637564717b3c49a88bb0a1bfa69a63
     filterType: 1
     data:
-    - Text: "\xBFPor qu\xE9 reaccionas as\xED?"
+    - Text: Why are you reacting like that?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -342,7 +341,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Vi que te estabas divirtiendo y quise unirme.
+    - Text: I saw you were having fun and wanted to join in.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -356,7 +355,7 @@ MonoBehaviour:
   - id: d8e7468d66664243b2dd7b06078f59bd
     filterType: 1
     data:
-    - Text: "\xBFQu\xE9 sucede?"
+    - Text: What is happening?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -366,8 +365,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Escuch\xE9 que alguien est\xE1ba rondando fuera de mi habitaci\xF3n
-        y quise ver qu\xEDen era."
+    - Text: I heard someone hovering outside my room and wanted to see who it was.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -381,7 +379,7 @@ MonoBehaviour:
   - id: 81afbc1bc6b87349b5a76dca43392aa6
     filterType: 1
     data:
-    - Text: "A\xFAn no, pero ten\xEDa curiosidad en qu\xE9 estabas haciendo."
+    - Text: Not yet, but I was curious what you were doing.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -395,7 +393,7 @@ MonoBehaviour:
   - id: 294360f58766a6498a2693d67b513075
     filterType: 1
     data:
-    - Text: Tus instintos primarios se disparan.
+    - Text: Your primal instincts are triggered.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -404,7 +402,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Deseas correr...
+    - Text: You wish to run...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -413,7 +411,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: escapar...
+    - Text: escape...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -422,7 +420,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "desaparecer de este lugar lo m\xE1s r\xE1pido posible..."
+    - Text: to disappear from this place as quickly as possible...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -431,7 +429,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: Pero no puedes.
+    - Text: But you can't.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -444,7 +442,7 @@ MonoBehaviour:
   - id: 9556bacf383cf04d91b2d5baad0d65b9
     filterType: 1
     data:
-    - Text: "\xA1Espera!"
+    - Text: Wait!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -454,7 +452,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xA1No te vayas, a\xFAn no estoy lista!"
+    - Text: Don't leave, I'm not ready yet!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -468,7 +466,7 @@ MonoBehaviour:
   - id: 68f963f680e751469762b108fb48f74e
     filterType: 1
     data:
-    - Text: "\xBFEehh..?"
+    - Text: Eehh..?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -478,7 +476,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFNo estabas buscando algo en mi canasto de ropa?"
+    - Text: Weren't you looking for something in my laundry basket?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -488,7 +486,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "N E G A C I \xD3 N    A B S O L U T A"
+    - Text: A B S O L U T E    D E N I A L
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -501,7 +499,7 @@ MonoBehaviour:
   - id: 26d1beecf95c2142af9625f36c475b2b
     filterType: 1
     data:
-    - Text: "\xBFPor qu\xE9 me miras as\xED?"
+    - Text: Why are you looking at me like that?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -511,7 +509,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFAcaso dije algo malo?"
+    - Text: Did I say something wrong?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -521,7 +519,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "\xBFPor qu\xE9 no dices nada?"
+    - Text: Why don't you say anything?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -535,8 +533,8 @@ MonoBehaviour:
   - id: 5a737b2abce47e4188570b6a315cb000
     filterType: 1
     data:
-    - Text: Ignorando los pedidos de Arcueid y tu propia verguenza, te dirigues solo
-        hacia el lugar de la sorpresa.
+    - Text: Ignoring Arcueid's requests and your own embarrassment, you head alone
+        to the place of surprise.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -545,8 +543,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "S\xF3lo esperas que Arcueid no se haya molestado, pero ya no puedes
-        voltear para atr\xE1s."
+    - Text: You just hope Arcueid didn't get upset, but you can't turn back now.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -559,7 +556,7 @@ MonoBehaviour:
   - id: 7aaaf51d36d717469a262885e3cde9a3
     filterType: 1
     data:
-    - Text: "Adem\xE1s, as\xED tambi\xE9n tendr\xE9 una sorpresa para ti."
+    - Text: Besides, this way I will also have a surprise for you.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -569,7 +566,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Con esa resplandeciente sonrisa, te despides de Arcueid.
+    - Text: With that beaming smile, you bid farewell to Arcueid.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -582,7 +579,7 @@ MonoBehaviour:
   - id: 9b07c22c511acd44b6aea0a46cac6532
     filterType: 1
     data:
-    - Text: "\xA1AAAAAHHH...!"
+    - Text: AAAAAHHH...!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -596,8 +593,8 @@ MonoBehaviour:
   - id: 82d1dcb7af6cb14baeab386437e16c03
     filterType: 1
     data:
-    - Text: "Ser\xEDa en vano pensarlo demasiado, por lo que te decantas por esconderte
-        en el ba\xF1o."
+    - Text: It would be futile to think about it too much, so you decide to hide
+        in the bathroom.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -606,7 +603,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Un lugar simple, pero efectivo.
+    - Text: A simple, but effective place.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -619,8 +616,8 @@ MonoBehaviour:
   - id: 4d4d5bba28a73f4e90c9bb30a005d7f0
     filterType: 1
     data:
-    - Text: "Te adentras en el peque\xF1o ba\xF1o con las luces apagadas y entornas
-        la puerta."
+    - Text: You go into the small bathroom with the lights off, and you close the
+        door.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -656,7 +653,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Parece que Arcueid se ha despertado, puedes oirla moverse en su habitaci\xF3n."
+    - Text: Arcueid seems to have woken up, you can hear her moving around in her
+        room.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -665,7 +663,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Esperas con paciencia.
+    - Text: You wait patiently.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -696,7 +694,7 @@ MonoBehaviour:
   - id: 0913390040059a4a9c88f762a78bad69
     filterType: 1
     data:
-    - Text: "Hoy va a ser un gran d\xEDa."
+    - Text: Today is going to be a great day.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -706,7 +704,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Puedes verla al otro lado de la apertura.
+    - Text: You can see her on the other side of the opening.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -715,7 +713,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: No sospecha nada.
+    - Text: She suspects nothing.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -724,7 +722,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: Como todo debe ser.
+    - Text: As everything should be.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -747,7 +745,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFQu\xE9 se supone que deba usar en un evento como ese?"
+    - Text: What am I supposed to wear to an event like this?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -757,7 +755,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "S\xF3lo un poco m\xE1s."
+    - Text: Just a little more.
       IsDialogue: 0
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -767,7 +765,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Creo que a\xFAn ten\xEDa eso por alg\xFAn lado."
+    - Text: I think I still had that somewhere.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -781,7 +779,7 @@ MonoBehaviour:
   - id: 3ff0e19008449e41bcdf992ba1706f67
     filterType: 1
     data:
-    - Text: El ambiente repentinamente se tensa.
+    - Text: The atmosphere suddenly becomes tense.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -790,7 +788,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Algo va mal...
+    - Text: Something is wrong...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -799,7 +797,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Extremadamente mal.
+    - Text: Extremely bad.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -812,7 +810,7 @@ MonoBehaviour:
   - id: bac1d0b762b7bf4daa956b1eac4c6390
     filterType: 1
     data:
-    - Text: Arcueid se levanta. No parece ella misma.
+    - Text: Arcueid stands up. She doesn't look like herself.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -821,7 +819,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Intentas disculparte, pero s\xF3lo se queda ah\xED, sin decir nada."
+    - Text: You try to apologize, but she just stands there, saying nothing.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -830,7 +828,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Observ\xE1ndote fijamente."
+    - Text: Staring at you.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -843,7 +841,7 @@ MonoBehaviour:
   - id: 69bcfd7b9208a842a420ade30b88c532
     filterType: 1
     data:
-    - Text: "Intentas hu\xEDr, pero tus piernas nos responden."
+    - Text: You try to run away, but your legs don't respond.
       IsDialogue: 0
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -853,7 +851,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Tu cuerpo parece...
+    - Text: Your body seems...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -862,7 +860,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: imnotizado por su mirada.
+    - Text: imnotized by her gaze.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -871,7 +869,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: AHORA ES MI MOMENTO DE DIVERTIRME...
+    - Text: NOW IT'S MY TIME TO HAVE FUN...
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -885,7 +883,7 @@ MonoBehaviour:
   - id: eb0014a5c393a5498f94fd2f8376e3c7
     filterType: 1
     data:
-    - Text: "Ca\xEDste."
+    - Text: Just kidding
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -899,7 +897,7 @@ MonoBehaviour:
   - id: 9f8e4a3b9f6e9146ad80cf36e9913b48
     filterType: 1
     data:
-    - Text: "Se ve\xEDa divertido, as\xED que quise intentarlo tambi\xE9n."
+    - Text: It looked fun, so I wanted to try it too.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -909,7 +907,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Haces una notaci\xF3n mental..."
+    - Text: You make a mental notation...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -918,7 +916,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: No volver intentar a asustar a Arcuied si no deseas atenerte a las consecuencias.
+    - Text: Do not try to scare Arcuied again if you do not want to face the consequences.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -931,7 +929,8 @@ MonoBehaviour:
   - id: 18054ca290d27e4f83c1d342390a986c
     filterType: 1
     data:
-    - Text: Al final deciden que te vas a adelantar mientras ella termina de prepararse.
+    - Text: In the end they decide that you're going to go ahead while she finishes
+        getting ready.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -940,7 +939,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Felizmente dijo que ser\xEDa bueno tambi\xE9n darte una sorpresa."
+    - Text: Happily she said it would be nice to surprise you as well.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -949,7 +948,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 1
-    - Text: "S\xF3lo esperas que no sea como la anterior..."
+    - Text: You just hope it's not like the last one....
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -962,7 +961,7 @@ MonoBehaviour:
   - id: 74271adb8f1af74ba9618e3774591d41
     filterType: 1
     data:
-    - Text: "\xA1\xBFARCUEID?!"
+    - Text: ARCUEID?!
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -975,7 +974,7 @@ MonoBehaviour:
   - id: 390bc6a41faec44a8ef34c930ef8f446
     filterType: 1
     data:
-    - Text: Ya se acerca la hora.
+    - Text: The time is approaching.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -984,7 +983,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Detienes a Arcueid de su inacabable aventura antes de que sea el momento.
+    - Text: You stop Arcueid from his endless adventure before it's time.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -993,7 +992,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Si todo va como planeaste, deber\xEDa estar por ocurrir."
+    - Text: If everything goes as planned, it should be about to happen.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1006,7 +1005,7 @@ MonoBehaviour:
   - id: b7dcd21f9d298a438ede73764a0d09fc
     filterType: 1
     data:
-    - Text: "\xBFUmmm?"
+    - Text: Ummm?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1016,7 +1015,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFQu\xE9 sucede, {Name}?"
+    - Text: What is it, {Name}?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1030,7 +1029,7 @@ MonoBehaviour:
   - id: 9ee1b57412548c47a84e86c29aaed2c6
     filterType: 1
     data:
-    - Text: "\xA1Vayamos r\xE1pido, quiero ver!"
+    - Text: Let's go fast, I want to see!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1040,8 +1039,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Arcueid sube r\xE1pido por las escaleras, con algo de dificultad debido
-        al kimono, pero lo suficiente como para que no logres alcanzarla."
+    - Text: Arcueid climbs quickly up the stairs, with some difficulty due to the
+        kimono, but enough so that you can't reach her.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1054,7 +1053,7 @@ MonoBehaviour:
   - id: 1f1c8d10789bc04c9897f007c71c203d
     filterType: 1
     data:
-    - Text: "\xA1Wow! \xBFT\xFA hiciste todo esto? \xBFC\xF3mo?"
+    - Text: Wow! You did all this? How?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1068,7 +1067,7 @@ MonoBehaviour:
   - id: 4491fd653a32e043a1fa4b73c2c0f4d4
     filterType: 1
     data:
-    - Text: "No importa. \xA1Vamos, hay que divertirnos!"
+    - Text: Never mind, come on, let's have fun!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1078,8 +1077,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Arcueid te toma del brazo y te arrastra consigo hacia la primera tienda
-        que se le pasa por la mirada.
+    - Text: Arcueid grabs you by the arm and drags you with him to the first store
+        that comes into his sight.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1088,9 +1087,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "En un principio se mostr\xF3 sorprendida al ver que no hab\xEDa nadie
-        atendiendo, pero pareci\xF3 divertirse a\xFAn m\xE1s cuando tomaste el papel
-        de vendedor."
+    - Text: She was initially surprised to see that no one was attending, but seemed
+        to be even more amused when you took on the role of salesperson.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1113,7 +1111,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xA1Quiero uno de esos!"
+    - Text: I want one of those!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1123,7 +1121,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: No, ese no. El blanco.
+    - Text: No, not that one. The white one.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1137,7 +1135,7 @@ MonoBehaviour:
   - id: 9f7a2d5b001dba469e696fa3bef4a99e
     filterType: 1
     data:
-    - Text: Un fuerte dolor te punza en la cabeza.
+    - Text: A sharp pain stabs you in the head.
       IsDialogue: 0
       Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1147,7 +1145,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Sientes nauceas.
+    - Text: You feel nauceas.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1156,7 +1154,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 1
-    - Text: De forma instintiva, se te pone la piel de gallina.
+    - Text: Instinctively, you get goose bumps.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1169,7 +1167,7 @@ MonoBehaviour:
   - id: f24c2cbd996f0f428f78a2b454d81809
     filterType: 1
     data:
-    - Text: "Hey, {Name}, \xBFvan a durar todos los cr\xE9ditos?"
+    - Text: Hey, {Name}, how long are all the credits going to last?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1179,7 +1177,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFEeeh? \xBFPor qu\xE9 me miras as\xED?"
+    - Text: Huh? Why are you looking at me like that?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1189,7 +1187,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFAcaso dije algo malo?"
+    - Text: Did I say something wrong?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1199,7 +1197,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "\xA1No te vayas, espera! \xA1\xBFPor qu\xE9 no dices nada?!"
+    - Text: Don't go, wait! Why don't you say anything?!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1240,7 +1238,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: Ya has terminado de preparar todo.
+    - Text: You have already finished preparing everything.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1249,8 +1247,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: Te ha llevado su tiempo, pero te sientes orgulloso de la sorpresa que
-        has preparado por ella.
+    - Text: It has taken you some time, but you are proud of the surprise you have
+        prepared for her.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1263,7 +1261,7 @@ MonoBehaviour:
   - id: 539d2e899680a5489223ac944c32ecc8
     filterType: 1
     data:
-    - Text: Como esperabas, ella sigue descanzando.
+    - Text: As you would expect, she continues to rest.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1272,8 +1270,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Para ser una vampiro te resulta algo descuidada, \xBFqu\xE9 pasar\xEDa
-        si alguien m\xE1s aparte de ti entrara mientras duerme?"
+    - Text: For a vampire you find her a bit careless, what if someone other than
+        you walked in while she was sleeping?
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1282,7 +1280,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: No quieres pensarlo.
+    - Text: You don't want to think about it.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1291,7 +1289,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Y por encima de todo, ella se qued\xF3 dormida en su d\xEDa."
+    - Text: And on top of it all, she slept in her day.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1300,7 +1298,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Suspiras.
+    - Text: Sigh.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1309,7 +1307,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFQuiz\xE1s tambi\xE9n deber\xEDas aprovechar para divertirte un poco?"
+    - Text: Maybe you should also take the opportunity to have some fun?
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1322,7 +1320,7 @@ MonoBehaviour:
   - id: 7e1bc50c5890bd4bbe701a01b58a0c38
     filterType: 1
     data:
-    - Text: "Abandonas la habitaci\xF3n en silencio y apagas la luz."
+    - Text: You leave the room quietly and turn off the light.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1331,8 +1329,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Aunque no puedas ver mucho, este te parece ser el \xFAnico modo para
-        no levantar sospechas."
+    - Text: Although you can't see much, this seems to you to be the only way to
+        avoid arousing suspicion.
       IsDialogue: 0
       Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1346,7 +1344,7 @@ MonoBehaviour:
   - id: f99b4e36255a8a439e452416ca58fae6
     filterType: 1
     data:
-    - Text: El tiempo pasa y se te dificulta encontrar un buen lugar para esconderte.
+    - Text: Time passes and you find it difficult to find a good place to hide.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1355,7 +1353,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Quiz\xE1s uno obvio no lo sientes una mala idea."
+    - Text: Maybe an obvious one doesn't feel like a bad idea.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1364,7 +1362,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: De todas formas, sabes que ella no lo espera.
+    - Text: Anyway, you know she doesn't expect it.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1377,7 +1375,7 @@ MonoBehaviour:
   - id: 8d07126ab9822b4ea4ff4b09581c7c25
     filterType: 1
     data:
-    - Text: "Tienes raz\xF3n, no es lo suficientemente bueno."
+    - Text: You're right, it's not good enough.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1386,8 +1384,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Debe haber algo mejor por aqu\xED, te dices mientras sigues revolviendo
-        el lugar."
+    - Text: There must be something better around here, you tell yourself as you
+        continue to shuffle around the place.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1400,7 +1398,7 @@ MonoBehaviour:
   - id: 9236fb150122a64bb0e6f7767d3e2402
     filterType: 1
     data:
-    - Text: "Sientes que est\xE1s desperdiciando mucho tiempo en algo in\xFAtil."
+    - Text: You feel you are wasting a lot of time on something useless.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1409,7 +1407,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Tras descartar el \xFAltimo, no hay muchos lugares que te parezcan adecuados."
+    - Text: After discarding the last one, there are not many places that seem suitable
+        for you.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1418,8 +1417,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "No parece que tengas mucho tiempo de sobra, por lo que se te ocurre
-        s\xF3lo un lugar m\xE1s."
+    - Text: You don't seem to have much time to spare, so you come up with just one
+        more place.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1428,7 +1427,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Un cl\xE1sico."
+    - Text: A classic.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1441,7 +1440,7 @@ MonoBehaviour:
   - id: 242f5de56ac87d4499be0d85052c9b6c
     filterType: 1
     data:
-    - Text: Pierdes la cuenta del tiempo que llevas esperando.
+    - Text: You lose count of how long you've been waiting.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1450,7 +1449,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFRealmente Arcueid recuerda d\xF3nde es?"
+    - Text: Does Arcueid really remember where it is?
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1463,7 +1462,7 @@ MonoBehaviour:
   - id: 0f48d04724baab4eb3526327fa0cfda7
     filterType: 1
     data:
-    - Text: Hehe, gracias.
+    - Text: Hehe, thank you.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1477,7 +1476,7 @@ MonoBehaviour:
   - id: fcbe094cff457a4a986eecb165f24def
     filterType: 1
     data:
-    - Text: "\xBFQu\xE9 hay arriba?"
+    - Text: What's upstairs?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1491,7 +1490,7 @@ MonoBehaviour:
   - id: 2acd3ce22c3c244bb6fb652ef1df6d75
     filterType: 1
     data:
-    - Text: "\xA1Woow! "
+    - Text: 'Woow! '
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1501,7 +1500,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xA1Es increible!"
+    - Text: It's incredible!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1515,8 +1514,8 @@ MonoBehaviour:
   - id: 7ac059c9762cf745bc68459471ffe605
     filterType: 1
     data:
-    - Text: "Quedas cautivado ante su imnotizada mirada, como una ni\xF1a que comtempla
-        por primera vez en su vida los fuegos artificiales. "
+    - Text: 'You are captivated by her mesmerized gaze, like a child contemplating
+        fireworks for the first time in her life. '
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1525,7 +1524,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "S\xF3lo permanece all\xED, cautivada, sin decir una palabra."
+    - Text: She just stands there, captivated, without saying a word.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1534,7 +1533,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Y debido a esto, casi te olvidas de lo m\xE1s importante."
+    - Text: And because of this, you almost forget the most important thing.
       IsDialogue: 0
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1548,7 +1547,7 @@ MonoBehaviour:
   - id: 34e1f54a64c7084c83e7d98c74679e48
     filterType: 1
     data:
-    - Text: "\xA1Muchas gracias, {Name}!"
+    - Text: Thank you very much, {Name}!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1558,7 +1557,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xA1Este es el mejor regalo que me han hecho!"
+    - Text: This is the best gift I ever got!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1572,7 +1571,7 @@ MonoBehaviour:
   - id: c9c52a2185d94144b6c1bea66e8e63f0
     filterType: 1
     data:
-    - Text: "\xBFEeh? No veo nada."
+    - Text: Huh? I don't see anything.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1582,7 +1581,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Le indicas que s\xF3lo espere un momento."
+    - Text: You tell her to just wait a moment.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1591,7 +1590,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Y entonces...
+    - Text: And then...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1604,8 +1603,8 @@ MonoBehaviour:
   - id: 4c938387ad85c04eb98ba69e1a595cfc
     filterType: 1
     data:
-    - Text: "Ella se pasea por todos las tiendas, divirti\xE9ndose m\xE1s por c\xF3mo
-        ocupas el rol del due\xF1o que del juego en s\xED."
+    - Text: She wanders through all the stores, having more fun with how you play
+        the role of the owner than with the game itself.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1614,8 +1613,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Y cuando sales de la n\xFAmero veinte, ya est\xE1s tan cansado que a
-        penas puedes caminar."
+    - Text: And by the time you get out of number twenty, you're so tired you can
+        barely walk.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1624,7 +1623,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Notaci\xF3n mental: No colocar tantas tiendas para el pr\xF3ximo a\xF1o..."
+    - Text: 'Mental notation: Do not set up so many stores for next year...'
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1637,7 +1636,7 @@ MonoBehaviour:
   - id: f8b7e53e452f554aaa0849612e18fd39
     filterType: 1
     data:
-    - Text: Al fin...
+    - Text: Finally...
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1646,7 +1645,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Todo tu esfuerzo ha valido la pena.
+    - Text: All your effort has paid off.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1655,7 +1654,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Est\xE1s ante el escondite perfecto."
+    - Text: You are in the perfect hiding place.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1664,7 +1663,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Se te escapa una l\xE1grima ante tal esplendor de perfecci\xF3n."
+    - Text: A tear escapes your eye at such splendor of perfection.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1673,8 +1672,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Es imposible de que Arcueid siquiera sospeche de que estuviste si te
-        escondes aqu\xED."
+    - Text: It's impossible for Arcueid to even suspect you were if you hide here.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1683,7 +1681,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "Wow, s\xED que es un buen lugar. Ni siquiera sab\xEDa de que exist\xEDa."
+    - Text: Wow, that's a good place. I didn't even know it existed.
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1693,7 +1691,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "Pero, \xBFpor qu\xE9 buscabamos esto?"
+    - Text: But why were we looking for this?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1707,7 +1705,7 @@ MonoBehaviour:
   - id: 8f581f76c4b7b44687e0e554bedcbe47
     filterType: 1
     data:
-    - Text: "\xA1Gracias por esperarme!"
+    - Text: Thanks for waiting for me!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1717,7 +1715,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xA1Ta-da!"
+    - Text: Ta-da!
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1727,7 +1725,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "\xBFC\xF3mo me veo, {Name}?"
+    - Text: How do I look, {Name}?
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1741,7 +1739,7 @@ MonoBehaviour:
   - id: 0dd65edd47600f45ae5614d0673719be
     filterType: 1
     data:
-    - Text: A lo alto de las escaleras visulumbras las parpadeantes luces del templo.
+    - Text: At the top of the stairs you glimpse the flickering lights of the temple.
       IsDialogue: 0
       Character: {fileID: 5064123124171149504, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1751,7 +1749,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "S\xF3lo ustedes dos existen en este mundo."
+    - Text: Only the two of you exist in this world.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1760,8 +1758,8 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "As\xED que quiz\xE1s te has excedido un poco en elaborar todo esto.
-        Y probablemente est\xE9s en lo correcto."
+    - Text: So maybe you've gone a little overboard in elaborating on all of this.
+        And you're probably right.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1770,7 +1768,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: Sin embargo, su sonrisa.
+    - Text: However, his smile.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1779,7 +1777,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Su mera sonrisa te es un obsequio suficiente.
+    - Text: His mere smile is a gift enough for you.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1788,7 +1786,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: "No hay nada m\xE1s en este mundo que puedas desear m\xE1s."
+    - Text: There is nothing else in this world that you could want more.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0
@@ -1797,7 +1795,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 1
       ClearLastText: 0
-    - Text: "\xA1{Name}!"
+    - Text: '{Name}!'
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1807,7 +1805,7 @@ MonoBehaviour:
       CustomKey: 13
       ContinueParagraph: 0
       ClearLastText: 1
-    - Text: Hablando del rey de roma.
+    - Text: Speak of the devil.
       IsDialogue: 0
       Character: {fileID: 0}
       UseDelay: 0

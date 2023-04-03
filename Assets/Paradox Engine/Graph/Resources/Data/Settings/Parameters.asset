@@ -151,7 +151,7 @@ MonoBehaviour:
   - Name: Arcueid bond
     Value: 0
   - Name: Random
-    Value: 0
+    Value: 3
   - Name: CatEnds
     Value: 0
   floatData: []

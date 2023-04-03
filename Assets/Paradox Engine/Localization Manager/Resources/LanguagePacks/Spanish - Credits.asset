@@ -23,7 +23,7 @@ MonoBehaviour:
     data: "Una producci\xF3n de:\n\n\n\n\n\n\n\n  Direcci\xF3n y gui\xF3n: \n                  
       -DeadlySmile-\n\n  Testers y control de calidad:\n                   CounterForce\n                  
       Aster Crowley\n\nIlustraci\xF3n de ending:\n                   Aster Crowley\n\nTraducci\xF3n
-      al ingles:\n                    Adri\xE1n Meli\xE1n\n\nEfectos de sonido (freesound.org):\n                   
+      al ingles:\n                    -DeadlySmile-\n\nEfectos de sonido (freesound.org):\n                   
       Schademans:     brush3\n                    Jankoehl:            hit-brush01\n                   
       Stereostereo:      st-squeak-door\n                    Smokebomb99:  axe-slash-2\n                   
       Zabuhailo:           doorcheaking4\n                    Waxsocks:          
@@ -67,6 +67,5 @@ MonoBehaviour:
       el dinero.\n\nEste producto ha sido desarrollado utilizando \"Paradox Engine\"
       v0.5, propiedad de -DeadlySmile-, herramienta de creaci\xF3n de novelas visuales
       para Unity.\n\n\nNo te olvides de visitarnos:\n                   facebook.com/TypeMoonHistorietasJuegos\n                  
-      facebook.com/DeadlySmileTM\n                   facebook.com/asterDAbeast/\n                  
-      -->coloca tu p\xE1gina aqu\xED<--"
+      facebook.com/DeadlySmileTM\n                   facebook.com/asterDAbeast/"
   dropdownData: []

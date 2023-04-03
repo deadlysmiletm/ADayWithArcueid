@@ -843,7 +843,7 @@ MonoBehaviour:
   - id: 69bcfd7b9208a842a420ade30b88c532
     filterType: 1
     data:
-    - Text: "Intentas hu\xEDr, pero tus piernas nos responden."
+    - Text: "Intentas hu\xEDr, pero tus piernas no responden."
       IsDialogue: 0
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}
@@ -1169,7 +1169,7 @@ MonoBehaviour:
   - id: f24c2cbd996f0f428f78a2b454d81809
     filterType: 1
     data:
-    - Text: "Hey, {Name}, \xBFvan a durar todos los cr\xE9ditos?"
+    - Text: "Hey, {Name}, \xBFcu\xE1nto van a durar todos los cr\xE9ditos?"
       IsDialogue: 1
       Character: {fileID: 5659291722204558346, guid: ad35e42c58608c94bb4481565072a3be,
         type: 2}

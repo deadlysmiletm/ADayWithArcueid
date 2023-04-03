@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5406.5967
-    y: -1201.7278
+    x: 4057.5964
+    y: -2114.9272
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -47,8 +47,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5455.3975
-    y: 1709.7354
+    x: 4106.397
+    y: 796.5353
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -84,8 +84,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2167.7996
-    y: 1692.834
+    x: 818.7996
+    y: 779.6339
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -122,8 +122,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5412.997
-    y: -1052.0715
+    x: 4063.9968
+    y: -1965.271
     width: 110
     height: 55
   nodeName: Delay State
@@ -156,8 +156,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2300.3997
-    y: 1933.8364
+    x: 951.3997
+    y: 1020.63635
     width: 110
     height: 55
   nodeName: Change Background State
@@ -193,8 +193,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: -342.41016
-    y: 1221.7383
+    x: -1691.4102
+    y: 308.5382
     width: 120
     height: 55
   nodeName: Play Music State
@@ -230,8 +230,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2488.7988
-    y: 3269.372
+    x: 1139.7986
+    y: 2356.1714
     width: 110
     height: 55
   nodeName: Delay State
@@ -264,8 +264,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2206.797
-    y: 2168.621
+    x: 857.7972
+    y: 1255.4208
     width: 110
     height: 55
   nodeName: Text State
@@ -326,8 +326,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2017.592
-    y: 211.73877
+    x: 668.5921
+    y: -701.46155
     width: 110
     height: 55
   nodeName: Text State
@@ -378,8 +378,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5658.999
-    y: 318.5332
+    x: 4309.9985
+    y: -594.6671
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -412,8 +412,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3722.413
-    y: 522.4297
+    x: 2373.4126
+    y: -390.77063
     width: 110
     height: 55
   nodeName: Answer State
@@ -451,8 +451,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5437.797
-    y: -305.46484
+    x: 4088.7966
+    y: -1218.6652
     width: 110
     height: 55
   nodeName: Delay State
@@ -485,8 +485,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1825.9993
-    y: 1512.9849
+    x: 476.9993
+    y: 599.7848
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -522,8 +522,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5437.3984
-    y: -381.06653
+    x: 4088.3982
+    y: -1294.2667
     width: 110
     height: 55
   nodeName: Text State
@@ -585,8 +585,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4167.8115
-    y: 939.8364
+    x: 2818.8113
+    y: 26.636322
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -622,8 +622,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 681.58765
-    y: 1169.9385
+    x: -667.4124
+    y: 256.7384
     width: 110
     height: 55
   nodeName: Change Background State
@@ -659,8 +659,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2331.5994
-    y: 1840.835
+    x: 982.5994
+    y: 927.6349
     width: 110
     height: 55
   nodeName: Text State
@@ -720,8 +720,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5579.1997
-    y: -1661.0161
+    x: 4230.199
+    y: -2574.2158
     width: 110
     height: 55
   nodeName: Delay State
@@ -754,8 +754,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3102.0063
-    y: 3719.2246
+    x: 1753.0061
+    y: 2806.0244
     width: 110
     height: 55
   nodeName: Text State
@@ -815,8 +815,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4846.808
-    y: 2884.8223
+    x: 3497.8079
+    y: 1971.6215
     width: 110
     height: 55
   nodeName: Answer State
@@ -854,8 +854,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5444.997
-    y: 427.33252
+    x: 4095.9968
+    y: -485.8678
     width: 120
     height: 55
   nodeName: Play Music State
@@ -891,8 +891,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1892.2014
-    y: 1208.7388
+    x: 543.2015
+    y: 295.5387
     width: 110
     height: 55
   nodeName: Move Character State
@@ -930,8 +930,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 921.9983
-    y: 1202.0884
+    x: -427.00177
+    y: 288.8883
     width: 110
     height: 55
   nodeName: Text State
@@ -984,8 +984,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1736.5989
-    y: 979.2832
+    x: 387.5989
+    y: 66.0831
     width: 110
     height: 55
   nodeName: Text State
@@ -1091,8 +1091,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2598.399
-    y: 196.53955
+    x: 1249.3987
+    y: -716.66077
     width: 110
     height: 55
   nodeName: Text State
@@ -1191,8 +1191,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4529.6064
-    y: 397.9751
+    x: 3180.6062
+    y: -515.2252
     width: 110
     height: 55
   nodeName: Text State
@@ -1244,8 +1244,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4428.205
-    y: 2440.4238
+    x: 3079.2048
+    y: 1527.2231
     width: 110
     height: 55
   nodeName: Delay State
@@ -1278,8 +1278,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5444.1963
-    y: 1799.3359
+    x: 4095.196
+    y: 886.13586
     width: 110
     height: 55
   nodeName: Text State
@@ -1343,8 +1343,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4718.3916
-    y: 621.3843
+    x: 3369.3914
+    y: -291.81604
     width: 110
     height: 55
   nodeName: Text State
@@ -1396,8 +1396,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4171
-    y: 1488.7847
+    x: 2821.9998
+    y: 575.5846
     width: 110
     height: 55
   nodeName: Text State
@@ -1450,8 +1450,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3053.4
-    y: 221.34131
+    x: 1704.3997
+    y: -691.859
     width: 110
     height: 55
   nodeName: Show Character State
@@ -1490,8 +1490,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4215.408
-    y: 2438.255
+    x: 2866.408
+    y: 1525.0542
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -1526,8 +1526,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4664.408
-    y: 2852.8242
+    x: 3315.408
+    y: 1939.6234
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -1563,8 +1563,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3412.8027
-    y: 119.23584
+    x: 2063.8025
+    y: -793.9645
     width: 120
     height: 55
   nodeName: Play Music State
@@ -1600,8 +1600,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2810.4058
-    y: 3775.0225
+    x: 1461.4055
+    y: 2861.8223
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -1633,8 +1633,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4979.807
-    y: 2801.5752
+    x: 3630.807
+    y: 1888.3744
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -1670,8 +1670,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2814.7993
-    y: 218.14062
+    x: 1465.7991
+    y: -695.0597
     width: 110
     height: 55
   nodeName: Change Background State
@@ -1707,8 +1707,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4642.21
-    y: 2442.3193
+    x: 3293.2097
+    y: 1529.1187
     width: 110
     height: 55
   nodeName: Text State
@@ -1759,8 +1759,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2900.4038
-    y: 3681.8252
+    x: 1551.4036
+    y: 2768.625
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -1796,8 +1796,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4727.2
-    y: 449.42432
+    x: 3378.2
+    y: -463.776
     width: 110
     height: 55
   nodeName: Text State
@@ -1850,8 +1850,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2379.9968
-    y: 3133.8184
+    x: 1030.9968
+    y: 2220.6177
     width: 110
     height: 55
   nodeName: Change Background State
@@ -1887,8 +1887,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5351.5986
-    y: -1789.919
+    x: 4002.5984
+    y: -2703.1187
     width: 110
     height: 55
   nodeName: Delay State
@@ -1921,8 +1921,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2602.4038
-    y: 3582.1777
+    x: 1253.4036
+    y: 2668.9775
     width: 110
     height: 55
   nodeName: Text State
@@ -1965,8 +1965,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5443.797
-    y: 786.1846
+    x: 4094.7966
+    y: -127.015564
     width: 110
     height: 55
   nodeName: Change Background State
@@ -2002,8 +2002,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5431.3975
-    y: -696.1135
+    x: 4082.3972
+    y: -1609.3134
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -2035,8 +2035,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2005.1946
-    y: 1652.6353
+    x: 656.19464
+    y: 739.4352
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -2072,8 +2072,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5477.799
-    y: 1558.5356
+    x: 4128.7983
+    y: 645.3356
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -2109,8 +2109,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4671.6084
-    y: 2777.375
+    x: 3322.6082
+    y: 1864.1742
     width: 110
     height: 55
   nodeName: Text State
@@ -2173,8 +2173,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3474.2002
-    y: 196.73926
+    x: 2125.2
+    y: -716.46106
     width: 110
     height: 55
   nodeName: Move Character State
@@ -2212,8 +2212,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2121.9998
-    y: 1829.0352
+    x: 772.9998
+    y: 915.8351
     width: 120
     height: 55
   nodeName: Play Music State
@@ -2250,8 +2250,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4115.413
-    y: 389.23193
+    x: 2766.4128
+    y: -523.9684
     width: 110
     height: 55
   nodeName: Text State
@@ -2331,8 +2331,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2451.603
-    y: 1901.3403
+    x: 1102.6028
+    y: 988.14026
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -2368,8 +2368,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5287.8
-    y: -510.86646
+    x: 3938.7996
+    y: -1424.0665
     width: 110
     height: 55
   nodeName: Answer State
@@ -2407,8 +2407,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5320.401
-    y: -2002.9644
+    x: 3971.4006
+    y: -2916.1646
     width: 110
     height: 55
   nodeName: Set Parameter State
@@ -2462,8 +2462,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1316.6038
-    y: 787.0918
+    x: -32.39627
+    y: -126.10834
     width: 110
     height: 55
   nodeName: Answer State
@@ -2501,8 +2501,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4646.8105
-    y: 2581.2236
+    x: 3297.8103
+    y: 1668.0228
     width: 110
     height: 55
   nodeName: Text State
@@ -2610,8 +2610,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5423.1973
-    y: 1870.7363
+    x: 4074.197
+    y: 957.53625
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -2647,8 +2647,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2490.3984
-    y: 3205.372
+    x: 1141.3982
+    y: 2292.1714
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -2684,8 +2684,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5455.3975
-    y: -25.264648
+    x: 4106.397
+    y: -938.46497
     width: 110
     height: 55
   nodeName: Delay State
@@ -2718,8 +2718,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5426.5967
-    y: -784.9148
+    x: 4077.5964
+    y: -1698.1145
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -2755,8 +2755,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2435.5981
-    y: 2949.419
+    x: 1086.5979
+    y: 2036.2181
     width: 110
     height: 55
   nodeName: Text State
@@ -2827,8 +2827,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5182.0044
-    y: 2409.9766
+    x: 3833.0042
+    y: 1496.7759
     width: 110
     height: 55
   nodeName: Text State
@@ -2881,8 +2881,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1833.8
-    y: 1279.2339
+    x: 484.80008
+    y: 366.0338
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -2918,8 +2918,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1648.9978
-    y: 347.73633
+    x: 299.9978
+    y: -565.464
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -2956,8 +2956,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4161.213
-    y: 709.73047
+    x: 2812.2126
+    y: -203.4697
     width: 110
     height: 55
   nodeName: Answer State
@@ -2995,8 +2995,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2208.6038
-    y: 1625.0903
+    x: 859.6038
+    y: 711.89026
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -3028,8 +3028,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 917.9983
-    y: 1073.0923
+    x: -431.00177
+    y: 159.89221
     width: 110
     height: 55
   nodeName: Change Background State
@@ -3065,8 +3065,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2368.198
-    y: 3065.0176
+    x: 1019.19806
+    y: 2151.817
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -3102,8 +3102,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2511.4062
-    y: 1759.7402
+    x: 1162.406
+    y: 846.54016
     width: 110
     height: 55
   nodeName: Delay State
@@ -3136,8 +3136,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5380.996
-    y: -1503.3174
+    x: 4031.9958
+    y: -2416.517
     width: 120
     height: 55
   nodeName: Stop Sound FX State
@@ -3169,8 +3169,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4717.3965
-    y: 367.82227
+    x: 3368.3962
+    y: -545.37805
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -3206,8 +3206,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1519.804
-    y: 883.895
+    x: 170.80396
+    y: -29.305115
     width: 110
     height: 55
   nodeName: Text State
@@ -3259,8 +3259,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 670.1892
-    y: 1031.9419
+    x: -678.81085
+    y: 118.74182
     width: 110
     height: 55
   nodeName: Change Background State
@@ -3296,8 +3296,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5319.6055
-    y: 2009.8438
+    x: 3970.6052
+    y: 1096.6437
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -3333,8 +3333,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5353.998
-    y: -1866.0176
+    x: 4004.9978
+    y: -2779.2173
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -3367,8 +3367,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2582.2085
-    y: 875.08545
+    x: 1233.2083
+    y: -38.114685
     width: 120
     height: 55
   nodeName: Play Music State
@@ -3404,8 +3404,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2558.2036
-    y: 725.1387
+    x: 1209.2034
+    y: -188.0615
     width: 110
     height: 55
   nodeName: Text State
@@ -3447,8 +3447,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2414.5928
-    y: 204.54004
+    x: 1065.5925
+    y: -708.6603
     width: 110
     height: 55
   nodeName: Delay State
@@ -3481,8 +3481,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5203.605
-    y: 2331.9287
+    x: 3854.6047
+    y: 1418.7281
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -3518,8 +3518,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4627.8076
-    y: 2639.2715
+    x: 3278.8074
+    y: 1726.0707
     width: 120
     height: 55
   nodeName: Play Music State
@@ -3555,8 +3555,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5487.5986
-    y: 1418.935
+    x: 4138.598
+    y: 505.735
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -3588,8 +3588,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5438.1973
-    y: -451.46655
+    x: 4089.197
+    y: -1364.6666
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -3625,8 +3625,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5470.398
-    y: -2104.4194
+    x: 4121.3975
+    y: -3017.6196
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -3659,8 +3659,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5441.997
-    y: 495.73145
+    x: 4092.9968
+    y: -417.46887
     width: 110
     height: 55
   nodeName: Answer State
@@ -3698,8 +3698,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5484.198
-    y: 1355.9839
+    x: 4135.1978
+    y: 442.7838
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -3735,8 +3735,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2740.2065
-    y: 3052.3252
+    x: 1391.2063
+    y: 2139.1245
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -3769,8 +3769,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1860.3987
-    y: 297.33887
+    x: 511.39874
+    y: -615.86145
     width: 110
     height: 55
   nodeName: Answer State
@@ -3808,8 +3808,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5443.797
-    y: 720.58496
+    x: 4094.7966
+    y: -192.6152
     width: 110
     height: 55
   nodeName: Show Character State
@@ -3848,8 +3848,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3468.2021
-    y: 494.58203
+    x: 2119.202
+    y: -418.6183
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -3887,8 +3887,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5476.3984
-    y: 1487.5356
+    x: 4127.398
+    y: 574.3356
     width: 110
     height: 55
   nodeName: Delay State
@@ -3921,8 +3921,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5154.805
-    y: 2499.1719
+    x: 3805.805
+    y: 1585.9712
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -3958,8 +3958,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2528.8018
-    y: 3421.374
+    x: 1179.8015
+    y: 2508.1733
     width: 110
     height: 55
   nodeName: Delay State
@@ -3992,8 +3992,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1750.199
-    y: 1058.0366
+    x: 401.199
+    y: 144.83655
     width: 110
     height: 55
   nodeName: Show Character State
@@ -4032,8 +4032,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5572.801
-    y: -733.5139
+    x: 4223.8003
+    y: -1646.7137
     width: 110
     height: 55
   nodeName: Delay State
@@ -4066,8 +4066,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3924.0085
-    y: 371.23096
+    x: 2575.0083
+    y: -541.96936
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -4103,8 +4103,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3300.0024
-    y: 3746.2246
+    x: 1951.0022
+    y: 2833.0244
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -4136,8 +4136,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2249.3982
-    y: 2625.8242
+    x: 900.39825
+    y: 1712.6234
     width: 110
     height: 55
   nodeName: Text State
@@ -4197,8 +4197,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5402.5967
-    y: -1125.4719
+    x: 4053.5964
+    y: -2038.6713
     width: 110
     height: 55
   nodeName: Text State
@@ -4271,8 +4271,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 889.9944
-    y: 839.89307
+    x: -459.00568
+    y: -73.30707
     width: 110
     height: 55
   nodeName: Text State
@@ -4332,8 +4332,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5346.204
-    y: 1933.9409
+    x: 3997.2039
+    y: 1020.74084
     width: 110
     height: 55
   nodeName: Text State
@@ -4376,8 +4376,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5470.798
-    y: 1635.5366
+    x: 4121.7974
+    y: 722.33655
     width: 110
     height: 55
   nodeName: Text State
@@ -4440,8 +4440,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1311.6028
-    y: 880.89307
+    x: -37.397247
+    y: -32.307068
     width: 110
     height: 55
   nodeName: Answer State
@@ -4479,8 +4479,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5373.3975
-    y: -1568.7168
+    x: 4024.3972
+    y: -2481.9165
     width: 110
     height: 55
   nodeName: Change Background State
@@ -4516,8 +4516,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: -103.80957
-    y: 1329.7856
+    x: -1452.8096
+    y: 416.58557
     width: 110
     height: 55
   nodeName: Change Background State
@@ -4553,8 +4553,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2252.197
-    y: 2082.0244
+    x: 903.1971
+    y: 1168.8242
     width: 110
     height: 55
   nodeName: Change Background State
@@ -4590,8 +4590,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3940.8044
-    y: 540.72705
+    x: 2591.8042
+    y: -372.47327
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -4627,8 +4627,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2836.8003
-    y: 711.93164
+    x: 1487.8
+    y: -201.26852
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -4664,8 +4664,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2086.3977
-    y: 1417.0347
+    x: 737.39777
+    y: 503.8346
     width: 110
     height: 55
   nodeName: Answer State
@@ -4703,8 +4703,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4651.21
-    y: 2516.8232
+    x: 3302.2097
+    y: 1603.6226
     width: 110
     height: 55
   nodeName: Change Background State
@@ -4740,8 +4740,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2317.8003
-    y: 2852.62
+    x: 968.8001
+    y: 1939.4193
     width: 110
     height: 55
   nodeName: Change Background State
@@ -4777,8 +4777,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3257.7983
-    y: 198.93896
+    x: 1908.7981
+    y: -714.26135
     width: 110
     height: 55
   nodeName: Text State
@@ -4820,8 +4820,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5582.4
-    y: -1736.216
+    x: 4233.3994
+    y: -2649.4155
     width: 110
     height: 55
   nodeName: Change Background State
@@ -4857,8 +4857,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2308.7998
-    y: 2780.62
+    x: 959.7996
+    y: 1867.4193
     width: 110
     height: 55
   nodeName: Delay State
@@ -4913,7 +4913,6 @@ MonoBehaviour:
   - {fileID: 769210370696144697}
   - {fileID: -280910404594971396}
   - {fileID: 4902417414626521399}
-  - {fileID: 8405657480686979163}
   - {fileID: -3616232610194000790}
   - {fileID: -5634347633946953146}
   - {fileID: -8054371064425824916}
@@ -4930,8 +4929,6 @@ MonoBehaviour:
   - {fileID: 2142954812374185724}
   - {fileID: -3148867656351552640}
   - {fileID: 3390215281047337742}
-  - {fileID: 2277079982653723273}
-  - {fileID: 4626443746020621844}
   - {fileID: 2178792336670575021}
   - {fileID: 6634792257228049681}
   - {fileID: -2155917817840089463}
@@ -4984,8 +4981,6 @@ MonoBehaviour:
   - {fileID: 4121320196492498622}
   - {fileID: -7267901448677794391}
   - {fileID: 2785024219967725319}
-  - {fileID: 4099663607932048546}
-  - {fileID: -1704313351000715579}
   - {fileID: -6221652569098323576}
   - {fileID: 5800248631630143449}
   - {fileID: 2290100077656475076}
@@ -5004,21 +4999,10 @@ MonoBehaviour:
   - {fileID: 3512132592725559110}
   - {fileID: 2476490845597850744}
   - {fileID: -5327723008127721617}
-  - {fileID: -3818401539379246398}
-  - {fileID: 854289964320223955}
   - {fileID: -498217728041687553}
   - {fileID: -2010968831685967934}
   - {fileID: -3155712521999914410}
-  - {fileID: -6443791102395720638}
-  - {fileID: 8677862894688610237}
-  - {fileID: 3357628447729606952}
-  - {fileID: -7236825312940002312}
   - {fileID: -1701951365669095410}
-  - {fileID: -3955555700906411145}
-  - {fileID: -5573064744350866819}
-  - {fileID: 6085056792783496346}
-  - {fileID: -6169415082914901083}
-  - {fileID: -7100136338024650301}
   - {fileID: -6204477790749874205}
   - {fileID: 8137758719054867093}
   - {fileID: 7137195930297916569}
@@ -5027,7 +5011,6 @@ MonoBehaviour:
   - {fileID: 4764604936772942347}
   - {fileID: 5492744300192007018}
   - {fileID: -2997471340566482661}
-  - {fileID: -6211980652192786126}
   - {fileID: -7056398341161799244}
   - {fileID: -6144767697730428883}
   - {fileID: -2607165576481799573}
@@ -5079,13 +5062,7 @@ MonoBehaviour:
   - {fileID: 6845557787875439661}
   - {fileID: -9066971068514986727}
   - {fileID: -1696564852594649627}
-  - {fileID: 6961648798706736319}
-  - {fileID: 1815262390169093649}
-  - {fileID: -6712442894140698176}
-  - {fileID: -1687723004564579477}
-  - {fileID: 3288463927204117084}
   - {fileID: 7160689765283061838}
-  - {fileID: -6069228384295976015}
   - {fileID: 7097274264097371954}
   - {fileID: 9055603851284565931}
   - {fileID: 3207156948944625824}
@@ -5118,7 +5095,6 @@ MonoBehaviour:
   - {fileID: 4624634969760564967}
   - {fileID: -6397172730793408792}
   - {fileID: -5246951811685378451}
-  - {fileID: -4286505928396044350}
   - {fileID: -5602556801297836343}
   - {fileID: -850694246883314019}
   - {fileID: 1256674990438300066}
@@ -5128,14 +5104,38 @@ MonoBehaviour:
   - {fileID: -2390235617594810233}
   - {fileID: 4841018072352416586}
   - {fileID: -191919604055798883}
+  - {fileID: 6961648798706736319}
+  - {fileID: 1815262390169093649}
+  - {fileID: 4099663607932048546}
+  - {fileID: -1687723004564579477}
+  - {fileID: 4626443746020621844}
+  - {fileID: -6712442894140698176}
+  - {fileID: 3288463927204117084}
+  - {fileID: -6443791102395720638}
+  - {fileID: 8677862894688610237}
+  - {fileID: 3357628447729606952}
+  - {fileID: 2277079982653723273}
+  - {fileID: 854289964320223955}
+  - {fileID: -3818401539379246398}
+  - {fileID: -7236825312940002312}
+  - {fileID: -3955555700906411145}
+  - {fileID: 8405657480686979163}
+  - {fileID: -5573064744350866819}
+  - {fileID: 6085056792783496346}
+  - {fileID: -6169415082914901083}
+  - {fileID: -7100136338024650301}
+  - {fileID: -1704313351000715579}
+  - {fileID: -6069228384295976015}
+  - {fileID: -4286505928396044350}
+  - {fileID: -6211980652192786126}
   selectedNode: {fileID: 0}
   wantsConnection: 0
   connectionNode: {fileID: 0}
   parameters: {fileID: 11400000, guid: 6447b1108e513184ab07b1cde742e4a4, type: 2}
   panningScreen: 0
-  offset: {x: -10277.999, y: -244.9997}
-  zoom: 4
-  zoomPanAdjust: {x: 1462.5, y: 886}
+  offset: {x: -10419.999, y: -357.99966}
+  zoom: 3.2
+  zoomPanAdjust: {x: 1281.6, y: 661.44}
 --- !u!114 &64482560702230260
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5150,8 +5150,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4735.592
-    y: 890.68604
+    x: 3386.5916
+    y: -22.5141
     width: 110
     height: 55
   nodeName: Change Background State
@@ -5187,8 +5187,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5431.997
-    y: -555.86694
+    x: 4082.9968
+    y: -1469.0669
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -5224,8 +5224,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5464.3984
-    y: 993.1387
+    x: 4115.398
+    y: 79.93857
     width: 110
     height: 55
   nodeName: Delay State
@@ -5258,8 +5258,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4182.201
-    y: 1316.3843
+    x: 2833.201
+    y: 403.1842
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -5295,8 +5295,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2055.8035
-    y: 431.58057
+    x: 706.8035
+    y: -481.61975
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -5328,8 +5328,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5473.5977
-    y: 1134.7368
+    x: 4124.597
+    y: 221.53674
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -5361,8 +5361,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2285.4006
-    y: 2710.418
+    x: 936.4007
+    y: 1797.2172
     width: 110
     height: 55
   nodeName: Change Background State
@@ -5398,8 +5398,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5273.6016
-    y: 2098.4873
+    x: 3924.6013
+    y: 1185.2871
     width: 110
     height: 55
   nodeName: Delay State
@@ -5432,8 +5432,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2212.9963
-    y: 207.33936
+    x: 863.9964
+    y: -705.86096
     width: 110
     height: 55
   nodeName: Change Background State
@@ -5469,8 +5469,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2079.3967
-    y: 1572.0361
+    x: 730.3968
+    y: 658.83606
     width: 110
     height: 55
   nodeName: Text State
@@ -5513,8 +5513,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5430.5967
-    y: -629.864
+    x: 4081.5964
+    y: -1543.0638
     width: 110
     height: 55
   nodeName: Text State
@@ -5567,8 +5567,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2238.5974
-    y: 2561.0234
+    x: 889.5975
+    y: 1647.8226
     width: 110
     height: 55
   nodeName: Show Character State
@@ -5607,8 +5607,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2233.1965
-    y: 2487.0176
+    x: 884.1966
+    y: 1573.8169
     width: 110
     height: 55
   nodeName: Text State
@@ -5686,8 +5686,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5369.5957
-    y: -1637.9169
+    x: 4020.5955
+    y: -2551.1167
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -5720,8 +5720,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5437.3975
-    y: 572.7344
+    x: 4088.3972
+    y: -340.46594
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -5757,8 +5757,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4732.792
-    y: 534.98096
+    x: 3383.7917
+    y: -378.21936
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -5794,8 +5794,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: -575.208
-    y: 1240.4004
+    x: -1924.2078
+    y: 327.20032
     width: 110
     height: 55
   nodeName: Start State
@@ -5827,8 +5827,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5383.5977
-    y: -1420.0725
+    x: 4034.5974
+    y: -2333.272
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -5861,8 +5861,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 89.78125
-    y: 1310.5854
+    x: -1259.2188
+    y: 397.38538
     width: 110
     height: 55
   nodeName: Text State
@@ -5950,8 +5950,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2269.1985
-    y: 2006.2324
+    x: 920.19855
+    y: 1093.0323
     width: 110
     height: 55
   nodeName: Delay State
@@ -5984,8 +5984,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2531.0063
-    y: 3100.9229
+    x: 1182.0061
+    y: 2187.7222
     width: 110
     height: 55
   nodeName: Hide Text Container State
@@ -6017,8 +6017,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5444.3965
-    y: -238.26318
+    x: 4095.3962
+    y: -1151.4635
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -6050,8 +6050,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1431.803
-    y: 369.93555
+    x: 82.80295
+    y: -543.2648
     width: 110
     height: 55
   nodeName: Change Background State
@@ -6087,8 +6087,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2244.203
-    y: 1334.8423
+    x: 895.20294
+    y: 421.6422
     width: 110
     height: 55
   nodeName: Text State
@@ -6130,8 +6130,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4717.591
-    y: 700.28076
+    x: 3368.5906
+    y: -212.9194
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -6167,8 +6167,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1808.0042
-    y: 1627.1411
+    x: 459.00418
+    y: 713.94104
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -6201,8 +6201,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2506.1992
-    y: 3343.5752
+    x: 1157.199
+    y: 2430.3745
     width: 110
     height: 55
   nodeName: Change Background State
@@ -6238,8 +6238,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3722.8125
-    y: 410.3833
+    x: 2373.812
+    y: -502.81702
     width: 110
     height: 55
   nodeName: Answer State
@@ -6277,8 +6277,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 671.7898
-    y: 946.7417
+    x: -677.21027
+    y: 33.541595
     width: 120
     height: 55
   nodeName: Play Music State
@@ -6314,8 +6314,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4171.0117
-    y: 1006.4839
+    x: 2822.0115
+    y: 93.28381
     width: 110
     height: 55
   nodeName: Text State
@@ -6378,8 +6378,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5451.998
-    y: -99.86572
+    x: 4102.9976
+    y: -1013.06604
     width: 110
     height: 55
   nodeName: Show Character State
@@ -6418,8 +6418,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2654.8042
-    y: 622.53613
+    x: 1305.804
+    y: -290.66418
     width: 110
     height: 55
   nodeName: Move Character State
@@ -6457,8 +6457,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5239.6025
-    y: 2174.4307
+    x: 3890.6023
+    y: 1261.2303
     width: 110
     height: 55
   nodeName: Show Character State
@@ -6497,8 +6497,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5457.5977
-    y: 302.33252
+    x: 4108.597
+    y: -610.8678
     width: 110
     height: 55
   nodeName: Change Background State
@@ -6534,8 +6534,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4171.0117
-    y: 1157.6836
+    x: 2822.0115
+    y: 244.48352
     width: 110
     height: 55
   nodeName: Text State
@@ -6588,8 +6588,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2412.5957
-    y: 811.1406
+    x: 1063.5955
+    y: -102.05951
     width: 110
     height: 55
   nodeName: Show Character State
@@ -6628,8 +6628,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5218.4023
-    y: 2235.9814
+    x: 3869.402
+    y: 1322.781
     width: 110
     height: 55
   nodeName: Change Background State
@@ -6665,8 +6665,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2297.3997
-    y: 746.7373
+    x: 948.3997
+    y: -166.46286
     width: 110
     height: 55
   nodeName: Text State
@@ -6735,8 +6735,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1348.6038
-    y: 680.2915
+    x: -0.39627075
+    y: -232.90866
     width: 110
     height: 55
   nodeName: Text State
@@ -6788,8 +6788,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1858.801
-    y: 1340.8345
+    x: 509.8011
+    y: 427.6344
     width: 110
     height: 55
   nodeName: Text State
@@ -6862,8 +6862,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 684.18823
-    y: 1099.1436
+    x: -664.8118
+    y: 185.94348
     width: 110
     height: 55
   nodeName: Delay State
@@ -6896,8 +6896,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1907.6003
-    y: 845.78564
+    x: 558.6004
+    y: -67.41449
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -6933,8 +6933,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1844.3997
-    y: 1565.0356
+    x: 495.3997
+    y: 651.8356
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -6970,8 +6970,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2698.2002
-    y: 3445.9736
+    x: 1349.2
+    y: 2532.773
     width: 120
     height: 55
   nodeName: Play Music State
@@ -7007,8 +7007,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5477.799
-    y: 1209.935
+    x: 4128.7983
+    y: 296.735
     width: 110
     height: 55
   nodeName: Text State
@@ -7070,8 +7070,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5447.3984
-    y: 206.53271
+    x: 4098.398
+    y: -706.6676
     width: 110
     height: 55
   nodeName: Text State
@@ -7132,8 +7132,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2020.7961
-    y: 1752.835
+    x: 671.7962
+    y: 839.6349
     width: 110
     height: 55
   nodeName: Answer State
@@ -7171,8 +7171,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4177.3994
-    y: 1239.5845
+    x: 2828.3992
+    y: 326.3844
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -7204,8 +7204,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2619.8013
-    y: 3651.1807
+    x: 1270.801
+    y: 2737.9805
     width: 110
     height: 55
   nodeName: Change Background State
@@ -7241,8 +7241,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1105.2043
-    y: 824.89355
+    x: -243.79572
+    y: -88.30658
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -7279,8 +7279,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 337.38867
-    y: 1317.2886
+    x: -1011.6114
+    y: 404.0885
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -7312,8 +7312,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4167.8115
-    y: 860.4375
+    x: 2818.8113
+    y: -52.762634
     width: 110
     height: 55
   nodeName: Text State
@@ -7375,8 +7375,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1622.0017
-    y: 1451.939
+    x: 273.0017
+    y: 538.7389
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -7409,8 +7409,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5458.3975
-    y: 918.88916
+    x: 4109.397
+    y: 5.6890564
     width: 110
     height: 55
   nodeName: Text State
@@ -7470,8 +7470,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4180.6006
-    y: 1396.3853
+    x: 2831.6003
+    y: 483.18518
     width: 110
     height: 55
   nodeName: Change Background State
@@ -7507,8 +7507,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1423.5999
-    y: 527.1362
+    x: 74.59982
+    y: -386.0641
     width: 110
     height: 55
   nodeName: Change Background State
@@ -7544,8 +7544,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5440.5967
-    y: 644.0874
+    x: 4091.5964
+    y: -269.11288
     width: 110
     height: 55
   nodeName: Text State
@@ -7598,8 +7598,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2373.2017
-    y: 2197.9316
+    x: 1024.2014
+    y: 1284.7313
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -7635,8 +7635,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 931.99927
-    y: 1136.9409
+    x: -417.0008
+    y: 223.74084
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -7668,8 +7668,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4325.4062
-    y: 392.08008
+    x: 2976.406
+    y: -521.12024
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -7705,8 +7705,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4175.0107
-    y: 781.23486
+    x: 2826.0105
+    y: -131.96527
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -7742,8 +7742,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 535.5857
-    y: 1266.2319
+    x: -813.41437
+    y: 353.03186
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -7776,8 +7776,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5458.198
-    y: 359.73242
+    x: 4109.1978
+    y: -553.4679
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -7813,8 +7813,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5289.196
-    y: -1924.2163
+    x: 3940.1956
+    y: -2837.416
     width: 110
     height: 55
   nodeName: Change Background State
@@ -7850,8 +7850,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2288.3997
-    y: 2910.2207
+    x: 939.3997
+    y: 1997.0199
     width: 110
     height: 55
   nodeName: Show Character State
@@ -7890,8 +7890,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4735.407
-    y: 788.6328
+    x: 3386.407
+    y: -124.56732
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -7923,8 +7923,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2089.5989
-    y: 1499.939
+    x: 740.59894
+    y: 586.7389
     width: 110
     height: 55
   nodeName: Delay State
@@ -7957,8 +7957,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3489.001
-    y: 288.7876
+    x: 2140.0007
+    y: -624.4127
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -7994,8 +7994,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2088.7952
-    y: 662.7378
+    x: 739.7952
+    y: -250.4625
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -8028,8 +8028,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2200.1975
-    y: 2406.42
+    x: 851.1976
+    y: 1493.2192
     width: 110
     height: 55
   nodeName: Change Background State
@@ -8065,8 +8065,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4167.408
-    y: 1591.2812
+    x: 2818.408
+    y: 678.0812
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -8098,8 +8098,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4171.0127
-    y: 1081.2856
+    x: 2822.0125
+    y: 168.08557
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -8135,8 +8135,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2057.7952
-    y: 508.67822
+    x: 708.7952
+    y: -404.5221
     width: 110
     height: 55
   nodeName: Change Background State
@@ -8172,8 +8172,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2184.5984
-    y: 2337.8223
+    x: 835.59845
+    y: 1424.6217
     width: 110
     height: 55
   nodeName: Delay State
@@ -8206,8 +8206,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2627.8003
-    y: 3799.9746
+    x: 1278.8
+    y: 2886.7744
     width: 110
     height: 55
   nodeName: Text State
@@ -8268,8 +8268,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4167.411
-    y: 630.92773
+    x: 2818.411
+    y: -282.27255
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -8305,8 +8305,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3049.8062
-    y: 3791.2246
+    x: 1700.8059
+    y: 2878.0244
     width: 110
     height: 55
   nodeName: Change Background State
@@ -8342,8 +8342,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5277.3975
-    y: 90.18359
+    x: 3928.3972
+    y: -823.0167
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -8376,8 +8376,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5368.198
-    y: -1714.667
+    x: 4019.198
+    y: -2627.8667
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -8410,8 +8410,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2110.797
-    y: 2685.2207
+    x: 761.7972
+    y: 1772.0199
     width: 110
     height: 55
   nodeName: Hide Character State
@@ -8447,8 +8447,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2319.6
-    y: 1742.0342
+    x: 970.5999
+    y: 828.8341
     width: 110
     height: 55
   nodeName: Answer State
@@ -8486,8 +8486,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2582.4038
-    y: 3514.7734
+    x: 1233.4036
+    y: 2601.5728
     width: 110
     height: 55
   nodeName: Show Character State
@@ -8526,8 +8526,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1386.407
-    y: 594.5342
+    x: 37.40695
+    y: -318.66614
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -8559,8 +8559,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5404.996
-    y: -1274.2708
+    x: 4055.9958
+    y: -2187.4702
     width: 110
     height: 55
   nodeName: Hide Text Container State
@@ -8592,8 +8592,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2197.3982
-    y: 2248.622
+    x: 848.39825
+    y: 1335.4216
     width: 110
     height: 55
   nodeName: Change Background State
@@ -8629,8 +8629,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5793.802
-    y: -2027.5996
+    x: 4444.8013
+    y: -2940.7998
     width: 110
     height: 55
   nodeName: End State
@@ -8662,8 +8662,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5420.797
-    y: -842.26636
+    x: 4071.7966
+    y: -1755.4661
     width: 110
     height: 55
   nodeName: Hide Text Container State
@@ -8695,8 +8695,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: -327.8125
-    y: 1326.5854
+    x: -1676.8125
+    y: 413.38538
     width: 110
     height: 55
   nodeName: Text State
@@ -8775,8 +8775,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2087.7952
-    y: 590.6792
+    x: 738.7952
+    y: -322.52112
     width: 110
     height: 55
   nodeName: Text State
@@ -8839,8 +8839,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2907.0044
-    y: 117.43506
+    x: 1558.0042
+    y: -795.76526
     width: 110
     height: 55
   nodeName: Text State
@@ -8909,8 +8909,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4160.8135
-    y: 551.728
+    x: 2811.8132
+    y: -361.4723
     width: 110
     height: 55
   nodeName: Text State
@@ -8953,8 +8953,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2078.6018
-    y: 2767.6787
+    x: 729.60187
+    y: 1854.4779
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -8990,8 +8990,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5042.807
-    y: 2724.7715
+    x: 3693.807
+    y: 1811.5707
     width: 110
     height: 55
   nodeName: Text State
@@ -9034,8 +9034,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 4653.8105
-    y: 2690.9746
+    x: 3304.8103
+    y: 1777.7738
     width: 110
     height: 55
   nodeName: Show Character State
@@ -9074,8 +9074,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1435.0022
-    y: 283.53955
+    x: 86.00217
+    y: -629.66077
     width: 110
     height: 55
   nodeName: Text State
@@ -9145,8 +9145,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3137.2036
-    y: 599.52783
+    x: 1788.2034
+    y: -313.6725
     width: 110
     height: 55
   nodeName: Text State
@@ -9199,8 +9199,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5453.3975
-    y: 851.78564
+    x: 4104.397
+    y: -61.41449
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -9232,8 +9232,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1497.2034
-    y: 1194.1396
+    x: 148.20337
+    y: 280.93958
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -9266,8 +9266,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5414.997
-    y: -909.8718
+    x: 4065.9968
+    y: -1823.0714
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -9300,8 +9300,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2083.196
-    y: 741.1377
+    x: 734.1961
+    y: -172.06247
     width: 110
     height: 55
   nodeName: Change Background State
@@ -9337,8 +9337,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1892.4006
-    y: 1437.435
+    x: 543.4007
+    y: 524.235
     width: 110
     height: 55
   nodeName: Question Branch State
@@ -9374,8 +9374,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1853.3987
-    y: 441.53613
+    x: 504.39874
+    y: -471.66418
     width: 110
     height: 55
   nodeName: Answer State
@@ -9413,8 +9413,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 901.1946
-    y: 917.2915
+    x: -447.80548
+    y: 4.0914
     width: 110
     height: 55
   nodeName: Change Background State
@@ -9450,8 +9450,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5480.999
-    y: 1283.7827
+    x: 4131.9985
+    y: 370.58264
     width: 110
     height: 55
   nodeName: Change Background State
@@ -9487,8 +9487,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2611.4019
-    y: 3722.4727
+    x: 1262.4016
+    y: 2809.2725
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -9524,8 +9524,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5664.5977
-    y: 21.583008
+    x: 4315.597
+    y: -891.6173
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -9558,8 +9558,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 910.7971
-    y: 998.8906
+    x: -438.20294
+    y: 85.69052
     width: 110
     height: 55
   nodeName: Delay State
@@ -9592,8 +9592,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2065.4026
-    y: 127.58301
+    x: 716.40265
+    y: -785.6173
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -9625,8 +9625,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5086.0073
-    y: 2651.1729
+    x: 3737.007
+    y: 1737.972
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -9662,8 +9662,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1742.0022
-    y: 881.0952
+    x: 393.00223
+    y: -32.10492
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -9696,8 +9696,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2042.801
-    y: 1304.7378
+    x: 693.8011
+    y: 391.53772
     width: 110
     height: 55
   nodeName: Change Character Sprite State
@@ -9733,8 +9733,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5445.3965
-    y: -168.06445
+    x: 4096.396
+    y: -1081.2648
     width: 110
     height: 55
   nodeName: Text State
@@ -9787,8 +9787,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1666.0002
-    y: 1213.7827
+    x: 317.00024
+    y: 300.58264
     width: 120
     height: 55
   nodeName: Play Sound FX State
@@ -9824,8 +9824,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5395.997
-    y: -1348.5188
+    x: 4046.9968
+    y: -2261.7183
     width: 110
     height: 55
   nodeName: Delay State
@@ -9858,8 +9858,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 3498.6025
-    y: 380.6631
+    x: 2149.6023
+    y: -532.53723
     width: 110
     height: 55
   nodeName: Text State
@@ -9913,8 +9913,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2550.2007
-    y: 3022.9697
+    x: 1201.2004
+    y: 2109.769
     width: 110
     height: 55
   nodeName: Clear Text State
@@ -9946,8 +9946,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1417.2019
-    y: 450.1377
+    x: 68.20187
+    y: -463.06262
     width: 110
     height: 55
   nodeName: Delay State
@@ -9980,8 +9980,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 2640.601
-    y: 101.23584
+    x: 1291.6008
+    y: -811.9645
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -10014,8 +10014,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 1779.8005
-    y: 1130.8345
+    x: 430.80057
+    y: 217.6344
     width: 110
     height: 55
   nodeName: Text State
@@ -10085,8 +10085,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5422.1973
-    y: -988.2715
+    x: 4073.197
+    y: -1901.4713
     width: 110
     height: 55
   nodeName: Trigger Event State
@@ -10119,8 +10119,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5501.5967
-    y: 145.58301
+    x: 4152.596
+    y: -767.6173
     width: 110
     height: 55
   nodeName: Delay State
@@ -10152,8 +10152,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5111.606
-    y: 2572.7773
+    x: 3762.6057
+    y: 1659.5765
     width: 110
     height: 55
   nodeName: Text State
@@ -10196,8 +10196,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5463.798
-    y: 1056.3379
+    x: 4114.7974
+    y: 143.13782
     width: 120
     height: 55
   nodeName: Stop Music State
@@ -10230,8 +10230,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myRect:
     serializedVersion: 2
-    x: 5462.3945
-    y: 51.381836
+    x: 4113.394
+    y: -861.8185
     width: 120
     height: 55
   nodeName: Play Sound FX State
